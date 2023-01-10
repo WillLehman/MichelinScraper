@@ -1,0 +1,1521 @@
+	Name	Address	City	State	Zipcode	H3 Index	Latitude	Longitude
+0	Sushi Takeda	123 Astronaut Ellison S. Onizuka St., Ste.307	Los Angeles	California	90012	8f29a1d7570b1ae	34.0503344	-118.2419274
+1	Sushi Nikkei	3819 Atlantic Ave.	Long Beach	California	90807	8f29a56add03a99	33.8274727	-118.185128
+2	Shunji	3003 Ocean Park Blvd.	Santa Monica	California	90405	8f29a1981ca974b	34.0202154	-118.4537626
+3	RYLA	1220 Hermosa Ave.	Hermosa Beach	California	90254	8f29a56425044f2	33.8624242	-118.3999149
+4	Moo's Craft Barbecue	2118 N. Broadway	Los Angeles	California	90031	8f29a1d73c6526d	34.0733517	-118.2183724
+5	Mes Amis	1541 Wilcox Ave.	Los Angeles	California	90028	8f29a1d6aa559b3	34.098702	-118.331024
+6	Manzke	9575 W. Pico Blvd.	Los Angeles	California	90035	8f29a199e8418ac	34.0552648	-118.3975655
+7	Lumière	2025 Avenue Of The Stars	Los Angeles	California	90067	8f29a199c74b19c	34.0576053	-118.4153219
+8	Lulu	10899 Wilshire Blvd.	Los Angeles	California	90024	8f29a199d14d296	34.0593881	-118.4436784
+9	Lalibela	1025 S. Fairfax Ave.	Los Angeles	California	90019	8f29a19937720d0	34.0573578	-118.3643785
+10	Ipoh Kopitiam	1411 S. Garfield Ave.	Alhambra	California	91801	8f29a1d0a135932	34.0780108	-118.1230992
+11	Horses	7617 Sunset Blvd.	Los Angeles	California	90046	8f29a1d6951b41c	34.0981132	-118.3555764
+12	Girl & the Goat Los Angeles	555-3 Mateo St.	Los Angeles	California	90013	8f29a1d75c9eb8b	34.0402191	-118.2330344
+13	Flavors from Afar	1046 S. Fairfax Ave.	Los Angeles	California	90019	8f29a1993776035	34.0567917	-118.364391
+14	Fia Steak	2454 Wilshire Blvd.	Santa Monica	California	90403	8f29a198c572368	34.0351143	-118.4785275
+15	Chiang Rai	3832 E. Anaheim St.	Long Beach	California	90804	8f29a56a595c723	33.782478	-118.1490324
+16	Antico Nuovo	4653 Beverly Blvd.	Los Angeles	California	90004	8f29a1d6e54035d	34.0765417	-118.3110212
+17	All Day Baby	3200 Sunset Blvd.	Los Angeles	California	90026	8f29a1d442ada0c	34.0854403	-118.275056
+18	Victor	285 Nevins St.	New York	New York State	11217	8f2a10729a494cb	40.67964	-73.9869041
+19	Yoshino	342 Bowery	New York	New York State	10012	8f2a1072c855a93	40.7262829	-73.9920393
+20	Wenwen	1025 Manhattan Ave.	New York	New York State	11222	8f2a100d0208d93	40.733975	-73.9549668
+21	Wau	434 Amsterdam Ave.	New York	New York State	10025	8f2a1008b951334	40.7844437	-73.9775029
+22	Veranda	23 Grand St.	New York	New York State	10013	8f2a1072c0ac683	40.7228646	-74.0044951
+23	Sweetbriar	127 E. 27th St.	New York	New York State	10016	8f2a100d21462d8	40.7421929	-73.9836118
+24	Sushi Ikumi	135 Sullivan St.	New York	New York State	10012	8f2a1072cc4b0c4	40.7267812	-74.0019736
+25	Rolo's	853 Onderdonk Ave.	New York	New York State	11385	8f2a100c362e11e	40.7019454	-73.9035084
+26	Porcelain	880 Woodward Ave.	New York	New York State	11385	8f2a100c3755549	40.7023529	-73.9015152
+27	Nura	46 Norman Ave.	New York	New York State	11211	8f2a100d14e1786	40.7246919	-73.9534864
+28	Nudibranch	125 First Ave.	New York	New York State	10003	8f2a100d34a4c80	40.727431	-73.9855867
+29	Mel's	85 Tenth Ave.	New York	New York State	10011	8f2a1072185d46c	40.7432849	-74.0076108
+30	Lore	441 7th Ave.	New York	New York State	11215	8f2a107743b12ee	40.6632997	-73.9844453
+31	LittleMäd	110 Madison Ave.	New York	New York State	10016	8f2a100d2123495	40.7450973	-73.9849484
+32	Joomak Banjum	312 Fifth Ave.	New York	New York State	10001	8f2a100d2c6dca9	40.7470482	-73.9857048
+33	Icca	20 Warren St.	New York	New York State	10007	8f2a1072c64ea88	40.7141336	-74.0077126
+34	Gotham	12 E. 12th St.	New York	New York State	10003	8f2a100d2646a13	40.73417	-73.99379
+35	Gage & Tollner	372 Fulton St.	New York	New York State	11201	8f2a10729941426	40.6914325	-73.9876043
+36	Esora Omakase	239 E. 5th St.	New York	New York State	10003	8f2a1072c94b624	40.7270875	-73.9892529
+37	Dame	87 MacDougal St.	New York	New York State	10012	8f2a1072cc62060	40.7290674	-74.0013397
+38	Cómodo	23 Lexington Ave.	New York	New York State	10010	8f2a100d2063282	40.7396	-73.984467
+39	CheLi	19 St. Marks Pl.	New York	New York State	10003	8f2a1072c94482a	40.7291736	-73.9886967
+40	Bonnie's	398 Manhattan Ave.	New York	New York State	11211	8f2a100d174a688	40.7179908	-73.9465461
+41	Barbuto	113 Horatio St.	New York	New York State	10014	8f2a10721aa1226	40.7389461	-74.0093823
+42	Bar Tulix	25 W. Houston St.	New York	New York State	10012	8f2a1072c12c56b	40.7258361	-73.9980256
+43	Ernest	1890 Bryant St, Suite 100	San Francisco	California	94110	8f2830828d2465a	37.7630762	-122.4111166
+44	Good Good Culture Club	3560 18th St.	San Francisco	California	94110	8f283082892d7a9	37.76162	-122.42299
+45	Be.Stéak.Ă	1887 S. Bascom Ave.	Campbell	California	95008	8f283473422e286	37.287535	-121.9322084
+46	Dela Curo	907 Washington St.	Oakland	California	94607	8f28308108f3646	37.8017344	-122.2748232
+47	Birch & Rye	1320 Castro St.	San Francisco	California	94114	8f283082dd3136b	37.7509	-122.43424
+48	Sato Omakase	1122 Post St.	San Francisco	California	94109	8f283082b988a04	37.78704	-122.42029
+49	Sorella	1760 Polk St.	San Francisco	California	94109	8f283082b10dbb0	37.7931112	-122.4210529
+50	Le Fantastique	22 Franklin St.	San Francisco	California	94102	8f28308280736e3	37.7746773	-122.4207902
+51	Abacá	2700 Jones St.	San Francisco	California	94133	8f283082b6e36b3	37.806718	-122.4170585
+52	Miller & Lux	700 Terry A Francois Blvd.	San Francisco	California	94158	8f283082e4408f3	37.7678384	-122.3863769
+53	Stokes Adobe	500 Hartnell St.	Monterey	California	93940	8f291a6de96989a	36.5967104	-121.8961384
+54	San Ho Won	2170 Bryant St.	San Francisco	California	94110	8f283082c79b82b	37.7595744	-122.4100236
+55	Nisei	2316 Polk St.	San Francisco	California	94109	8f283082b05e8b6	37.797982	-122.4221988
+56	Donaji	3161 24th St.	San Francisco	California	94110	8f283082c0adccb	37.752426	-122.415396
+57	Lane 33 Café	494 Soscol Ave.	Napa	California	94559	8f28300520c9235	38.2919949	-122.2777365
+58	The Matheson	106 Matheson St.	Healdsburg	California	95448	8f2831515336a30	38.6103905	-122.8700559
+59	Hawks	1525 Alhambra Blvd.	Sacramento	California	95816	8f2832b15606168	38.5663252	-121.4679448
+60	Sticky Rice	1915 E. Colonial Dr.	Orlando	Florida	32803	8f44a90e589dcce	28.5533549	-81.356518
+61	Michael's Genuine	130 NE. 40th St.	Miami	Florida	33137	8f44a11725ae7a5	25.8133573	-80.1927977
+62	El Turco	184 NE. 50th Terr.	Miami	Florida	33137	8f44a1109b51a63	25.8220009	-80.1918868
+63	Cena	1208 E. Kennedy Blvd.	Tampa	Florida	33602	8f441a89a72e44e	27.9513073	-82.4476003
+64	Ulele	1810 N. Highland Ave.	Tampa	Florida	33602	8f441a89bcdd92b	27.9594956	-82.462424
+65	Columbia	2025 E. 7th Ave.	Tampa	Florida	33605	8f441ac693402c6	27.96025	-82.4357
+66	Mandolin Aegean Bistro	4312 NE. 2nd Ave.	Miami	Florida	33137	8f44a11724a2358	25.8158091	-80.1915611
+67	On Swann	1501 W. Swann Ave.	Tampa	Florida	33606	8f441a89888b0f6	27.9373495	-82.475075
+68	Elcielo Miami	31 SE. 5th St.	Miami	Florida	33131	8f44a112bd28429	25.7695211	-80.1915242
+69	Niu Kitchen	104 NE. 2nd Ave.	Miami	Florida	33132	8f44a112bcedc63	25.7753022	-80.1903736
+70	Kabooki Sushi	3122 E. Colonial Dr.	Orlando	Florida	32803	8f44a90e42c644e	28.5531215	-81.341509
+71	Kadence	1809 Winter Park Rd.	Orlando	Florida	32803	8f44a90e1d06c15	28.5687259	-81.3458703
+72	Swine & Sons	669 N. Orange Ave.	Orlando	Florida	32789	8f44a90ec51d16a	28.5926125	-81.3573538
+73	L'Atelier de Joël Robuchon Miami	151 NE. 41st St.	Miami	Florida	33137	8f44a117258e6e1	25.814444	-80.1921438
+74	Élevage SoHo Kitchen & Bar	1207 S. Howard Ave.	Tampa	Florida	33606	8f441a89c2eb921	27.93143	-82.48311
+75	Bachour	2020 Salzedo St.	Coral Gables	Florida	33134	8f44a18d89ad8c1	25.7539198	-80.2610106
+76	Four Flamingos, A Richard Blais Florida Kitchen	1 Grand Cypress Blvd.	Orlando	Florida	32836	8f44a9162146cb3	28.3821588	-81.5097444
+77	The Den at Azabu Miami Beach	161 Ocean Dr.	Miami Beach	Florida	33139	8f44a1103c52a81	25.7704634	-80.1326776
+78	Josh's Deli	9517 Harding Ave.	Surfside	Florida	33154	8f44a10059b5624	25.8860707	-80.1234011
+79	Maxine's on Shine	337 N. Shine Ave.	Orlando	Florida	32803	8f44a900b28b022	28.5472456	-81.3621309
+80	Haven	2208 W. Morrison Ave.	Tampa	Florida	33606	8f441a89d5930e5	27.93375	-82.4828388
+81	Restaurant BT	2507 S. Macdill Ave.	Tampa	Florida	33629	8f441a88368ccf2	27.923091	-82.4935806
+82	JATTÖ	223 NW. 23rd St.	Miami	Florida	33127	8f44a110db65593	25.7995573	-80.1993365
+83	Zak The Baker	295 NW. 26th St.	Miami	Florida	33127	8f44a11766a6c4e	25.8015176	-80.2009939
+84	Knife & Spoon	4012 Central Florida Pkwy.	Orlando	Florida	32837	8f44a9156b532f5	28.4056024	-81.4293671
+85	Rooster and the Till	6500 N. Florida Ave.	Tampa	Florida	33604	8f441a1311496c6	28.0068343	-82.459512
+86	Yummy House	2620 E. Hillsborough Ave.	Tampa	Florida	33610	8f441a132b6a0eb	27.996141	-82.429634
+87	Olivia	3601 W. Swann Ave.	Tampa	Florida	33609	8f441a89daad593	27.93755	-82.5021772
+88	Bistro BT	4267 Henderson Blvd.	Tampa	Florida	33629	8f441a88ec407b0	27.9252675	-82.5157619
+89	Domu	3201 Corrine Dr.	Orlando	Florida	32803	8f44a90e0a58076	28.5679469	-81.3433285
+90	Tori Tori	720 N. Mills Ave.	Orlando	Florida	32803	8f44a905649eb5d	28.5539463	-81.3646633
+91	Se7en Bites	617 N. Primrose Dr.	Orlando	Florida	32803	8f44a90e5c91cae	28.5519385	-81.347241
+92	Stubborn Seed	101 Washington Ave.	Miami Beach	Florida	33139	8f44a1103c6ed4d	25.770023	-80.135047
+93	Kyu	251 NW 25th St.	Miami	Florida	33127	8f44a110db6d232	25.800797	-80.2001322
+94	Ichicoro Ramen	5229 N. Florida Ave.	Tampa	Florida	33603	8f441a13564c685	27.9946304	-82.4594154
+95	Mise en Place	442 W. Kennedy Blvd.	Tampa	Florida	33606	8f441a8987b4531	27.945	-82.46525
+96	Bombay Street Kitchen	6215 S. Orange Blossom Trl.	Orlando	Florida	32809	8f44a90285453a9	28.467152	-81.3961169
+97	DOYA	347 NW. 24th St.	Miami	Florida	33127	8f44a1176780794	25.7999753	-80.201337
+98	Doce Provisions	541 SW 12th Ave.	Miami	Florida	33130	8f44a1129c65b8e	25.7679401	-80.2142528
+99	Los Félix	3413 Main Hwy.	Miami	Florida	33133	8f44a18d146c942	25.7276768	-80.2428184
+100	Strand	807 N. Mills Ave.	Orlando	Florida	32803	8f44a90e5b31d06	28.5553237	-81.3643236
+101	La Camaronera	1952 W. Flagler St.	Miami	Florida	33135	8f44a18da4c9a48	25.7725067	-80.2275058
+102	Kai Asian Street Fare	1555 State Rd. 436	Orlando	Florida	32792	8f44a90c11300ac	28.623302	-81.315468
+103	Joe's Stone Crab	11 Washington Ave.	Miami Beach	Florida	33139	8f44a1103c65d90	25.769113	-80.1351466
+104	The Surf Club Restaurant	9011 Collins Ave.	Surfside	Florida	33154	8f44a1023716982	25.878331	-80.1216265
+105	The Ravenous Pig	565 W. Fairbanks Ave.	Orlando	Florida	32789	8f44a90ec43454e	28.5932612	-81.3561373
+106	Z Asian	1830 E. Colonial Dr.	Orlando	Florida	32803	8f44a90e58aa299	28.5529753	-81.3576352
+107	California Grill	4600 North World Dr.	Orlando	Florida	32830	8f44a916dd03bb5	28.414973	-81.5745913
+108	Phuc Yea	7100 Biscayne Blvd.	Miami	Florida	33138	8f44a1156b046c9	25.8403537	-80.1844276
+109	Sushi Yasu Tanaka	140 NE. 39th St.	Miami	Florida	33137	8f44a11725b5224	25.8124631	-80.192069
+110	Prato	124 N. Park Ave.	Orlando	Florida	32789	8f44a90eeb166dd	28.5983654	-81.3509796
+111	Papa Llama	2840 Curry Ford Rd.	Orlando	Florida	32806	8f44a900a0556e8	28.5239631	-81.3464706
+112	La Natural	7289 NW 2nd Ave.	Miami	Florida	33150	8f44a1154303094	25.8422037	-80.200688
+113	Koya	807 W. Platt St.	Tampa	Florida	33606	8f441a898549091	27.94191	-82.46831
+114	Shin Jung	1638 E. Colonial Dr.	Orlando	Florida	32803	8f44a90e581a098	28.5529122	-81.3587859
+115	Luca Osteria	116 Giralda Ave.	Coral Gables	Florida	33134	8f44a18dc6c5da5	25.7514828	-80.2574719
+116	27 Restaurant & Bar	2727 Indian Creek Dr.	Miami Beach	Florida	33140	8f44a111d670d4d	25.8044276	-80.1265161
+117	Pao by Paul Qui	3201 Collins Ave.	Miami Beach	Florida	33140	8f44a111d6dd11d	25.8072484	-80.1237473
+118	Mister O1 Extraordinary Pizza	1680 Michigan Ave.	Miami Beach	Florida	33139	8f44a110e49c9a0	25.7915713	-80.1389949
+119	Hiden	313 NW. 25th St.	Miami	Florida	33127	8f44a117679d05a	25.8008242	-80.2012828
+120	Hoja Taqueria	3120 Collins Ave.	Miami Beach	Florida	33140	8f44a111d6c1c42	25.806648	-80.124256
+121	Zitz Sum	396 Alhambra Cir.	Coral Gables	Florida	33134	8f44a18dc29b855	25.7515213	-80.2625275
+122	Ravello	10100 Dream Tree Blvd.	Orlando	Florida	32836	8f44a9161668676	28.4030199	-81.5438513
+123	Cítricos	4401 Floridian Way	Orlando	Florida	32830	8f44a9b93204c4b	28.410967	-81.5873008
+124	Steelbach	1902 N. Ola Ave.	Tampa	Florida	33602	8f441a89b19082d	27.96083	-82.46376
+125	Oak & Ola	1910 N. Ola Ave.	Tampa	Florida	33602	8f441a89b1944c9	27.9606172	-82.4635688
+126	Timpano	1610 W. Swann Ave.	Tampa	Florida	33606	8f441a8988d4971	27.93735	-82.47606
+127	Latin Cafe	875 NW. 42nd Ave.	Miami	Florida	33126	8f44a18d94e16c9	25.7804487	-80.2638523
+128	Red Rooster Overtown	920 NW. 2nd Ave.	Miami	Florida	33136	8f44a112b32686a	25.782892	-80.198026
+129	Mignonette	210 NE. 18th St.	Miami	Florida	33132	8f44a110d98921e	25.793416	-80.1906106
+130	The Pinery	295 NE. Ivanhoe Blvd.	Orlando	Florida	32804	8f44a9052983ca8	28.5655889	-81.3735524
+131	Bern’s Steak House	1208 S. Howard Ave	Tampa	Florida	33606	8f441a89c2eb421	27.93162	-82.48282
+132	Primo	4040 Central Florida Pkwy.	Orlando	Florida	32837	8f44a9156b359a3	28.4014492	-81.4283321
+133	Hometown Barbecue Miami	1200 NW. 22nd St.\r\n#100	Miami	Florida	33142	8f44a1176af082c	25.7976937	-80.2154214
+134	Taquiza	7450 Ocean Terrace	Miami Beach	Florida	33141	8f44a1022a03910	25.8605169	-80.1199036
+135	Kojin	8222 NE. 2nd Ave.	Miami	Florida	33138	8f44a115099da00	25.8502434	-80.1930584
+136	La Mar by Gastón Acurio	500 Brickell Key Dr.	Miami	Florida	33131	8f44a112aa1e383	25.765803	-80.1851609
+137	Hawkers	1103 N. Mills Ave.	Orlando	Florida	32803	8f44a90e5a082c4	28.5605971	-81.3643405
+138	Nossa Omakase	1600 Collins Ave.	Miami Beach	Florida	33139	8f44a111d8b678a	25.7893656	-80.1303069
+139	Lung Yai Thai Tapas	1731 SW 8th St.	Miami	Florida	33135	8f44a1129961d49	25.7658469	-80.2230997
+140	Havana Harry's	4612 S. Le Jeune Rd.	Coral Gables	Florida	33146	8f44a18c26ab0d0	25.7291466	-80.2618992
+141	Morimoto Asia	1600 E. Buena Vista Dr.	Orlando	Florida	32830	8f44a9160d83392	28.36873	-81.522942
+142	Le Zoo	9700 Collins Ave.	Miami Beach	Florida	33154	8f44a1005988115	25.8881239	-80.1240558
+143	Boia De	5205 NE. 2nd Ave.	Miami	Florida	33137	8f44a1109a71181	25.8239451	-80.1914519
+144	Macchialina	820 Alton Rd.	Miami Beach	Florida	33139	8f44a1103a8b465	25.7785114	-80.1409833
+145	Rocca	323 W. Palm Ave.	Tampa	Florida	33602	8f441a89b199223	27.96251	-82.4646
+146	Ghee Indian Kitchen	8965 SW 72nd Pl.	Miami	Florida	33156	8f44a18e356ea86	25.6870318	-80.3127412
+147	Leku	1100 NW. 23rd St.	Miami	Florida	33127	8f44a1176ad28de	25.7988671	-80.214254
+148	Capa	10100 Dream Tree Blvd.	Orlando	Florida	32836	8f44a916166861e	28.4030152	-81.5438057
+149	Jia	808 1st St.	Miami Beach	Florida	33139	8f44a1103891480	25.7698316	-80.1361112
+150	Los Fuegos by Francis Mallmann	3201 Collins Ave.	Miami Beach	Florida	33140	8f44a111d6dd6d6	25.807485	-80.1235918
+151	Selam	5494 Central Florida Pkwy.	Orlando	Florida	32821	8f44a9155d9b8ec	28.4070133	-81.4502902
+152	Lucali	1930 Bay Rd.	Miami Beach	Florida	33139	8f44a110e7a24d8	25.7948536	-80.1438865
+153	Cafe La Trova	971 SW. 8th St.	Miami	Florida	33130	8f44a1129c3315e	25.7662072	-80.2102565
+154	Cote Miami	3900 NE. 2nd Ave.	Miami	Florida	33137	8f44a11725b3072	25.812906	-80.1914524
+155	Ariete	3540 Main Hwy.	Miami	Florida	33133	8f44a18d118e415	25.7250911	-80.2452564
+156	Le Jardinier Miami	151 NE. 41st St.	Miami	Florida	33137	8f44a117258819e	25.814538	-80.192481
+157	Black Rooster Taqueria	1323 N. Mills Ave.	Orlando	Florida	32803	8f44a90e5ae96d1	28.562959	-81.3643146
+158	Bacán	6100 Wave Hotel Dr.	Orlando	Florida	32837	8f44a9181a8cadb	28.3715214	-81.2509488
+159	Itamae	140 NE. 39th St.	Miami	Florida	33137	8f44a11725a0ce3	25.8124341	-80.192643
+160	Buya Izakaya + Yakitori	250 NW. 24th St.	Miami	Florida	33127	8f44a1176792762	25.8000278	-80.1998574
+161	Krüs Kitchen	3413 Main Hwy.	Miami	Florida	33133	8f44a18d146cd70	25.7276394	-80.2426489
+162	Chug's Diner	3444 Main Hwy.	Miami	Florida	33133	8f44a18d1090749	25.7274358	-80.2432039
+163	Hakkasan Miami	4441 Collins Ave.	Miami Beach	Florida	33140	8f44a1119013553	25.8179645	-80.1221771
+164	Pizza Bruno	3990 Curry Ford Rd.	Orlando	Florida	32806	8f44a900a4c2b52	28.5241442	-81.3353562
+165	Tigre	620 NE. 78th St.	Miami	Florida	33138	8f44a1156ae981a	25.8468435	-80.1842688
+166	Soseki	955 W. Fairbanks Ave.	Orlando	Florida	32789	8f44a905337366e	28.5963959	-81.39352
+167	Orno	1350 S. Dixie Hwy.	Coral Gables	Florida	33146	8f44a18c05826a4	25.7127669	-80.2788498
+168	The Polite Pig	1536 Buena Vista Dr.	Orlando	Florida	32830	8f44a9160c227ab	28.3696753	-81.5254913
+169	Tinta y Cafe	1315 Ponce De Leon Blvd.	Coral Gables	Florida	33134	8f44a18d8121834	25.7592116	-80.2586961
+170	Navé	3540 Main Hwy.	Miami	Florida	33133	8f44a18d119d80c	25.7250933	-80.2451141
+171	MILA	1636 Meridian Ave.	Miami Beach	Florida	33139	8f44a111d95808d	25.7900371	-80.1365933
+172	Orlando Meats	1035 N. Orlando Ave.	Orlando	Florida	32789	8f44a90e890e971	28.6073855	-81.3653682
+173	Estiatorio Milos	730 1st St.	Miami Beach	Florida	33139	8f44a1103c6c99c	25.7698852	-80.1355092
+174	Sanguich De Miami	2057 SW. 8th St.	Miami	Florida	33135	8f44a18da50cc72	25.7655471	-80.2287433
+175	Hiyakawa Miami	2700 N. Miami Ave.	Miami	Florida	33127	8f44a110da19955	25.8026213	-80.1952187
+176	Versailles	3555 SW. 8th St.	Miami	Florida	33135	8f44a18d809844e	25.7648694	-80.2529448
+177	Sear + Sea	14900 Chelonia Pkwy.	Orlando	Florida	32821	8f44a91644536d4	28.35886	-81.5272783
+178	Tacos Güey	37 W. 19th St.	New York	New York State	10011	8f2a100d272222c	40.7397421	-73.9931974
+179	Soda Club	155 Avenue B	New York	New York State	10009	8f2a100d3550028	40.7266603	-73.9798982
+180	SAGA	70 Pine St.	New York	New York State	10005	8f2a107288e92a4	40.706144	-74.0078519
+181	Reserve by Amor y Amargo	95 Avenue A	New York	New York State	10009	8f2a100d3418d90	40.7256488	-73.9839778
+182	Noz17	458 W. 17th St.	New York	New York State	10011	8f2a1072186a30e	40.7435866	-74.0058783
+183	Mari	679 Ninth Ave.	New York	New York State	10036	8f2a10725b35480	40.7615587	-73.9904647
+184	Le Pavillon	1 Vanderbilt Ave.	New York	New York State	10017	8f2a100d666a8a4	40.752517	-73.9783692
+185	Fradei	99 S. Portland Ave.	New York	New York State	11217	8f2a100da08394d	40.6865018	-73.9747211
+186	Falansai	112 Harrison Pl.	New York	New York State	11237	8f2a100dc0a1a60	40.7068	-73.92877
+187	Dumpling Lab	214 E. 9th St.	New York	New York State	10003	8f2a1072c9666cc	40.7296546	-73.9884975
+188	Dhamaka	119 Delancey St.	New York	New York State	10002	8f2a1072ca45d52	40.7183105	-73.9881503
+189	Dagon	2454 Broadway	New York	New York State	10024	8f2a10088388a09	40.7913396	-73.973962
+190	The Commerce Inn	50 Commerce St.	New York	New York State	10014	8f2a1072cc10800	40.7313677	-74.0056112
+191	Ci Siamo	385 Ninth Ave.	New York	New York State	10001	8f2a1072535c40d	40.751896	-73.99762
+192	Chutney Masala	76 Main St.	Irvington	New York State	10533	8f2a101b5a02c6c	41.0391615	-73.8684871
+193	Chick Chick	618 Amsterdam Ave.	New York	New York State	10024	8f2a10088215626	40.79022	-73.97339
+194	Casa Dani	448 W. 33rd St.	New York	New York State	10001	8f2a1072530bc1d	40.7534938	-73.9987615
+195	Carne Mare	89 South St.	New York	New York State	10038	8f2a1072d49ba69	40.7059282	-74.0023332
+196	Archie's Tap & Table	536 City Island Ave.	New York	New York State	10464	8f2a10000605148	40.852904	-73.789605
+197	Antoya	37 W. 32nd St.	New York	New York State	10001	8f2a100d2c621aa	40.7480409	-73.9872087
+198	Imperfecto: The Chef's Table	1124 23rd St. NW	Washington	District of Columbia	20037	8f2aa84ed2d6b32	38.9039056	-77.0505927
+199	Shōtō	1100 15th St. NW	Washington	District of Columbia	20005	8f2aa845ac2dc2c	38.9038028	-77.0346039
+200	Patty O's Cafe & Bakery	389 Main St.	Washington	District of Columbia	22747	8f2aaa729c92b60	38.7109794	-78.1605748
+201	Family Ethiopian	1414 9th St. NW	Washington	District of Columbia	20001	8f2aa845e76a686	38.9092821	-77.0242099
+202	Residents Cafe & Bar	1306 18th St. NW	Washington	District of Columbia	20036	8f2aa84edaca5b1	38.907818	-77.0417544
+203	Stellina Pizzeria	399 Morse St. NE	Washington	District of Columbia	20002	8f2aa845c6ed64b	38.9079122	-77.0000413
+204	Timber Pizza Co	809 Upshur St. NW	Washington	District of Columbia	20011	8f2aa84502f519d	38.942	-77.02382
+205	The Pembroke	1500 New Hampshire Ave. NW	Washington	District of Columbia	20036	8f2aa84eda8eae0	38.9104712	-77.0433532
+206	Supra	1205 11th St. NW	Washington	District of Columbia	20001	8f2aa845e64a573	38.90597	-77.027
+207	The Setting	2512 Pennsylvania Ave. NW	Washington	District of Columbia	20037	8f2aa84e9933c8e	38.9038449	-77.0538981
+208	Unconventional Diner	1207 9th St.	Washington	District of Columbia	20001	8f2aa845e29b8dc	38.906124	-77.02381
+209	Rose’s Luxury	717 8th St. SE	Washington	District of Columbia	20003	8f2aa8459092022	38.8806478	-76.9950588
+210	The Bombay Club	815 Connecticut Ave. NW	Washington	District of Columbia	20006	8f2aa845acc548d	38.90126	-77.038155
+211	Zaytinya	701 9th St. NW	Washington	District of Columbia	20001	8f2aa845a84e664	38.8985405	-77.0238266
+212	Sfoglina	4445 Connecticut Ave. NW	Washington	District of Columbia	20008	8f2aa8452795a46	38.9466859	-77.0644436
+213	The Red Hen	1822 1st St. NW	Washington	District of Columbia	20001	8f2aa845eb8c8e1	38.914898	-77.01227
+214	Rappahannock Oyster Bar	1309 5th St. NE	Washington	District of Columbia	20002	8f2aa845c646a4d	38.908822	-76.997972
+215	Swahili Village	1990 M St. NW	Washington	District of Columbia	20036	8f2aa84ed35e756	38.9055968	-77.0446353
+216	Philotimo	1100 15th St. NW	Washington	District of Columbia	20005	8f2aa845ac2dd73	38.903814	-77.034572
+217	Jaleo	480 7th St. NW	Washington	District of Columbia	20004	8f2aa845ab1d672	38.89605	-77.02215
+218	Marcel's	2401 Pennsylvania Ave. NW	Washington	District of Columbia	20037	8f2aa84e9923c0b	38.90355	-77.05231
+219	Indigo	243 K St. NE	Washington	District of Columbia	20002	8f2aa845889d7b6	38.90241	-77.002235
+220	Gravitas	1401 Okie St. NE	Washington	District of Columbia	20002	8f2aa845caa1242	38.9146396	-76.9845997
+221	Pearl Dive Oyster Palace	1612 14th St. NW	Washington	District of Columbia	20009	8f2aa845e782653	38.91176	-77.03204
+222	Xiquet	2404 Wisconsin Ave. NW	Washington	District of Columbia	20007	8f2aa84ec65910b	38.9215871	-77.0723834
+223	Rooster & Owl	2436 14th St. NW	Washington	District of Columbia	20009	8f2aa845324ea83	38.9214669	-77.0321599
+224	Ris	2275 L St. NW	Washington	District of Columbia	20037	8f2aa84ed2d4b49	38.90384	-77.04993
+225	Toki Underground	1234 H St. NE	Washington	District of Columbia	20002	8f2aa845d4f4ca9	38.900337	-76.98891
+226	Thip Khao	3462 14th St. NW	Washington	District of Columbia	20010	8f2aa84531634dc	38.932957	-77.032845
+227	Keren	1780 Florida Ave. NW	Washington	District of Columbia	20009	8f2aa84ed850a71	38.916874	-77.04129
+228	Masseria	1340 4th St. NE	Washington	District of Columbia	20002	8f2aa845c672619	38.909504	-76.99908
+229	The Partisan	709 D St. NW	Washington	District of Columbia	20004	8f2aa845aa206c2	38.8949	-77.0224
+230	Kaliwa	751 Wharf St. SW	Washington	District of Columbia	20024	8f2aa845b46e852	38.878735	-77.02449
+231	Cane	403 H St. NE	Washington	District of Columbia	20002	8f2aa84588d8d1b	38.9001399	-77.000327
+232	Lapis	1847 Columbia Rd. NW	Washington	District of Columbia	20009	8f2aa84ed9aa559	38.921295	-77.043915
+233	Fiola	601 Pennsylvania Ave. NW	Washington	District of Columbia	20004	8f2aa845aa60d31	38.89283	-77.01991
+234	Taqueria Habanero	3710 14th St. NW	Washington	District of Columbia	20010	8f2aa84538aa82b	38.9374907	-77.0328526
+235	Queen’s English	3410 11th St. NW	Washington	District of Columbia	20010	8f2aa8453b8c828	38.9321904	-77.0284644
+236	Royal	501 Florida Ave. NW	Washington	District of Columbia	20001	8f2aa845e15e88a	38.914955	-77.018555
+237	Thai X-ing	2020 9th St. NW	Washington	District of Columbia	20000	8f2aa845e1828f2	38.9176	-77.02411
+238	The Dabney	122 Blagden Alley NW	Washington	District of Columbia	20001	8f2aa845e669a5c	38.9062921	-77.0245936
+239	Métier	1015 7th St. NW	Washington	District of Columbia	20001	8f2aa845e2db612	38.903503	-77.0218
+240	Reveler's Hour	1777 Columbia Rd. NW	Washington	District of Columbia	20009	8f2aa845364d543	38.9232554	-77.0420426
+241	Rasika	633 D St. NW	Washington	District of Columbia	20004	8f2aa845aa25289	38.894913	-77.02162
+242	Tsehay	3630 Georgia Ave. NW	Washington	District of Columbia	20010	8f2aa845149d434	38.9349934	-77.0241457
+243	Rumi's Kitchen	640 L St. NW	Washington	District of Columbia	20001	8f2aa845e2dd590	38.9041169	-77.021052
+244	Tiger Fork	922 N St. NW	Washington	District of Columbia	20001	8f2aa845e66c259	38.9068986	-77.0248225
+245	Sushi Nakazawa	1100 Pennsylvania Ave. NW	Washington	District of Columbia	20004	8f2aa845aaa264a	38.8946236	-77.0270052
+246	Shilling Canning Company	360 Water St. SE	Washington	District of Columbia	20003	8f2aa845969d38a	38.8738926	-77.0011749
+247	Seven Reasons	2208 14th St. NW	Washington	District of Columbia	20009	8f2aa845e5add36	38.919553	-77.0320944
+248	1789	1226 36th St. NW	Washington	District of Columbia	20007	8f2aa84e8aca675	38.906	-77.07034
+249	Sonoma	223 Pennsylvania Ave. SE	Washington	District of Columbia	20003	8f2aa84582e8750	38.887154	-77.002625
+250	The Inn at Little Washington	309 Middle St.	Washington	District of Columbia	22747	8f2aaa72836cd8b	38.7134767	-78.1595348
+251	The Imperial	2001 18th St. NW	Washington	District of Columbia	20009	8f2aa84ed854655	38.9171787	-77.0414275
+252	Ivy City Smokehouse	1356 Okie St. NE	Washington	District of Columbia	20002	8f2aa845ca85096	38.9144387	-76.98566
+253	Oyamel	401 7th St. NW	Washington	District of Columbia	20004	8f2aa845aa21d62	38.89489	-77.02183
+254	Joselito Casa de Comidas	660 Pennsylvania Ave. SE	Washington	District of Columbia	20003	8f2aa845952a8e5	38.88506	-76.996544
+255	Federalist Pig	1654 Columbia Rd. NW	Washington	District of Columbia	20009	8f2aa84532b1670	38.9250921	-77.0389877
+256	Hitching Post	200 Upshur St. NW	Washington	District of Columbia	20011	8f2aa8451c16426	38.94222	-77.01365
+257	Makan	3400 11th St. NW	Washington	District of Columbia	20010	8f2aa8453b8dc13	38.9318821	-77.0284184
+258	dLeña	476 K St. NW	Washington	District of Columbia	20001	8f2aa8458582cad	38.9024381	-77.0186145
+259	Apéro	2622 P St. NW	Washington	District of Columbia	20007	8f2aa84ed708271	38.9093401	-77.0554435
+260	Honeymoon Chicken	4201 Georgia Ave. NW	Washington	District of Columbia	20011	8f2aa8450289156	38.9418882	-77.0254729
+261	Officina	1120 Maine Ave. SW	Washington	District of Columbia	20024	8f2aa845b58aca6	38.8825852	-77.0307593
+262	Fancy Radish	600 H St. NE	Washington	District of Columbia	20000	8f2aa84588ed229	38.900322	-76.997
+263	Ellē	3221 Mt. Pleasant St. NW	Washington	District of Columbia	20010	8f2aa845301c0c6	38.93187	-77.03842
+264	Del Mar	791 Wharf St. SW	Washington	District of Columbia	20024	8f2aa845b463a1d	38.87896	-77.02477
+265	Ambar	523 8th St. SE	Washington	District of Columbia	20003	8f2aa845954e229	38.881943	-76.995125
+266	Bidwell	1309 5th St. NE	Washington	District of Columbia	20002	8f2aa845c640ce4	38.90871	-76.99799
+267	Blue Duck Tavern	1201 24th St. NW	Washington	District of Columbia	20037	8f2aa84ed281483	38.905373	-77.05128
+268	Café Riggs	900 F St. NW	Washington	District of Columbia	20004	8f2aa845aba0b04	38.8975559	-77.0242625
+269	Anju	1805 18th St. NW	Washington	District of Columbia	20009	8f2aa84edb86b15	38.914346	-77.0419403
+270	Albi	1346 4th St. SE	Washington	District of Columbia	20003	8f2aa845969d95b	38.8741148	-77.0009665
+271	Bammy's	301 Water St. SE	Washington	District of Columbia	20003	8f2aa845969d0eb	38.873954	-77.0011887
+272	Tonari	707 6th St. NW	Washington	District of Columbia	20001	8f2aa845848a998	38.898672	-77.0198066
+273	San Lorenzo	1316 9th St. NW	Washington	District of Columbia	20001	8f2aa845e296b68	38.9078492	-77.0240655
+274	Reverie	3201 Cherry Hill Ln.NW	Washington	District of Columbia	20007	8f2aa84e9d0ba42	38.90346	-77.06323
+275	Zenebech	2420 18th St. NW	Washington	District of Columbia	20009	8f2aa84ed9adb92	38.9213438	-77.0424732
+276	minibar	855 E St. NW	Washington	District of Columbia	20004	8f2aa845aba9daa	38.896294	-77.02386
+277	Ottoman Taverna	425 I St. NW	Washington	District of Columbia	20001	8f2aa84585a94c1	38.901665	-77.01634
+278	Das	1201 28th St. NW	Washington	District of Columbia	20007	8f2aa84ed653a20	38.905346	-77.056946
+279	Tail Up Goat	1827 Adams Mill Rd. NW	Washington	District of Columbia	20009	8f2aa845364a96e	38.9232785	-77.0428198
+280	Sushi Taro	1503 17th St. NW	Washington	District of Columbia	20036	8f2aa84eda72605	38.909992	-77.03834
+281	Sushi Ogawa	2100 Connecticut Ave. NW	Washington	District of Columbia	20008	8f2aa84ed898384	38.91801	-77.04756
+282	Sababa	3311 Connecticut Ave. NW	Washington	District of Columbia	20008	8f2aa84ec851ba9	38.933838	-77.05726
+283	Obelisk	2029 P St. NW	Washington	District of Columbia	20036	8f2aa84ed332ce3	38.90977	-77.046486
+284	Pineapple and Pearls	715 8th St. SE	Washington	District of Columbia	20003	8f2aa84590921b2	38.880707	-76.99514
+285	BlackSalt	4883 MacArthur Blvd.	Washington	District of Columbia	20007	8f2aa84ea976531	38.917763	-77.096695
+286	Bresca	1906 14th St. NW	Washington	District of Columbia	20000	8f2aa845e40a660	38.91584	-77.0321
+287	La Bise	800 Connecticut Ave. NW	Washington	District of Columbia	20006	8f2aa845acce344	38.9003397	-77.0382383
+288	Cranes	724 9th St. NW	Washington	District of Columbia	20001	8f2aa845a8422f2	38.8991984	-77.0244107
+289	Oyster Oyster	1440 8th St.	Washington	District of Columbia	20001	8f2aa845e769d36	38.90932	-77.0230773
+290	Maydān	1346 Florida Ave. NW	Washington	District of Columbia	20000	8f2aa845e5150b1	38.92013	-77.03105
+291	Maketto	1351 H St. NE	Washington	District of Columbia	20002	8f2aa845d40bd70	38.900124	-76.986694
+292	Karma Modern Indian	611 I St. NW	Washington	District of Columbia	20001	8f2aa84584b6605	38.900967	-77.0206
+293	Fiola Mare	3050 K St. NW, Ste. 101	Washington	District of Columbia	20007	8f2aa84e9d41a81	38.9021582	-77.060849
+294	Maïz64	1324 14th St. NW	Washington	District of Columbia	20005	8f2aa845e68d682	38.908099	-77.032349
+295	Lutèce	1522 Wisconsin Ave. NW	Washington	District of Columbia	20007	8f2aa84e8b5da70	38.9093379	-77.0644252
+296	Astoria DC	1521 17th St. NW	Washington	District of Columbia	20036	8f2aa84eda0dc82	38.9106102	-77.0386833
+297	Chloe	1331 4th St. SE	Washington	District of Columbia	20003	8f2aa845968076d	38.874672	-77.000694
+298	Laos in Town	250 K St. NE	Washington	District of Columbia	20002	8f2aa845889c36b	38.9026341	-77.0021729
+299	L’Ardente	200 Massachusetts Ave. NW	Washington	District of Columbia	20001	8f2aa84584290a1	38.8992259	-77.0138325
+300	Kinship	1015 7th St. NW	Washington	District of Columbia	20001	8f2aa845a97512e	38.903282	-77.0218
+301	Hank’s Oyster Bar	1624 Q St. NW	Washington	District of Columbia	20009	8f2aa84eda2b986	38.91101	-77.03817
+302	Millie’s	4866 Massachusetts Ave. NW	Washington	District of Columbia	20016	8f2aa84e3b4498d	38.94518	-77.096275
+303	Lupo Verde	1401 T St. NW	Washington	District of Columbia	20009	8f2aa845e4e4b31	38.9156341	-77.0320239
+304	Doi Moi	1800 14th St. NW	Washington	District of Columbia	20009	8f2aa845e4e888e	38.91423	-77.03204
+305	Daru	1451 Maryland Ave. NE	Washington	District of Columbia	20002	8f2aa845d4624d0	38.8997152	-76.984322
+306	Convivial	801 O St. NW	Washington	District of Columbia	20001	8f2aa845e2b6bab	38.908691	-77.0231087
+307	Moon Rabbit	801 Wharf St. SW	Washington	District of Columbia	20024	8f2aa845b4606d9	38.8792112	-77.0249266
+308	El Secreto de Rosita	1624 U St. NW	Washington	District of Columbia	20009	8f2aa845e493c4d	38.9168755	-77.0376936
+309	Chercher	1334 9th St. NW	Washington	District of Columbia	20001	8f2aa845e7490e9	38.9082104	-77.0241406
+310	Jônt	1906 14th St. NW	Washington	District of Columbia	20009	8f2aa845e40a623	38.9158847	-77.0321498
+311	Annabelle	2132 Florida Ave. NW	Washington	District of Columbia	20008	8f2aa84ed15a20a	38.9127449	-77.0475771
+312	Chaplin's	1501 9th St. NW	Washington	District of Columbia	20001	8f2aa845e745a23	38.9097194	-77.0240574
+313	Dauphine's	1100 15th St. NW	Washington	District of Columbia	20005	8f2aa845ad5259d	38.9044539	-77.0349271
+314	Bar Chinois	455 I St. NW	Washington	District of Columbia	20001	8f2aa84587141a9	38.8956438	-77.012238
+315	China Chilcano	418 7th St. NW	Washington	District of Columbia	20004	8f2aa845aa240c0	38.8954	-77.02198
+316	Estuary	950 New York Ave. NW	Washington	District of Columbia	20001	8f2aa845a82a0d8	38.9014894	-77.0252837
+317	Little Pearl	921 Pennsylvania Ave. SE	Washington	District of Columbia	20003	8f2aa845956186e	38.8833557	-76.9936368
+318	Michele's	1201 K St. NW	Washington	District of Columbia	20005	8f2aa845a8a5872	38.9025771	-77.0283809
+319	Georgia Brown’s	950 15th St. NW	Washington	District of Columbia	20005	8f2aa845ac71440	38.9021648	-77.0345974
+320	Menya Hosaki	845 Upshur St. NW	Washington	District of Columbia	20011	8f2aa84502f08ec	38.9419914	-77.024186
+321	ala	1320 19th St. NW	Washington	District of Columbia	20036	8f2aa84ed329288	38.907783	-77.0435929
+322	Elcielo D.C.	1280 4th St. NE	Washington	District of Columbia	20002	8f2aa845c650c0e	38.9090145	-76.9994792
+323	Bar Mar	120 N. Wacker Dr.	Chicago	Illinois	60606	8f2664c1ad54666	41.883522	-87.63707
+324	Nhà Hàng Vietnam	1032 W. Argyle St.	Chicago	Illinois	60640	8f2664d89ce3333	41.9733563	-87.6561083
+325	The Coach House by Wazwan	1742 W. Division St.	Chicago	Illinois	60622	8f2664cac3302f0	41.9033583	-87.6715241
+326	Tortello Pastificio	1746 W. Division St.	Chicago	Illinois	60622	8f2664cac333180	41.9031827	-87.6718213
+327	Elina's	1202 W. Grand Ave.	Chicago	Illinois	60642	8f2664cad010ca3	41.8913242	-87.6577491
+328	Alla Vita	564 W. Randolph St.	Chicago	Illinois	60661	8f2664c1ad815a3	41.8845259	-87.6426089
+329	Robert Et Fils	4229 N. Lincoln Ave.	Chicago	Illinois	60618	8f2664d8b761732	41.9586556	-87.6818125
+330	Hinoki Sushiko	1465 W. Willow St.	Chicago	Illinois	60642	8f2664cac969c60	41.9137967	-87.663933
+331	Bavette’s Bar & Boeuf	218 W. Kinzie St.	Chicago	Illinois	60654	8f2664c1e610c03	41.88924	-87.63482
+332	Gioia Ristorante e Pastificio	1133 W. Randolph St.	Chicago	Illinois	60607	8f2664cad2b550a	41.8841186	-87.6557038
+333	KŌMO	738 W. Randolph St.	Chicago	Illinois	60661	8f2664cad34471d	41.884478	-87.646925
+334	Esmé	2200 N. Clark St.	Chicago	Illinois	60614	8f2664c1392428c	41.92198	-87.63824
+335	NoodleBird	2957 W. Diversey Ave.	Chicago	Illinois	60647	8f2664ca1d1b76d	41.9320462	-87.7024954
+336	En Passant	3010 W. Diversey Ave.	Chicago	Illinois	60647	8f2664ca1c34842	41.9321626	-87.7029146
+337	Next	953 W. Fulton Market	Chicago	Illinois	60607	8f2664cad316259	41.8866924	-87.6518812
+338	Superkhana International	3059 W. Diversey Ave.	Chicago	Illinois	60647	8f2664ca1d8c6ca	41.9320109	-87.704885
+339	Azul Mariscos + Muelle	1177 N. Elston Ave.	Chicago	Illinois	60642	8f2664c1368b119	41.9029	-87.65772
+340	Rose Mary	932 W. Fulton Market	Chicago	Illinois	60607	8f2664cad315c2a	41.8868305	-87.6510737
+341	Lardon	2200 California Ave.	Chicago	Illinois	60647	8f2664ca100aae3	41.9218579	-87.6975363
+342	Kumiko	630 W. Lake St.	Chicago	Illinois	60661	8f2664c1adb219e	41.8857908	-87.6441256
+343	Venteux	230 N. Michigan Ave.	Chicago	Illinois	60601	8f2664c1e289933	41.8860831	-87.624628
+344	Adorn	120 E. Delaware Pl.	Chicago	Illinois	60611	8f2664c1e135258	41.8992577	-87.6251008
+345	Sochi	1358 W. Belmont Ave.	Chicago	Illinois	60657	8f2664c16671063	41.9398616	-87.6635142
+346	Apolonia	2201 S. Michigan Ave.	Chicago	Illinois	60616	8f2664c1b6a538b	41.8527497	-87.6234256
+347	Tan Lu	2101 S. China Pl.	Chicago	Illinois	90916	8f2664cf4a30d5c	41.8547628	-87.6329312
+348	Cantón Regio	1510 W. 18th St.	Chicago	Illinois	60608	8f2664cf69569a1	41.8579486	-87.6642401
+349	Dear Margaret	2965 N. Lincoln Ave.	Chicago	Illinois	60657	8f2664c129abbb6	41.9357213	-87.6629575
+350	Galit	2429 N. Lincoln Ave.	Chicago	Illinois	60614	8f2664c106b5812	41.92607	-87.64959
+351	St. Clair Supper Club	951 W. Fulton Market	Chicago	Illinois	60607	8f2664cad3101b1	41.8866491	-87.6516736
+352	BiXi Beer	2515 N. Milwaukee Ave.	Chicago	Illinois	60647	8f2664ca1ccec11	41.9270789	-87.7036933
+353	Provaré	1421 W. Chicago Ave.	Chicago	Illinois	60642	8f2664cadcd4148	41.8961648	-87.6632868
+354	Gadabout	5212 N. Clark St.	Chicago	Illinois	60640	8f2664d88211000	41.97671	-87.66842
+355	Swift & Sons Tavern & Oyster Bar	3600 N. Clark St.	Chicago	Illinois	60613	8f2664c1615b110	41.9472557	-87.6565523
+356	Elske	1350 W. Randolph Ave.	Chicago	Illinois	60607	8f2664cad628324	41.8843534	-87.6608602
+357	DeCOLORES	1626 S. Halsted St.	Chicago	Illinois	60609	8f2664cf4c5e108	41.8592257	-87.6467505
+358	Kasama	1001 N. Winchester Ave.	Chicago	Illinois	60622	8f2664cac2a225a	41.8995437	-87.6758818
+359	Dolo	2222 S. Archer Ave.	Chicago	Illinois	60616	8f2664cf4a8128d	41.8524	-87.63598
+360	Momotaro	820 W. Lake St.	Chicago	Illinois	60607	8f2664cad32b662	41.8857192	-87.648583
+361	Chikatana	850 W. Fulton Market	Chicago	Illinois	60602	8f2664cad3234d2	41.8869149	-87.649492
+362	Cira	200 N. Green St.	Chicago	Illinois	60607	8f2664cad32b402	41.8858942	-87.6487548
+363	Munno Pizzeria & Bistro	4656 N. Clark St.	Chicago	Illinois	60640	8f2664d8bb20640	41.9665836	-87.6670278
+364	Ghin Khao	2128 W. Cermak Rd.	Chicago	Illinois	60608	8f2664cf656ed1a	41.8522328	-87.6792863
+365	Longman & Eagle	2657 N. Kedzie Ave.	Chicago	Illinois	60647	8f2664ca1c86218	41.9301163	-87.7071651
+366	Chez Joël	1119 W. Taylor St.	Chicago	Illinois	60607	8f2664ca9a1226e	41.8694346	-87.6551953
+367	Eleven City Diner	1112 S. Wabash Ave.	Chicago	Illinois	60605	8f2664c1a371a56	41.8688	-87.62607
+368	Jinsei Motto	564 W. Randolph St.	Chicago	Illinois	60661	8f2664c1ada8494	41.884649	-87.6414826
+369	Bloom Plant Based Kitchen	1559 N. Milwaukee Ave.	Chicago	Illinois	60622	8f2664cac103d62	41.9097411	-87.6758378
+370	Pearl’s Southern Comfort	5352 N. Broadway	Chicago	Illinois	60640	8f2664d89db6d94	41.9797561	-87.6600467
+371	Lou Mitchell's	565 W. Jackson Blvd.	Chicago	Illinois	60661	8f2664c1a575b20	41.87787	-87.64203
+372	GT Fish & Oyster	531 N. Wells St.	Chicago	Illinois	60654	8f2664c1e713d2d	41.8918	-87.63369
+373	Porto	1600 W. Chicago Ave.	Chicago	Illinois	60622	8f2664cad532d43	41.896121	-87.6674488
+374	Herb	5424 N. Broadway	Chicago	Illinois	60640	8f2664d88aec50d	41.980762	-87.66012
+375	Swift & Sons	1000 W. Fulton Market	Chicago	Illinois	60607	8f2664cad312902	41.8866946	-87.6520605
+376	Pizzeria Bebu	1521 N. Fremont St.	Chicago	Illinois	60642	8f2664c1308b3a6	41.9092448	-87.6509977
+377	Bangers & Lace	1670 W. Division St.	Chicago	Illinois	60622	8f2664cac32060c	41.9032566	-87.6700614
+378	Ina Mae	1415 N. Wood St.	Chicago	Illinois	60622	8f2664cac140a53	41.9076108	-87.6724047
+379	The Gundis	2909 N. Clark St.	Chicago	Illinois	60657	8f2664c10574534	41.9351351	-87.6466238
+380	RPM Steak	66 W. Kinzie St.	Chicago	Illinois	60654	8f2664c1e75302b	41.8892862	-87.630638
+381	Maple & Ash	8 W. Maple St.	Chicago	Illinois	60610	8f2664c1ec74748	41.901955	-87.62869
+382	Gino’s East	162 E. Superior St.	Chicago	Illinois	60611	8f2664c1e1426b0	41.8958118	-87.6230105
+383	Rooh	736 W. Randolph St.	Chicago	Illinois	60661	8f2664cad346b54	41.8844807	-87.6471184
+384	Ever	1340 W. Fulton Market	Chicago	Illinois	60607	8f2664cad776c70	41.8867166	-87.6595739
+385	Big Jones	5347 N. Clark St.	Chicago	Illinois	60640	8f2664d883acb66	41.9794675	-87.6680578
+386	The Perch	1932 W. Division St.	Chicago	Illinois	60622	8f2664cac3b6ab1	41.90323	-87.6760906
+387	Arami	1829 W. Chicago Ave.	Chicago	Illinois	60622	8f2664cac2ce756	41.89579	-87.6732
+388	Brindille	534 N. Clark St.	Chicago	Illinois	60654	8f2664c1e705070	41.8919236	-87.6311971
+389	Luella’s Southern Kitchen	4609 N. Lincoln Ave.	Chicago	Illinois	60625	8f2664d8b5682d8	41.9652344	-87.6861331
+390	Chilam Balam	3023 N. Broadway	Chicago	Illinois	60657	8f2664c10ce2a8e	41.9372337	-87.6441621
+391	Mott St.	1401 N. Ashland Ave.	Chicago	Illinois	60622	8f2664cacb89daa	41.90711	-87.667465
+392	Oriole	661 W. Walnut St.	Chicago	Illinois	60661	8f2664cadac8d0c	41.886196	-87.64513
+393	Smyth	177 N. Ada St.	Chicago	Illinois	60607	8f2664cad62cdac	41.8850391	-87.6609432
+394	Omakase Yume	651 W. Washington Blvd.	Chicago	Illinois	60661	8f2664c1acb4700	41.8832751	-87.6446106
+395	The Dawson	730 W. Grand Ave.	Chicago	Illinois	60654	8f2664cadb8d7ad	41.8912038	-87.6463804
+396	Daisies	2523 N. Milwaukee Ave.	Chicago	Illinois	60647	8f2664ca1cc3423	41.9272907	-87.7042155
+397	Moody Tongue	2515 S. Wabash Ave.	Chicago	Illinois	60616	8f2664cf5d5620a	41.8469648	-87.6252282
+398	Tzuco	720 N. State St.	Chicago	Illinois	60654	8f2664c1e010486	41.8955644	-87.6283518
+399	Flat & Point	3524 W. Fullerton Ave.	Chicago	Illinois	60647	8f2664ca3948854	41.9248173	-87.7156486
+400	MingHin	2168 S. Archer Ave.	Chicago	Illinois	60616	8f2664cf4a13435	41.8533147	-87.634274
+401	Funkenhausen	1709 W. Chicago Ave.	Chicago	Illinois	60622	8f2664cac25b98d	41.896091	-87.6701775
+402	Virtue	1462 E. 53rd St.	Chicago	Illinois	60615	8f2664ce3613345	41.7996257	-87.589292
+403	Fiya	5419 N. Clark St.	Chicago	Illinois	60640	8f2664d883165a2	41.98037	-87.66833
+404	Heritage Restaurant & Caviar Bar	2700 W. Chicago Ave.	Chicago	Illinois	60622	8f2664ca8d9ea0e	41.8957978	-87.6943882
+405	Topolobampo	445 N. Clark St.	Chicago	Illinois	60654	8f2664c1e708ac0	41.8907039	-87.6309689
+406	Alinea	1723 N. Halsted St.	Chicago	Illinois	60614	8f2664c131a9146	41.9132737	-87.648174
+407	S.K.Y.	1239 W. 18th St.	Chicago	Illinois	60608	8f2664cf4585792	41.8579186	-87.6577117
+408	Joe's Imports	813 W. Fulton Market	Chicago	Illinois	60607	8f2664cad32c9ab	41.8868774	-87.6480616
+409	Elizabeth	4835 N. Western, Unit D	Chicago	Illinois	60625	8f2664d8bc88245	41.969555	-87.688736
+410	Parachute	3500 N. Elston Ave.	Chicago	Illinois	60618	8f2664ca54b2786	41.94483	-87.70638
+411	Mordecai	3632 N. Clark St.	Chicago	Illinois	60613	8f2664c1602d915	41.94805	-87.65725
+412	Mako	731 W. Lake St.	Chicago	Illinois	60661	8f2664cadadb1ad	41.8857746	-87.6468966
+413	HaiSous	1800 S. Carpenter Ave.	Chicago	Illinois	60608	8f2664cf450c52a	41.8579542	-87.6531795
+414	Carnitas Uruapan	1725 W. 18th St.	Chicago	Illinois	60608	8f2664cf698a732	41.8577378	-87.6695497
+415	Marisol	205 E. Pearson St.	Chicago	Illinois	60611	8f2664c1e166935	41.89749	-87.62148
+416	Ciccio Mio	226 W. Kinzie St.	Chicago	Illinois	60654	8f2664c1e6166a8	41.8892692	-87.6353304
+417	Pelago	201 E. Delaware Pl.	Chicago	Illinois	60611	8f2664c1e8d5ba2	41.8992241	-87.6217879
+418	Perilla	401 N. Milwaukee Ave.	Chicago	Illinois	60654	8f2664cada0e703	41.8891577	-87.6443785
+419	Kie-Gol-Lanee	5004 N. Sheridan Rd.	Chicago	Illinois	60640	8f2664d89cec914	41.9733966	-87.6550435
+420	The Purple Pig	444 N. Michigan Ave.	Chicago	Illinois	60611	8f2664c1e3a2c55	41.8911348	-87.6243468
+421	Andros Taverna	2542 N. Milwaukee Ave.	Chicago	Illinois	60647	8f2664ca1cddc88	41.9269579	-87.704342
+422	Lula Cafe	2537 N. Kedzie Ave.	Chicago	Illinois	60647	8f2664ca1521c32	41.9278163	-87.7067933
+423	Boka	1729 N. Halsted St.	Chicago	Illinois	60614	8f2664c131ad7a1	41.9135974	-87.6482441
+424	Juno	2638 N. Lincoln Ave.	Chicago	Illinois	60614	8f2664c12b2354e	41.92989	-87.65495
+425	Nico Osteria	1015 N. Rush St.	Chicago	Illinois	60611	8f2664c1ec62226	41.901314	-87.62769
+426	Giant	3209 W. Armitage Ave.	Chicago	Illinois	60647	8f2664ca16a4aa0	41.917324	-87.70744
+427	San Soo Gab San	5247 N. Western Ave.	Chicago	Illinois	60625	8f2664d8aa5602a	41.9771388	-87.6891654
+428	Dos Urban Cantina	2829 W. Armitage Ave.	Chicago	Illinois	60647	8f2664ca176c376	41.917416	-87.698326
+429	Coda Di Volpe	3335 N. Southport Ave.	Chicago	Illinois	60657	8f2664c16756b62	41.9425541	-87.6638417
+430	The Gage	24 S. Michigan Ave.	Chicago	Illinois	60603	8f2664c1a95d506	41.88132	-87.62469
+431	Sticky Rice	4018 N. Western Ave.	Chicago	Illinois	60618	8f2664d8b6c04cc	41.95452	-87.68876
+432	Testaccio	2456 N. California Ave.	Chicago	Illinois	60647	8f2664ca1133630	41.9265578	-87.697609
+433	Tied House	3157 N. Southport Ave.	Chicago	Illinois	60657	8f2664c16646c63	41.939598	-87.66378
+434	Adobo Grill	215 W. North Ave.	Chicago	Illinois	60610	8f2664c13a22271	41.91105	-87.63538
+435	Schwa	1466 N. Ashland Ave.	Chicago	Illinois	60662	8f2664cacba3088	41.9087844	-87.667733
+436	Chef’s Special Cocktail Bar	2165 N. Western Ave.	Chicago	Illinois	60647	8f2664ca1a11a4e	41.9217923	-87.6872963
+437	Proxi	565 W. Randolph St.	Chicago	Illinois	60661	8f2664c1ad83b2d	41.8843969	-87.6426342
+438	Soulé	1931 W. Chicago Ave.	Chicago	Illinois	60622	8f2664ca8928119	41.8959028	-87.6759332
+439	Beatnik	1604 W. Chicago Ave.	Chicago	Illinois	60622	8f2664cac24d260	41.896109	-87.6676841
+440	gather	4539 N. Lincoln Ave.	Chicago	Illinois	60625	8f2664d8b0b0755	41.964287	-87.68558
+441	Dusek’s Tavern	1227 W. 18th St.	Chicago	Illinois	60608	8f2664cf4585626	41.8578954	-87.6575909
+442	Blue Door Kitchen & Garden	52 W. Elm St.	Chicago	Illinois	60610	8f2664c1ec05d90	41.9031918	-87.6307268
+443	Mango Pickle	5842 N. Broadway	Chicago	Illinois	60660	8f2664d88b36d73	41.9878477	-87.6604097
+444	Gaijin	950 W. Lake St.	Chicago	Illinois	60607	8f2664cad31e421	41.8858803	-87.6515607
+445	Sushi Dokku	823 W. Randolph St.	Chicago	Illinois	60607	8f2664cad350a91	41.8842625	-87.6484956
+446	Pleasant House Pub	2119 S. Halstead Ave.	Chicago	Illinois	60608	8f2664cf40abd09	41.8535715	-87.6464616
+447	Jeong	1460 W. Chicago Ave.	Chicago	Illinois	60647	8f2664cad524ae8	41.8962351	-87.6647748
+448	The Duck Inn	2701 S. Eleanor St.	Chicago	Illinois	60608	8f2664cf0db106b	41.8446456	-87.6601691
+449	Table, Donkey and Stick	2728 W. Armitage Ave.	Chicago	Illinois	60647	8f2664ca138394d	41.91759	-87.696
+450	Bistro Campagne	4518 N. Lincoln Ave.	Chicago	Illinois	60625	8f2664d8b08648d	41.96364	-87.68555
+451	Frontera Grill	445 N. Clark St.	Chicago	Illinois	60654	8f2664c1e709cd6	41.890567	-87.630914
+452	Coalfire	1321 W. Grand Ave.	Chicago	Illinois	60622	8f2664cad0b3621	41.8909322	-87.6611279
+453	Gilt Bar	230 W. Kinzie St.	Chicago	Illinois	60654	8f2664c1e616604	41.889297	-87.6352819
+454	MCCB	2138 S. Archer Ave.	Chicago	Illinois	60616	8f2664cf4a15580	41.853844	-87.63355
+455	Goosefoot	2656 W. Lawrence Ave.	Chicago	Illinois	60625	8f2664d8b5b6b85	41.9687073	-87.6959706
+456	North Pond	2610 N. Cannon Dr.	Chicago	Illinois	60614	8f2664c10073a6c	41.9301645	-87.6362118
+457	County Barbecue	1352 W. Taylor St.	Chicago	Illinois	60607	8f2664ca9066610	41.8694395	-87.6612254
+458	Girl & The Goat	809 W. Randolph St.	Chicago	Illinois	60607	8f2664cad355241	41.88418	-87.64785
+459	Mama Delia	1721 W. Division St.	Chicago	Illinois	60622	8f2664cac32241a	41.90331	-87.67082
+460	Osteria Langhe	2824 W. Armitage Ave.	Chicago	Illinois	60647	8f2664ca176cbad	41.917553	-87.69827
+461	mfk.	432 W. Diversey Pkwy.	Chicago	Illinois	60614	8f2664c1018d611	41.9330403	-87.6405573
+462	TenGoku Aburiya	651 W. Washington Blvd.	Chicago	Illinois	60661	8f2664c1acb5c8e	41.8831487	-87.6442447
+463	Nella Pizza e Pasta	1125 E. 55th St.	Chicago	Illinois	60615	8f2664cc5d98128	41.7950081	-87.5982341
+464	Hugo’s Frog Bar & Fish House	1024 N. Rush St.	Chicago	Illinois	60611	8f2664c1ec62735	41.9013922	-87.6279096
+465	Smoque BBQ	3800 N. Pulaski Rd.	Chicago	Illinois	60641	8f2664ca0db62a3	41.95016	-87.72764
+466	Roister	951 W. Fulton Market	Chicago	Illinois	60607	8f2664cad3105a8	41.886658	-87.65187
+467	EL Ideas	2419 W. 14th St.	Chicago	Illinois	60618	8f2664cab32416d	41.863	-87.68686
+468	Monteverde	1020 W. Madison St.	Chicago	Illinois	60607	8f2664cad2f0882	41.881794	-87.653076
+469	Birrieria Zaragoza	4852 S. Pulaski Rd.	Chicago	Illinois	60632	8f2664cd60a3d5b	41.8050361	-87.723342
+470	etta	1840 W. North Ave.	Chicago	Illinois	60622	8f2664cac12118b	41.9105864	-87.6743282
+471	Mi Tocaya	2800 W. Logan Blvd.	Chicago	Illinois	60647	8f2664ca189274a	41.9288424	-87.6976607
+472	Demera	4801 N. Broadway	Chicago	Illinois	60640	8f2664d89558db3	41.9693	-87.65935
+473	The Publican	837 W. Fulton Market	Chicago	Illinois	60607	8f2664cad32e092	41.88661	-87.6489
+474	The Warbler	4535 N. Lincoln Ave.	Chicago	Illinois	60625	8f2664d8b0b3931	41.964184	-87.68552
+475	Chicago Cut	300 N. LaSalle St.	Chicago	Illinois	60654	8f2664c1e60e0d4	41.88815	-87.63289
+476	5 Rabanitos	1758 W. 18th St.	Chicago	Illinois	60608	8f2664cf699a280	41.8577711	-87.6710332
+477	Pizza Friendly Pizza	1039 N. Western Ave.	Chicago	Illinois	60622	8f2664cac6a3373	41.9003506	-87.6868496
+478	Cabra	200 N. Green St.	Chicago	Illinois	60607	8f2664cad32b4f3	41.8858489	-87.648787
+479	Prime & Provisions	222 N. LaSalle St.	Chicago	Illinois	60601	8f2664c1e6524f1	41.8866913	-87.6325989
+480	Wherewithall	3472 N. Elston Ave.	Chicago	Illinois	60618	8f2664ca548654d	41.9442661	-87.7054382
+481	Sepia	123 N. Jefferson St.	Chicago	Illinois	60661	8f2664c1ad8e3a2	41.88394	-87.64247
+482	avec	615 W. Randolph St.	Chicago	Illinois	60661	8f2664c1ad9c14d	41.88426	-87.64343
+483	Ceres’ Table	3124 N. Broadway	Chicago	Illinois	60657	8f2664c10c1c784	41.938784	-87.644407
+484	WoodWind	259 E. Erie St.	Chicago	Illinois	60611	8f2664c1ea90936	41.8941018	-87.6206799
+485	The Bristol	2152 N. Damen Ave.	Chicago	Illinois	60647	8f2664c126a1c2b	41.9211292	-87.677855
+486	Terzo Piano	159 E. Monroe St.	Chicago	Illinois	60603	8f2664c184b2ce9	41.8808432	-87.622498
+487	Les Nomades	222 E. Ontario St.	Chicago	Illinois	60611	8f2664c1e06e986	41.8934699	-87.62213
+488	Sol de Mexico	3018 N. Cicero Ave.	Chicago	Illinois	60641	8f2664ca2025558	41.93575	-87.74698
+489	Temporis	933 N. Ashland Ave.	Chicago	Illinois	60622	8f2664cac34b931	41.898907	-87.66725
+490	La Josie	740 W. Randolph St.	Chicago	Illinois	60661	8f2664cad3468a5	41.884617	-87.647322
+491	Claudia	1952 N. Damen Ave.	Chicago	Illinois	60647	8f2664c126de440	41.9174777	-87.6777364
+492	Les Trois Chevaux	283 W. 12th St.	New York	New York State	10014	8f2a10721b5b709	40.7376389	-74.0040074
+493	63 Clinton	63 Clinton St.	New York	New York State	10002	8f2a100d36b0520	40.7194832	-73.984993
+494	Le Fanfare	1103 Manhattan Ave.	New York	New York State	11222	8f2a100d0234755	40.7362876	-73.9553455
+495	Yellow Rose	102 Third Ave.	New York	New York State	10003	8f2a100d22f285c	40.7325412	-73.9879053
+496	Takeda	566 Amsterdam Ave.	New York	New York State	10025	8f2a100882f4054	40.7887267	-73.9743759
+497	Torien	292 Elizabeth St.	New York	New York State	10012	8f2a1072cbb43a0	40.7247064	-73.9932693
+498	Baran's 2239	502 Pacific Coast Hwy.	Hermosa Beach	California	90254	8f29a565538d815	33.85868	-118.391235
+499	Sol Food	903 Lincoln Ave.	San Rafael	California	94901	8f2830ba2715289	37.97187	-122.5241
+500	Diavola	21021 Geyserville Ave.	Geyserville	California	95441	8f2831435af2d02	38.70633	-122.90416
+501	Gintei	235 El Camino Real	San Bruno	California	94066	8f28309280e4894	37.61866	-122.409615
+502	Todos Santos	22322 El Paseo	Rancho Santa Margarita	California	92688	8f29a084037301e	33.6385528	-117.59246
+503	Aurum	132 State St.	Los Altos	California	94022	8f283477150a854	37.3801255	-122.1156105
+504	Orchard City Kitchen	1875 S. Bascom Ave., Ste.190	Campbell	California	95008	8f2834734275201	37.28828	-121.93434
+505	Juanita & Maude	825 San Pablo Ave.	Albany	California	94706	8f28308f4623c29	37.89059	-122.29897
+506	China Village	1335 Solano Ave.	Albany	California	94706	8f28308f6b75aa1	37.89083	-122.291214
+507	Coni'Seafood	3544 W. Imperial Hwy.	Inglewood	California	90303	8f29a56e8718595	33.930923	-118.33494
+508	Saffron	1143 San Carlos Ave.	San Carlos	California	94070	8f283429395008e	37.5067852	-122.2608212
+509	Chengdu Impression	21 Huntington Dr.	Arcadia	California	91006	8f29a1c36286065	34.1402483	-118.030468
+510	LaoXi Noodle House	600 Live Oak Ave.	Arcadia	California	91006	8f29a1da95092b5	34.10907	-118.01802
+511	Rocio's Mexican Kitchen	7891 Garfield Ave.	Bell Gardens	California	90201	8f29a1d2534ad81	33.960003	-118.15646
+512	Phở 79	9941 Hazard Ave.	Garden Grove	California	92844	8f29a0b63a8a683	33.7527059	-117.9556132
+513	Garlic & Chives by Kristin	9892 Westminster Blvd., Ste.311	Garden Grove	California	92844	8f29a0b632190ce	33.759464	-117.95538
+514	Selby's	3001 El Camino Real	Atherton	California	94061	8f283474b842d1e	37.4685638	-122.2104559
+515	Gabi James	1810 S. Catalina Ave.	Redondo Beach	California	90277	8f29a5673936835	33.8170769	-118.3874641
+516	Mentone	174 Aptos Village Way	Aptos	California	95003	8f28341b469a136	36.9789673	-121.8995341
+517	Range Life	2160 Railroad Ave.	Livermore	California	94550	8f2830d341a4098	37.683384	-121.76999
+518	Sabio on Main	501 Main St.	Pleasanton	California	94566	8f283468b313732	37.6605365	-121.8758887
+519	Plumed Horse	14555 Big Basin Way	Saratoga	California	95070	8f28340d6ca4adc	37.2563623	-122.0352659
+520	Tony's Seafood	18863 Shoreline Hwy.	Marshall	California	94940	8f2830a4075e225	38.1468731	-122.8830959
+521	First & Oak	409 1st St.	Solvang	California	93463	8f29134807b0206	34.593758	-120.14039
+522	LSXO	21010 Pacific Coast Hwy.	Huntington Beach	California	92648	8f29a54cd14044d	33.6553551	-117.9985791
+523	Dija Mara	232 S. Coast Hwy.	Oceanside	California	92054	8f29a42b1cc396c	33.1936183	-117.3775044
+524	New England Lobster Eatery	824 Cowan Rd.	Burlingame	California	94010	8f283092ec12d4b	37.602543	-122.37458
+525	Saddle Peak Lodge	419 Cold Canyon Rd.	Calabasas	California	91302	8f29a1828365aeb	34.0778	-118.69308
+526	Playa	41 Throckmorton Ave.	Mill Valley	California	94941	8f283084a113510	37.9065919	-122.54743
+527	Pasta Moon	845 Main St.	Half Moon Bay	California	94019	8f28342a98c1651	37.46544	-122.42864
+528	La Casita Mexicana	4030 E. Gage Ave.	Bell	California	90201	8f29a56d30c5815	33.978844	-118.19517
+529	Village Sake	19 Bolinas Rd.	Fairfax	California	94930	8f2830baeaddcf5	37.986614	-122.58903
+530	Beijing Duck House	10883 S. Blaney Ave.	Cupertino	California	95014	8f283472e980c70	37.3101319	-122.0234064
+531	The Village Pub	2967 Woodside Rd.	Woodside	California	94062	8f28342b60e569d	37.42897	-122.25178
+532	Ox + Anchor	877 Palm St.	San Luis Obispo	California	93401	8f29adc462d4cd4	35.2816181	-120.6637893
+533	Burritos La Palma	5120 N. Peck Rd.	El Monte	California	91732	8f29a1da8a33af2	34.095875	-118.01197
+534	Pasta | Bar	16101 Ventura Blvd., Ste.250	Encino	California	91436	8f29a18ae71282d	34.1567212	-118.483862
+535	Shin Sushi	16573 Ventura Blvd.	Encino	California	91436	8f29a18ae216773	34.15784	-118.49415
+536	Sea Harbour	3939 Rosemead Blvd.	Rosemead	California	91770	8f29a1d18136526	34.07984	-118.0733
+537	Longo Seafood	7540 Garvey Ave.	Rosemead	California	91770	8f29a1d1d953a66	34.0625014	-118.1047332
+538	Sushi Ran	107 Caledonia St.	Sausalito	California	94965	8f2830855a5c491	37.8587	-122.48576
+539	Lucia Restaurant & Bar	415 W. Carmel Valley Rd.	Carmel Valley	California	93924	8f291a6806a3a2a	36.5007123	-121.7540509
+540	Luna Mexican Kitchen	1495 The Alameda	San Jose	California	95126	8f28347334da76e	37.33398	-121.91513
+541	Adega	1614 Alum Rock Ave.	San Jose	California	95116	8f283444b28c8f6	37.35131	-121.85845
+542	Bai Xing Jia Hunan Fusion	1701 Lundy Ave., Ste. 100	San Jose	California	95131	8f28347ac955a69	37.3875644	-121.8867513
+543	Solbar	755 Silverado Trail	Calistoga	California	94515	8f28302e2b96662	38.58502	-122.57087
+544	Pèppoli	2700 17 Mile Dr.	Pebble Beach	California	93953	8f291a6dd28980d	36.6124137	-121.9418838
+545	Amor y Tacos	13333 South St.	Cerritos	California	90703	8f29a56951228cc	33.8602919	-118.0471398
+546	Picco	320 Magnolia Ave.	Larkspur	California	94939	8f2830ba459a708	37.9339075	-122.5357174
+547	The Brothers Sushi	21418 Ventura Blvd.	Woodland Hills	California	91364	8f29a181bb526db	34.1678838	-118.5982814
+548	New Dumpling	10064 San Pablo Ave.	El Cerrito	California	94530	8f28308f0105ca4	37.9019319	-122.3030479
+549	Masa's Sushi	813 Grant Ave.	Novato	California	94945	8f2830aa016d732	38.10692	-122.56675
+550	CHAAK Kitchen	215 El Camino Real	Tustin	California	92780	8f29a0b0d0a6ac3	33.7439846	-117.8237347
+551	J. Zhou	2601 Park Ave.	Tustin	California	92782	8f29a0b2800ac85	33.69817	-117.82662
+552	Sushi Iki	18663 Ventura Blvd.	Tarzana	California	91356	8f29a18a91734c4	34.170547	-118.540276
+553	Shalizaar	300 El Camino Real	Belmont	California	94002	8f283429e04eb44	37.52775	-122.285416
+554	Thai House	254 Rose St.	Danville	California	94526	8f2830d4062e858	37.82337	-122.00018
+555	Saltwater	12781 Sir Francis Drake Blvd.	Inverness	California	94937	8f2830a756a4669	38.094555	-122.849525
+556	Anajak Thai	14704 Ventura Blvd.	Sherman Oaks	California	91403	8f29a1884a70201	34.1517478	-118.4535952
+557	Mistral	13422 Ventura Blvd.	Sherman Oaks	California	91423	8f29a18b1342504	34.147114	-118.425896
+558	Sushi Note	13447 Ventura Blvd.	Sherman Oaks	California	91423	8f29a18b134318b	34.147365	-118.4265586
+559	Khom Loi	7385 Healdsburg Ave.	Sebastopol	California	95472	8f2831cb638029b	38.405194	-122.8300766
+560	Ramen Gaijin	6948 Sebastopol Ave.	Sebastopol	California	95472	8f2831cb60aa40d	38.4023896	-122.8236124
+561	Boonville Hotel & Restaurant	14050 Hwy. 128	Boonville	California	95415	8f283162c2dca66	39.0090974	-123.3677882
+562	Farmhouse Inn & Restaurant	7871 River Rd.	Forestville	California	95436	8f2831c9c393aab	38.49039	-122.8835
+563	Tacos El Gordo	556 Broadway	Chula Vista	California	91910	8f29a41adc6484d	32.71578	-117.159645
+564	CdM	2325 E. Coast Hwy.	Corona del Mar	California	92625	8f29a54f3052c0a	33.6045846	-117.8747351
+565	Mar'sel	100 Terranea Way	Rancho Palos Verdes	California	90275	8f29a5758db6c4c	33.73889	-118.39618
+566	Cafe La Haye	140 E. Napa St.	Sonoma	California	95476	8f283004d21c84d	38.29197	-122.45584
+567	FolkTable	23584 Arnold Dr.	Sonoma	California	95476	8f283006d5100c9	38.2277792	-122.4578989
+568	El Molino Central	11 Central Ave.	Sonoma	California	95476	8f2830314b9b271	38.315018	-122.481964
+569	Valley	487 1st St. W	Sonoma	California	95476	8f283004d273a61	38.2922754	-122.4590217
+570	Pig in a Pickle	341 Corte Madera Town Centre	Corte Madera	California	94925	8f283085945a266	37.92731	-122.51801
+571	Burmatown	60 Corte Madera Ave.	Corte Madera	California	94925	8f283085938d869	37.9269515	-122.5310139
+572	Grace's Table	1400 2nd St.	Napa	California	94559	8f2830053512782	38.29691	-122.28833
+573	Kenzo	1339 Pearl St.	Napa	California	94559	8f2830053414324	38.29924	-122.28928
+574	La Toque	1314 McKinstry St.	Napa	California	94559	8f28300ec8422cd	38.30351	-122.28349
+575	Compline	1300 1st St.	Napa	California	94559	8f28300535aa4c9	38.29807	-122.28786
+576	Chengdu Taste	828 W. Valley Blvd.	Alhambra	California	91803	8f29a1d0ab13983	34.078	-118.13248
+577	Sichuan Impression	1900 W. Valley Blvd.	Alhambra	California	91803	8f29a1d08626b98	34.077282	-118.14449
+578	Borneo Kalimantan Cuisine	19 S. Garfield Ave.	Alhambra	California	91801	8f29a1c24911a5b	34.094757	-118.12659
+579	Jiang Nan Spring	910 E. Main St.	Alhambra	California	91801	8f29a1c24c019b2	34.0995473	-118.117454
+580	Lunasia Dim Sum House	500 W. Main St.	Alhambra	California	91801	8f29a1d0a2eb12a	34.09258	-118.13225
+581	MARKET Restaurant + Bar	3702 Via De La Valle	Del Mar	California	92014	8f29a40c0c2c583	32.982616	-117.23147
+582	Alderwood	155 Walnut Ave.	Santa Cruz	California	95060	8f28341120d6cd0	36.9733903	-122.0273871
+583	Michael Warring	8300 Bennington Dr.	Vallejo	California	94591	8f28300226b235b	38.15831	-122.18583
+584	Montrio Bistro	414 Calle Principal	Monterey	California	93940	8f291a6de86e772	36.599761	-121.8953049
+585	The Sardine Factory	701 Wave St.	Monterey	California	93940	8f291a6d8533269	36.6155569	-121.9013993
+586	Paprika Café	309 Lighthouse Ave.	Monterey	California	93940	8f291a6de36e21d	36.610821	-121.8995455
+587	Hiro Nori Craft Ramen	2222 Michelson Dr., Ste. 234	Irvine	California	92612	8f29a0b2d876b1b	33.676674	-117.85588
+588	Ootoro	2222 Michelson Dr., Ste. 246	Irvine	California	92612	8f29a0b2d876a26	33.67668	-117.85589
+589	Los Carnalitos	30200 Industrial Pkwy. SW	Hayward	California	94544	8f2834652640052	37.6076735	-122.0645252
+590	Gabbi’s Mexican Kitchen	141 S. Glassell St.	Orange	California	92866	8f29a0b54661219	33.78689	-117.853004
+591	Ohshima	1956 N. Tustin St.	Orange	California	92865	8f29a0b52208014	33.82069	-117.83601
+592	Auberge du Soleil	180 Rutherford Hill Rd.	Rutherford	California	94573	8f28302a4461419	38.49199	-122.40534
+593	Heritage Barbecue	31721 Camino Capistrano	San Juan Capistrano	California	92675	8f29a094da32132	33.5014781	-117.6628795
+594	Katsu-ya	11680 Ventura Blvd.	Studio City	California	91604	8f29a18b061e625	34.141094	-118.3873
+595	Asanebo	11941 Ventura Blvd.	Studio City	California	91604	8f29a18b39a6165	34.1433318	-118.3919412
+596	Sushi ii	100 West Coast Hwy., Ste. 202	Newport Beach	California	92663	8f29a54c6adbd80	33.6163594	-117.907447
+597	Lido Bottle Works	3408 Via Oporto, Ste.103	Newport Beach	California	92663	8f29a54c085c31e	33.6183509	-117.9285583
+598	Fable & Spirit	3441 Via Lido	Newport Beach	California	92663	8f29a54c084358d	33.6180361	-117.9286747
+599	Marché Moderne	7862 E. Pacific Coast Hwy.	Newport Beach	California	92657	8f29a54f6599576	33.57024	-117.834656
+600	Bello by Sandro Nardone	1200 Bison Ave.	Newport Beach	California	92660	8f29a54d0a55cda	33.6378012	-117.8623546
+601	Ciccio	6770 Washington St.	Yountville	California	94599	8f2830386ada349	38.406544	-122.36687
+602	La Calenda	6518 Washington St.	Yountville	California	94599	8f283038616e594	38.401863	-122.36098
+603	Mustards Grill	7399 St. Helena Hwy.	Yountville	California	94558	8f283038005d4e4	38.41573	-122.38565
+604	North Block	6757 Washington St.	Yountville	California	94599	8f2830386ad8c8c	38.4061027	-122.366906
+605	Ad Hoc	6476 Washington St.	Yountville	California	94599	8f28303868d47b5	38.39921	-122.35846
+606	The French Laundry	6640 Washington St.	Yountville	California	94599	8f2830386a88c94	38.40443	-122.36474
+607	Bouchon	6534 Washington St.	Yountville	California	94599	8f283038616b395	38.40258	-122.3619
+608	El Mercado Modern Cuisine	301 N. Spurgeon St.	Santa Ana	California	92701	8f29a0b704c0b46	33.7473569	-117.8654136
+609	Mix Mix Kitchen & Bar	300 N. Main St.	Santa Ana	California	92701	8f29a0b7045a0ec	33.747177	-117.867645
+610	Tasty Place	1625 El Camino Real	Millbrae	California	94030	8f2830928c55656	37.612988	-122.40426
+611	Hong Kong Flower Lounge	51 Millbrae Ave.	Millbrae	California	94030	8f283092e82599a	37.5980679	-122.3878736
+612	wonderful	270 Broadway	Millbrae	California	94030	8f283092e86e7a1	37.600597	-122.391426
+613	La Viga Seafood & Cocina Mexicana	1772 Broadway	Redwood City	California	94063	8f283429646450d	37.4868323	-122.2229839
+614	Sushi Shin	312 Arguello St.	Redwood City	California	94063	8f283429605e049	37.4871305	-122.2323102
+615	Sierra Mar	47900 CA-1	Big Sur	California	93920	8f291a44a00c835	36.229935	-121.7717
+616	Big Sur Smokehouse	48123 Hwy 1	Big Sur	California	93920	8f291a44a561c5b	36.2291563	-121.7645662
+617	Nixtaco	1805 Cirby Way, Ste. 12	Roseville	California	95661	8f283216b9a56c1	38.7297832	-121.2564971
+618	Chez TJ	938 Villa St.	Mountain View	California	94041	8f2834754902b1e	37.39468	-122.08044
+619	Doppio Zero Pizza Napoletana	160 Castro St.	Mountain View	California	94041	8f2834772649772	37.394318	-122.0787
+620	Guesthouse	850 College Ave.	Kentfield	California	94904	8f2830ba00a24e6	37.9545644	-122.5483542
+621	Tuétano Taqueria	143 W. San Ysidro Blvd.	San Ysidro	California	92173	8f29a4c71310541	32.5529899	-117.0459576
+622	Terrapin Creek	1580 Eastshore Rd.	Bodega Bay	California	94923	8f2831c06824935	38.3391	-123.04818
+623	Spinning Bones	1205 Park St.	Alameda	California	94501	8f283098d666ae3	37.7612014	-122.2456112
+624	Utzutzu	1428 Park St.	Alameda	California	94501	8f283098d6c3088	37.7649366	-122.2420257
+625	Barndiva	231 Center St.	Healdsburg	California	95448	8f283151506816c	38.60977	-122.86942
+626	Valette	344 Center St.	Healdsburg	California	95448	8f2831515312ae9	38.6120896	-122.8697182
+627	Chalkboard	29 North St.	Healdsburg	California	95448	8f283151530304c	38.611946	-122.871574
+628	SingleThread	131 North St.	Healdsburg	California	95448	8f2831515313512	38.6122599	-122.8697229
+629	Dry Creek Kitchen	317 Healdsburg Ave.	Healdsburg	California	95448	8f2831515331568	38.610827	-122.8707843
+630	SHU (Sushi House Unico)	2931 1/2 Beverly Glen Circle	Bel Air	California	90077	8f29a18a215d4dc	34.1291488	-118.44335
+631	Himitsu	1030-G Torrey Pines Rd.	La Jolla	California	92037	8f29a400ccb2305	32.8430208	-117.2724495
+632	Puesto	1026 Wall St.	La Jolla	California	92037	8f29a400c500891	32.846863	-117.27379
+633	Marine Room	2000 Spindrift Dr.	La Jolla	California	92037	8f29a400e8a4170	32.852259	-117.2606234
+634	Catania	7863 Girard Ave.	La Jolla	California	92037	8f29a400c52399b	32.84609	-117.27428
+635	The Taco Stand	621 Pearl St.	La Jolla	California	92037	8f29a400cd18924	32.839485	-117.27677
+636	Nine-Ten	910 Prospect St.	La Jolla	California	92037	8f29a400c52bc00	32.847057	-117.27514
+637	A.R. Valentien	11480 N. Torrey Pines Rd.	La Jolla	California	92037	8f29a401920bc40	32.904163	-117.24425
+638	Bell's	406 Bell St.	Los Alamos	California	93440	8f29acb74952100	34.7440264	-120.279387
+639	Khan Saab Desi Craft Kitchen	229 E. Commonwealth Ave.	Fullerton	California	92832	8f29a0a66d055a2	33.8700821	-117.9192001
+640	The Ranch	1025 E. Ball Rd.	Anaheim	California	92805	8f29a0b5cc5d4e2	33.81892	-117.897194
+641	Harbor House	5600 CA-1	Elk	California	95432	8f2806928831941	39.135876	-123.719444
+642	Little Frenchie	1166 Orange Ave.	Coronado	California	92118	8f29a4111cc3d88	32.683999	-117.1791702
+643	Serẽa Coastal Cuisine	1500 Orange Ave.	Coronado	California	92118	8f29a4111c1ea08	32.6812848	-117.1785815
+644	Destroyer	3578 Hayden Ave.	Culver City	California	90232	8f29a19956b4793	34.024647	-118.381424
+645	Vespertine	3599 Hayden Ave.	Culver City	California	90232	8f29a199579a28e	34.024204	-118.38166
+646	Mayura	10406 Venice Blvd.	Culver City	California	90232	8f29a1982ca5d2e	34.02017	-118.404144
+647	Lukshon	3239 Helms Ave.	Culver City	California	90232	8f29a1991d0d2a6	34.02998	-118.38424
+648	Kali	5722 Melrose Ave.	Hollywood	California	90038	8f29a1d6e21c241	34.0834565	-118.3245399
+649	Providence	5955 Melrose Ave.	Hollywood	California	90038	8f29a1d6e26d0b5	34.083576	-118.3301829
+650	République	624 S. La Brea Ave.	Hollywood	California	90036	8f29a1d6c076146	34.0641162	-118.3438101
+651	The Little Door	8164 W. 3rd St.	Hollywood	California	90028	8f29a1d6d10950c	34.072296	-118.367485
+652	Sqirl	720 N. Virgil Ave.	Hollywood	California	90029	8f29a1d45ce674e	34.0842728	-118.2866967
+653	La Marcha	2026 San Pablo Ave.	Berkeley	California	94702	8f283081a79354b	37.86863	-122.29215
+654	Ippuku	2130 Center St.	Berkeley	California	94704	8f28308a9cab2d2	37.87022	-122.26734
+655	Funky Elephant	1313 9th St.	Berkeley	California	94710	8f28308f4c5d0f3	37.879658	-122.29792
+656	Comal	2020 Shattuck Ave.	Berkeley	California	94704	8f28308a9cd18ab	37.871647	-122.26835
+657	Fish & Bird Sousaku Izakaya	2451 Shattuck Ave.	Berkeley	California	94704	8f28308a9d14750	37.86489	-122.2674
+658	Vik's Chaat	2390 4th St.	Berkeley	California	94710	8f283081a0a538a	37.8614273	-122.2979676
+659	Tacubaya	1782 4th St.	Berkeley	California	94710	8f283081a64438b	37.870125	-122.301
+660	Iyasare	1830 4th St.	Berkeley	California	94710	8f283081a662c8c	37.86947	-122.30067
+661	Great China	2190 Bancroft Way	Berkeley	California	94701	8f28308a9d8a8d9	37.867756	-122.26616
+662	Chez Panisse	1517 Shattuck Ave.	Berkeley	California	94709	8f28308a97b42dd	37.879715	-122.26893
+663	The Restaurant at Justin	11680 Chimney Rock Rd.	Paso Robles	California	93446	8f29ad0ee6aab46	35.6563869	-120.9113324
+664	Six Test Kitchen	3075 Blue Rock Rd.	Paso Robles	California	93446	8f29ad084cedd4a	35.5757084	-120.6898229
+665	Sweet Rice	1630 W. Redondo Beach Blvd.	Gardena	California	90247	8f29a56e1cd265e	33.8883323	-118.3052414
+666	Cafe Reyes	11101 Hwy. 1	Point Reyes Station	California	94956	8f2830a2903562d	38.066696	-122.80451
+667	The Attic	3441 E. Broadway	Long Beach	California	90803	8f29a578bbadaac	33.7645154	-118.1514163
+668	Heritage	2032 E. 7th St.	Long Beach	California	90804	8f29a5616122048	33.7752244	-118.1668412
+669	Insalata's	120 Sir Francis Drake Blvd.	San Anselmo	California	94960	8f2830ba3b882c0	37.97308	-122.56138
+670	Madcap	198 Sir Francis Drake Blvd.	San Anselmo	California	94960	8f2830ba3aa8d33	37.974712	-122.56168
+671	Stockhome	220 Western Ave.	Petaluma	California	94952	8f2830ad475835a	38.2333616	-122.6427194
+672	Press	587 St. Helena St.	Saint Helena	California	94574	8f283021641d736	38.48874	-122.45023
+673	The Charter Oak	1050 Charter Oak Ave.	Saint Helena	California	94574	8f283021288d25e	38.5019044	-122.4634409
+674	Farmstead	738 Main St.	Saint Helena	California	94574	8f28302128a8a8d	38.50084	-122.46335
+675	Glen Ellen Star	13648 Arnold Dr.	Glen Ellen	California	95442	8f283031c624602	38.36429	-122.5245
+676	Fishing with Dynamite	1148 Manhattan Ave.	Manhattan Beach	California	90266	8f29a565c119170	33.88535	-118.41103
+677	The Arthur J	903 Manhattan Ave.	Manhattan Beach	California	90266	8f29a565c13019e	33.88306	-118.40986
+678	Sushi I-NABA	1300 Highland Ave.	Manhattan Beach	California	90266	8f29a565c031ce5	33.8865097	-118.4103953
+679	Love & Salt	317 Manhattan Beach Blvd.	Manhattan Beach	California	90266	8f29a565c1ad48a	33.88532	-118.409225
+680	Manhattan Beach Post	1142 Manhattan Ave.	Manhattan Beach	California	90266	8f29a565c11d6ee	33.885162	-118.410934
+681	Bistro Na’s	9055 Las Tunas Dr., Ste. 105	Temple City	California	91780	8f29a1d1b1b5413	34.1048803	-118.0712093
+682	Dai Ho	9148 Las Tunas Dr.	Temple City	California	91780	8f29a1d1bcc840e	34.105415	-118.06928
+683	1 Kitchen	8490 W. Sunset Blvd.	West Hollywood	California	90069	8f29a1d69a340ac	34.0942904	-118.3759865
+684	Ardor	9040 Sunset Blvd.	West Hollywood	California	90069	8f29a199a72bb0b	34.0904261	-118.3890649
+685	Night + Market	9043 Sunset Blvd.	West Hollywood	California	90069	8f29a199a776ce2	34.090645	-118.38919
+686	Tesse	8500 W. Sunset Blvd.	West Hollywood	California	90069	8f29a1d69b1b041	34.0940531	-118.3765946
+687	Norah	8279 Santa Monica Blvd.	West Hollywood	California	90046	8f29a1d6981bb12	34.0908466	-118.3696972
+688	Connie & Ted’s	8171 Santa Monica Blvd.	West Hollywood	California	90046	8f29a1d698aa516	34.0909948	-118.3672928
+689	Sushi Ginza Onodera	609 N. La Cienega Blvd.	West Hollywood	California	90069	8f29a1d6d240d51	34.082251	-118.3766888
+690	Gracias Madre LA	8905 Melrose Ave.	West Hollywood	California	90069	8f29a199ac43501	34.08084	-118.38695
+691	Eveleigh	8752 W. Sunset Blvd.	West Hollywood	California	90069	8f29a199a4cd442	34.0913022	-118.3817623
+692	Sunset Tower Bar and Restaurant	8358 Sunset Blvd.	West Hollywood	California	90069	8f29a1d69b936d8	34.0951421	-118.3720022
+693	Oliver's Osteria Mare e Monti	853 Laguna Canyon Rd.	Laguna Beach	California	92651	8f29a5481811d4a	33.550877	-117.7781668
+694	Campfire	2725 State St.	Carlsbad	California	92008	8f29a42b4556913	33.1621181	-117.3508896
+695	Jeune et Jolie	2659 State St.	Carlsbad	California	92008	8f29a42b455ed1b	33.1631027	-117.3516968
+696	The Bywater	532 N. Santa Cruz Ave.	Los Gatos	California	95030	8f283409daa8a46	37.232773	-121.979004
+697	Dio Deka	210 E. Main St.	Los Gatos	California	95030	8f28340832cec8d	37.22089	-121.9769
+698	ASA South	57 Los Gatos-Saratoga Rd.	Los Gatos	California	95032	8f283409d813b43	37.2260847	-121.9721498
+699	Manresa	320 Village Ln.	Los Gatos	California	95030	8f283409db04a53	37.22761	-121.98071
+700	Sushi Yoshizumi	325 E. 4th Ave.	San Mateo	California	94401	8f28309265354ad	37.565075	-122.3211
+701	Wakuriya	115 De Anza Blvd.	San Mateo	California	94402	8f283429da84c82	37.52114	-122.3366
+702	All Spice	1602 El Camino Real	San Mateo	California	94402	8f283429bbac40b	37.553135	-122.315445
+703	Pausa	223 E. 4th Ave.	San Mateo	California	94401	8f283092652686d	37.5645894	-122.3220038
+704	Rêve Bistro	960 Moraga Rd.	Lafayette	California	94549	8f28308954d5a46	37.8905153	-122.1182928
+705	Born & Raised	1909 India St.	San Diego	California	92101	8f29a41ad33095d	32.7245935	-117.1685368
+706	Animae	969 Pacific Hwy.	San Diego	California	92132	8f29a41ad8682ab	32.7155757	-117.1708845
+707	Great Maple	1451 Washington St.	San Diego	California	92103	8f29a41abb20262	32.751873	-117.14966
+708	The Fishery	5040 Cass St.	San Diego	California	92109	8f29a4005c2d999	32.806675	-117.25473
+709	Callie	1195 Island Ave.	San Diego	California	92101	8f29a41aca6dd18	32.7103575	-117.1538654
+710	Trust	3752 Park Blvd.	San Diego	California	92103	8f29a41ab96566d	32.7467324	-117.1464981
+711	Lucha Libre	1810 W. Washington St.	San Diego	California	92103	8f29a411a6ac30e	32.743195	-117.181496
+712	Nolita Hall	2305 India St.	San Diego	California	92101	8f29a41ad22e55c	32.7285741	-117.1702515
+713	Kettner Exchange	2001 Kettner Blvd.	San Diego	California	92101	8f29a41ad305c30	32.7253114	-117.1697261
+714	Soichi	2121 Adams Ave.	San Diego	California	92116	8f29a41ab386b04	32.7627776	-117.1418816
+715	Crack Shack	2266 Kettner Blvd.	San Diego	California	92101	8f29a41ad352b94	32.727753	-117.171
+716	Craft & Commerce	675 W. Beech St.	San Diego	California	92101	8f29a41adb9b208	32.72086	-117.16902
+717	Menya Ultra	8199 Clairemont Mesa Blvd.	San Diego	California	92111	8f29a40163086a3	32.8327072	-117.1470604
+718	Morning Glory	550 W. Date St.	San Diego	California	92101	8f29a41ada93ae9	32.7231471	-117.1681432
+719	Oscar's Mexican Seafood	703 Turquoise St.	San Diego	California	92109	8f29a4005888205	32.808277	-117.260796
+720	Cucina Urbana	505 Laurel St.	San Diego	California	92101	8f29a41ad60c815	32.7312497	-117.160145
+721	Ironside Fish & Oyster	1654 India St.	San Diego	California	92101	8f29a41ada95708	32.72251	-117.16833
+722	LOLA 55	1290 F St.	San Diego	California	92101	8f29a41addae120	32.7138053	-117.1530704
+723	Solare	2820 Roosevelt Rd.	San Diego	California	92106	8f29a411b81c22b	32.737253	-117.213925
+724	Sushi Tadokoro	2244 San Diego Ave.	San Diego	California	92110	8f29a403482a905	32.7483809	-117.1913167
+725	Medina	2850 El Cajon Blvd.	San Diego	California	92104	8f29a41abcce815	32.7555336	-117.1323169
+726	Fort Oak	1011 Fort Stockton Dr.	San Diego	California	92103	8f29a41a9342dad	32.7507849	-117.1723897
+727	Siamo Napoli	3959 30th St.	San Diego	California	92104	8f29a41abda8848	32.749668	-117.1299206
+728	Cesarina	4161 Voltaire St.	San Diego	California	92107	8f29a411965c28c	32.7434966	-117.234556
+729	Salud	2196 Logan Ave.	San Diego	California	92113	8f29a411266b42a	32.6982276	-117.1394646
+730	Sovereign	1460 J St.	San Diego	California	92101	8f29a41aca74d68	32.709467	-117.1510183
+731	Ciccia Osteria	2233 Logan Ave.	San Diego	California	92113	8f29a41126632e8	32.6974548	-117.1388338
+732	Spicy City	4690 Convoy St.	San Diego	California	92111	8f29a4014696619	32.82658	-117.15445
+733	Herb & Wood	2210 Kettner Blvd.	San Diego	California	92101	8f29a41ad356835	32.7271564	-117.1709448
+734	Hidden Fish	4764 Convoy St.	San Diego	California	92111	8f29a4016a41a99	32.8283394	-117.1536932
+735	Juniper & Ivy	2228 Kettner Blvd.	San Diego	California	92101	8f29a41ad35621c	32.7274982	-117.1710183
+736	Coasterra	880 Harbor Island Dr.	San Diego	California	92101	8f29a411a989145	32.7247668	-117.1881533
+737	Addison	5200 Grand Del Mar Way	San Diego	California	92130	8f29a40f0a22128	32.9412972	-117.1988908
+738	Cloak & Petal	1953 India St.	San Diego	California	92101	8f29a41ad331626	32.72515	-117.16883
+739	Mariscos Jalisco	753 E. Holt Ave.	Pomona	California	91767	8f29a0adc988384	34.0628203	-117.7354583
+740	Café Romanat	462 Santa Clara Ave.	Oakland	California	94610	8f28308129990de	37.811855	-122.248276
+741	Millennium	5912 College Ave.	Oakland	California	94618	8f28308ac392ac1	37.847427	-122.252075
+742	Barcote	6430 Telegraph Ave.	Oakland	California	94609	8f28308ac25aa2d	37.850845	-122.260345
+743	Tacos Oscar	420 40th St.	Oakland	California	94609	8f28308135a4c59	37.8286404	-122.2602429
+744	Commis	3859 Piedmont Ave.	Oakland	California	94611	8f2830812236b62	37.8246825	-122.254846
+745	Mägo	3762 Piedmont Ave.	Oakland	California	94611	8f283081230e49c	37.8233782	-122.2561959
+746	Teni East Kitchen	4015 Broadway	Oakland	California	94611	8f28308122e0ccb	37.8278	-122.25663
+747	MAMA Oakland	388 Grand Ave.	Oakland	California	94610	8f2830812970aa6	37.8090021	-122.2542995
+748	Belotti Ristorante e Bottega	5403 College Ave.	Oakland	California	94618	8f28308ac109625	37.840256	-122.25138
+749	Wood Tavern	6317 College Ave.	Oakland	California	94618	8f28308ac293ab2	37.85076	-122.25265
+750	Chuan Yu	388 9th St.	Oakland	California	94607	8f2830810895b09	37.8005743	-122.2715069
+751	Delage	536 9th St.	Oakland	California	94607	8f28308108f336b	37.801624	-122.27508
+752	Taquería El Paisa	4610 International Blvd.	Oakland	California	94601	8f28309884e30f0	37.770894	-122.2112574
+753	Bardo Lounge	3343 Lakeshore Ave.	Oakland	California	94610	8f2830812d744b6	37.8110299	-122.2434093
+754	Soba Ichi	2311A Magnolia St.	Oakland	California	94607	8f28308115ae72b	37.81691	-122.28472
+755	Horn Barbecue	2534 Mandela Pkwy.	Oakland	California	94607	8f28308114566de	37.8204022	-122.288888
+756	Brotzeit Lokal	1000 Embarcadero	Oakland	California	94606	8f283081694029e	37.787735	-122.2539921
+757	FOB Kitchen	5179 Telegraph Ave.	Oakland	California	94609	8f28308acb733b2	37.837746	-122.2628885
+758	CDP	3861 Piedmont Ave.	Oakland	California	94611	8f2830812234195	37.824505	-122.25496
+759	Felix	1023 Abbot Kinney Blvd.	Venice	California	90291	8f29a19ae4a24cb	33.99208	-118.47177
+760	Gjelina	1429 Abbot Kinney Blvd.	Venice	California	90291	8f29a198590374d	33.99045	-118.465034
+761	Plant Food + Wine	1009 Abbot Kinney Blvd.	Venice	California	90291	8f29a19ae4a3425	33.992172	-118.47227
+762	Mesa Verde	1919 Cliff Dr.	Santa Barbara	California	93109	8f29ac932d36648	34.4015115	-119.7224482
+763	Yoichi’s	230 E. Victoria St.	Santa Barbara	California	93101	8f2912649091882	34.426804	-119.70299
+764	Sama Sama Kitchen	1208 State St.	Santa Barbara	California	93101	8f291264918e840	34.4236674	-119.7045301
+765	Loquita	202 State St.	Santa Barbara	California	93101	8f2912648af6d46	34.4140993	-119.6916636
+766	The Lark	131 Anacapa St.	Santa Barbara	California	93101	8f2912648a9d922	34.414574	-119.68986
+767	Bibi Ji	734 State St.	Santa Barbara	California	93101	8f2912649cadacc	34.4196204	-119.6990566
+768	Barbareño	205 W. Canon Perdido St.	Santa Barbara	California	93101	8f291264952eb56	34.422848	-119.69819
+769	Blackbird	36 State St.	Santa Barbara	California	93101	8f2912648aa3794	34.4132948	-119.6900705
+770	Los Agaves	600 N. Milpas St.	Santa Barbara	California	93101	8f291264b826ce2	34.427376	-119.6866
+771	Sushi | Bar Montecito	1295 Coast Village Rd.	Santa Barbara	California	93108	8f291265d236d73	34.4214368	-119.6400634
+772	The Stonehouse	900 San Ysidro Ln.	Santa Barbara	California	93108	8f291265bb2875c	34.446564	-119.623146
+773	Corazon Cocina	38 W. Victoria St.	Santa Barbara	California	93101	8f2912649035262	34.4235974	-119.7070638
+774	Bettina	1014 Coast Village Rd.	Santa Barbara	California	93108	8f291264ace62ab	34.4226378	-119.6521334
+775	Newport Seafood	518 W. Las Tunas Dr.	San Gabriel	California	91776	8f29a1d1921db0e	34.1023916	-118.1068473
+776	Mian	301 W. Valley Blvd., Ste. 114	San Gabriel	California	91776	8f29a1d1d2a875b	34.0800007	-118.104243
+777	Chongqing Special Noodles	708 E. Las Tunas Dr.	San Gabriel	California	91776	8f29a1d1979e758	34.1031351	-118.0917503
+778	Babita Mexicuisine	1823 S. San Gabriel Blvd.	San Gabriel	California	91776	8f29a1d1d453724	34.07632	-118.09075
+779	Benten Ramen	821 W. Las Tunas Dr.	San Gabriel	California	91776	8f29a1c24c936c2	34.1023165	-118.1119917
+780	Luscious Dumplings	919 W. Duarte Rd.	Monrovia	California	91016	8f29a1c36572492	34.1319451	-118.0185111
+781	Tempura Endo	9777 S. Santa Monica Blvd.	Beverly Hills	California	90210	8f29a1998c569b0	34.067802	-118.40915
+782	Kazan	111 N. La Cienega Blvd.	Beverly Hills	California	90211	8f29a1d6db2688d	34.0676223	-118.376527
+783	Mírame	419 N. Ca\u00f1on Dr.	Beverly Hills	California	90210	8f29a199e24aa5a	34.0711525	-118.4015766
+784	Maude	212 S. Beverly Dr.	Beverly Hills	California	90212	8f29a199ead369a	34.064346	-118.39904
+785	Avra	233 N. Beverly Dr.	Beverly Hills	California	90210	8f29a199e35e18b	34.06764	-118.39971
+786	CUT	9500 Wilshire Blvd.	Beverly Hills	California	90212	8f29a199e343b62	34.067036	-118.401024
+787	Spago	176 N. Ca\u00f1on Dr.	Beverly Hills	California	90210	8f29a199e2238b1	34.06756	-118.397766
+788	Nozawa Bar	212 N. Ca\u00f1on Dr.	Beverly Hills	California	90210	8f29a199e22ab90	34.0683345	-118.398404
+789	Gucci Osteria da Massimo Bottura	347 N. Rodeo Dr.	Beverly Hills	California	90210	8f29a1998c96276	34.0683993	-118.4024313
+790	Il Pastaio	400 N. Ca\u00f1on Dr.	Beverly Hills	California	90210	8f29a199e25d901	34.070686	-118.400894
+791	Jean-Georges	9850 Wilshire Blvd.	Beverly Hills	California	90210	8f29a1998c60872	34.0665929	-118.4117345
+792	Yasu	265 S. Robertson Blvd.	Beverly Hills	California	90211	8f29a199e55da68	34.0632305	-118.3836501
+793	The Lobster	1602 Ocean Ave.	Santa Monica	California	90401	8f29a19aaa13630	34.011154	-118.49501
+794	Pasjoli	2732 Main St.	Santa Monica	California	90405	8f29a19ae6c6165	34.0005122	-118.4821085
+795	Rustic Canyon	1119 Wilshire Blvd.	Santa Monica	California	90401	8f29a198c9094f2	34.024952	-118.49118
+796	Colapasta	1241 5th St.	Santa Monica	California	90401	8f29a19aa27500b	34.0190328	-118.4962761
+797	Tūmbi	115 Santa Monica Blvd.	Santa Monica	California	90401	8f29a19aaac80ca	34.014547	-118.4976517
+798	Chinois on Main	2709 Main St.	Santa Monica	California	90405	8f29a19ae6c6270	34.000717	-118.482216
+799	Mélisse	1104 Wilshire Blvd.	Santa Monica	California	90401	8f29a198c90d21e	34.0245313	-118.4915408
+800	Michael’s	1147 3rd St.	Santa Monica	California	90403	8f29a19abc82776	34.01875	-118.49968
+801	Cassia	1314 7th St.	Santa Monica	California	90401	8f29a19aa21d351	34.019684	-118.49349
+802	Citrin	1104 Wilshire Blvd.	Santa Monica	California	90401	8f29a198c90d0ea	34.0244469	-118.4914389
+803	Lunetta	2424 Pico Blvd.	Santa Monica	California	90405	8f29a1981109118	34.02249	-118.46367
+804	Birdie G's	2421 Michigan Ave.	Santa Monica	California	90404	8f29a1981331aa1	34.0270648	-118.4688801
+805	Fia	2454 Wilshire Blvd.	Santa Monica	California	90403	8f29a198c572368	34.0351233	-118.4785237
+806	Élephante	1332 2nd St.	Santa Monica	California	90401	8f29a19aa365aab	34.0153998	-118.4978304
+807	Milo + Olive	2723 Wilshire Blvd.	Santa Monica	California	90403	8f29a198c40675c	34.0373984	-118.4758441
+808	Yafa	Junipero St.	Carmel-by-the-Sea	California	93923	8f291a6c624e580	36.55702	-121.92013
+809	Aubergine	Monte Verde at 7th Ave.	Carmel-by-the-Sea	California	93921	8f291a6c0cae234	36.55406	-121.924355
+810	La Bicyclette	29 Dolores St.	Carmel-by-the-Sea	California	93921	8f291a6c0cb145e	36.5539364	-121.9225771
+811	Seventh & Dolores	7th Ave. & Dolores St.	Carmel-by-the-Sea	California	93921	8f291a6c0cb56d0	36.55362	-121.92262
+812	Cultura	100 Dolores St.	Carmel-by-the-Sea	California	93923	8f291a6c0c9b263	36.5562764	-121.923092
+813	Casanova	95 5th Ave.	Carmel-by-the-Sea	California	93921	8f291a6c624dca9	36.5568435	-121.921233
+814	Dametra Cafe	Corner of Lincoln St.	Carmel-by-the-Sea	California	93921	8f291a6c0c83334	36.554985	-121.92342
+815	Akaoni	Mission St.	Carmel-by-the-Sea	California	93921	8f291a6c626e241	36.5559718	-121.9210771
+816	Fishwives	88 N. Fair Oaks Ave.	Pasadena	California	91103	8f29a1c2174dcc1	34.1471318	-118.1504096
+817	Perle	43 E. Union St.	Pasadena	California	91103	8f29a1c21741232	34.1468638	-118.1496566
+818	Royce	1401 S. Oak Knoll Ave.	Pasadena	California	91106	8f29a1c25490203	34.12092	-118.13336
+819	Maestro	110 E. Union St.	Pasadena	California	91103	8f29a1c21755295	34.146732	-118.14811
+820	Agnes	40 W. Green St.	Pasadena	California	91105	8f29a1c213b37a3	34.1444438	-118.1513515
+821	The Raymond	1250 S. Fair Oaks Ave.	Pasadena	California	91105	8f29a1c2574d292	34.12418	-118.15017
+822	Osawa	77 N. Raymond Ave.	Pasadena	California	91101	8f29a1c2175d9b5	34.1472495	-118.1490434
+823	Union	37 East Union St.	Pasadena	California	91103	8f29a1c2174cdb3	34.1468	-118.14981
+824	Parkway Grill	510 S. Arroyo Pkwy.	Pasadena	California	91105	8f29a1c21110c1b	34.13678	-118.14723
+825	Madera	2825 Sand Hill Rd.	Menlo Park	California	94025	8f283476b59b843	37.42014	-122.21151
+826	Flea St. Cafe	3607 Alameda de las Pulgas	Menlo Park	California	94025	8f283474c018c94	37.4317	-122.20127
+827	Camper	898 Santa Cruz Ave.	Menlo Park	California	94025	8f283474e20e9a5	37.449905	-122.18604
+828	Top Hatters Kitchen	855 Macarthur Blvd.	San Leandro	California	94577	8f283098219cae2	37.7373393	-122.1417697
+829	Bavel	500 Mateo St.	Los Angeles	California	90013	8f29a1d7553432a	34.041275	-118.233055
+830	Mercado Los Angeles	7910 W. 3rd St.	Los Angeles	California	90048	8f29a1d6dc5b785	34.0714628	-118.3620774
+831	Orsa & Winston	122 W. 4th St.	Los Angeles	California	90013	8f29a1d7538429d	34.0484698	-118.2479493
+832	Killer Noodle	2030 Sawtelle Blvd.	Los Angeles	California	90025	8f29a19833a5b2b	34.0404507	-118.4430102
+833	Petit Trois	718 N. Highland Ave.	Los Angeles	California	90028	8f29a1d68c5b29b	34.0839644	-118.3382499
+834	Otoño	5715 N. Figueroa St.	Los Angeles	California	90042	8f29a1d50c7354a	34.109833	-118.19239
+835	Flame	1442 Westwood Blvd.	Los Angeles	California	90024	8f29a199d8f0628	34.05451	-118.44104
+836	Baltaire	11647 San Vicente Blvd.	Los Angeles	California	90049	8f29a198e76e10a	34.0539676	-118.4638346
+837	Meals by Genet	1053 S. Fairfax Ave.	Los Angeles	California	90019	8f29a1993776b75	34.0567097	-118.3646751
+838	Meizhou Dongpo	10250 Santa Monica Blvd.	Los Angeles	California	90067	8f29a199c2d0403	34.059647	-118.419685
+839	Ronan	7315 Melrose Ave.	Los Angeles	California	90046	8f29a1d68b802d9	34.08361	-118.34922
+840	Q Sushi	521 W. 7th St.	Los Angeles	California	90014	8f29a1d75365804	34.046883	-118.255844
+841	Bicyclette Bistro	9575 W. Pico Blvd.	Los Angeles	California	90035	8f29a199e841810	34.0552448	-118.3975735
+842	Holbox	3655 S. Grand Ave.	Los Angeles	California	90007	8f29a56d925810b	34.017384	-118.27802
+843	Osteria Mozza	6602 Melrose Ave.	Los Angeles	California	90038	8f29a1d68c59123	34.0834246	-118.3386857
+844	Marugame Monzo	329 E. 1st St.	Los Angeles	California	90012	8f29a1d7571e40c	34.050018	-118.2397919
+845	Chosun Galbee	3330 W. Olympic Blvd.	Los Angeles	California	90019	8f29a1d61544d69	34.0526	-118.310326
+846	IMA	9669 S. Santa Monica Blvd.	Los Angeles	California	90210	8f29a1998cf392e	34.0690364	-118.4068137
+847	Bestia	2121 E. 7th Pl.	Los Angeles	California	90021	8f29a1d74af625c	34.0334815	-118.228991
+848	Phenakite	1370 N. St. Andrews Pl.	Los Angeles	California	90028	8f29a1d6acc22e5	34.0967156	-118.3108658
+849	Dha Rae Oak	1106 S. Western Ave.	Los Angeles	California	90006	8f29a1d61cd386c	34.05054	-118.309
+850	Badmaash	108 W. 2nd St., Ste. 104	Los Angeles	California	90012	8f29a1d7574ec8a	34.05115	-118.24476
+851	Bull & Butterfly	12204 Jefferson Blvd.	Los Angeles	California	90066	8f29a19b1094ce0	33.9815747	-118.4078151
+852	Chi Spacca	6610 Melrose Ave.	Los Angeles	California	90038	8f29a1d68c4a606	34.08342	-118.339096
+853	Jeong Yuk Jeom	621 S. Western Ave., Ste.100	Los Angeles	California	90005	8f29a1d63b49b29	34.0626623	-118.3088186
+854	Shibumi	815 S. Hill St.	Los Angeles	California	90014	8f29a1d75a52611	34.044155	-118.256134
+855	La Cevicheria	3809 W. Pico Blvd.	Los Angeles	California	90019	8f29a1d6185a59c	34.0476164	-118.3228419
+856	Fellow	1071 Glendon Ave.	Los Angeles	California	90024	8f29a199da9e680	34.0612917	-118.4445326
+857	Guisados	2100 E. Cesar E. Chavez Ave.	Los Angeles	California	90033	8f29a1d70da95b0	34.048306	-118.21142
+858	Morihiro	3133 Glendale Blvd.	Los Angeles	California	90039	8f29a1d43c35156	34.1166298	-118.2625547
+859	Charcoal Venice	425 Washington Blvd.	Los Angeles	California	90292	8f29a19a30e8740	33.981514	-118.462845
+860	Spoon & Pork	3131 W. Sunset Blvd.	Los Angeles	California	90026	8f29a1d442aca5a	34.0852694	-118.2745864
+861	Guerrilla Tacos	2000 E. 7th St.	Los Angeles	California	90021	8f29a1d74ae961a	34.034565	-118.232185
+862	Olympic Cheonggukjang	2528 W. Olympic Blvd.	Los Angeles	California	90006	8f29a1d60694988	34.0520498	-118.2846207
+863	Master Ha	1147 S. Western Ave.	Los Angeles	California	90006	8f29a1d61cf3519	34.049496	-118.30909
+864	Oriel	1135 N. Alameda St.	Los Angeles	California	90012	8f29a1d71cab9ac	34.0624425	-118.2357866
+865	Quarters BBQ	3465 W. 6th St.	Los Angeles	California	90020	8f29a1d6316a02d	34.063614	-118.29773
+866	Luv 2 Eat Thai Bistro	6660 Sunset Blvd. P	Los Angeles	California	90028	8f29a1d6868e750	34.09794	-118.33596
+867	WoodSpoon	107 W. 9th St.	Los Angeles	California	90015	8f29a1d75a05740	34.0417732	-118.2551835
+868	Guelaguetza	3014 W. Olympic Blvd.	Los Angeles	California	90006	8f29a1d602cc62a	34.0525532	-118.3008979
+869	The Thai Thing	6015 W. 3rd St.	Los Angeles	California	90036	8f29a1d6c27590e	34.0702776	-118.3518699
+870	Animal	435 N. Fairfax Ave.	Los Angeles	California	90036	8f29a1d6d714a54	34.0793889	-118.3616297
+871	Ayara Thai Cuisine	6245 W. 87th St.	Los Angeles	California	90045	8f29a19b0971631	33.95861	-118.39456
+872	La Azteca	4538 E. Cesar E Chavez Ave.	Los Angeles	California	90022	8f29a1d2b70ec0d	34.0404163	-118.1683741
+873	Genwa	5115 Wilshire Blvd.	Los Angeles	California	90036	8f29a1d6c11b452	34.0622	-118.34106
+874	Jon & Vinny’s	412 N. Fairfax Ave.	Los Angeles	California	90036	8f29a1d6d73661e	34.0786428	-118.3612687
+875	Manuela	907 E. 3rd St.	Los Angeles	California	90013	8f29a1d7542a619	34.04608	-118.23489
+876	Hayato	1320 E. 7th St., Ste. 126	Los Angeles	California	90021	8f29a56db6cbae6	34.0338072	-118.2418788
+877	Mi Lindo Nayrit Mariscos	1020 E. Florence Ave.	Los Angeles	California	90001	8f29a56dca5c3a1	33.9746604	-118.256516
+878	Angelini Osteria	7313 Beverly Blvd.	Los Angeles	California	90036	8f29a1d68944b1b	34.076214	-118.34914
+879	Kismet	4648 Hollywood Blvd.	Los Angeles	California	90027	8f29a1d456c0a0d	34.1002978	-118.2907005
+880	Gwen	6600 Sunset Blvd.	Los Angeles	California	90028	8f29a1d6aa6cda2	34.0979419	-118.3332968
+881	Soban	4001 W. Olympic Blvd.	Los Angeles	California	90019	8f29a1d610448a3	34.053913	-118.320786
+882	Hamasaku	11043 Santa Monica Blvd.	Los Angeles	California	90025	8f29a199d928594	34.0483494	-118.4431098
+883	Konbi	1463 Sunset Blvd.	Los Angeles	California	90026	8f29a1d71250206	34.07543	-118.2539569
+884	Awash	5990 1/2 W. Pico Blvd.	Los Angeles	California	90035	8f29a199306c62c	34.052246	-118.37071
+885	Shaherzad	1422 Westwood Blvd.	Los Angeles	California	90024	8f29a199d8c60b6	34.05505	-118.441475
+886	Redbird	114 E. 2nd St.	Los Angeles	California	90012	8f29a1d75742d6b	34.05062	-118.24392
+887	Carlitos Gardel	7963 Melrose Ave.	Los Angeles	California	90046	8f29a1d6d61daec	34.083855	-118.36319
+888	Dama	612 E. 11th St.	Los Angeles	California	90015	8f29a1d664947ad	34.035213	-118.25298
+889	Brera Ristorante	1331 E. 6th St.	Los Angeles	California	90021	8f29a1d75ca1235	34.0384128	-118.2349548
+890	Rossoblu	1124 San Julian St.	Los Angeles	California	90015	8f29a1d66495113	34.035248	-118.25355
+891	Pine & Crane	1521 Griffith Park Blvd.	Los Angeles	California	90026	8f29a1d4096e794	34.0904961	-118.2772213
+892	Petty Cash	7360 Beverly Blvd.	Los Angeles	California	90036	8f29a1d6896c701	34.07611	-118.35036
+893	A.O.C.	8700 W. 3rd St.	Los Angeles	California	90048	8f29a1d6da6d461	34.073524	-118.38193
+894	Yong Su San	950 S. Vermont Ave.	Los Angeles	California	90006	8f29a1d606e9499	34.053997	-118.29128
+895	Jar	8225 Beverly Blvd.	Los Angeles	California	90048	8f29a1d6d043b98	34.0764544	-118.3698721
+896	Mori Sushi	11500 W. Pico Blvd.	Los Angeles	California	90064	8f29a19838ca20a	34.033398	-118.44229
+897	Pizzeria Mozza	641 N. Highland Ave.	Los Angeles	California	90036	8f29a1d68c5d04b	34.0830906	-118.3387599
+898	Alta Adams	5359 W. Adams Blvd.	Los Angeles	California	90016	8f29a199044d664	34.032516	-118.35998
+899	Hippo	5916 1/2 Figueroa St.	Los Angeles	California	90042	8f29a1d50ce0db4	34.1106258	-118.1903181
+900	Le Comptoir	3606 W. 6th St.	Los Angeles	California	90020	8f29a1d63aa4526	34.0634658	-118.300451
+901	Freedman’s	2619 Sunset Blvd.	Los Angeles	California	90026	8f29a1d440e3216	34.080568	-118.2698815
+902	Son of a Gun	8370 W. 3rd St.	Los Angeles	California	90048	8f29a1d6db9b79e	34.0727791	-118.3724711
+903	Chifa	4374 Eagle Rock Blvd.	Los Angeles	California	90041	8f29a1d51118b2b	34.1236509	-118.2212657
+904	Kiriko	11301 W. Olympic Blvd.	Los Angeles	California	90064	8f29a1983046905	34.0382384	-118.441327
+905	Father’s Office	3229 Helms Ave.	Los Angeles	California	90034	8f29a1991d54022	34.03052	-118.38468
+906	n/naka	3455 S. Overland Ave.	Los Angeles	California	90034	8f29a1982036535	34.02526	-118.41206
+907	Yxta	601 S. Central Ave.	Los Angeles	California	90021	8f29a1d75c757a0	34.038	-118.240135
+908	Monte Alban	11929 Santa Monica Blvd.	Los Angeles	California	90025	8f29a198e89015d	34.041542	-118.46117
+909	Found Oyster	4880 Fountain Ave.	Los Angeles	California	90029	8f29a1d45769282	34.0953376	-118.2958733
+910	Openaire	3515 Wilshire Blvd.	Los Angeles	California	90010	8f29a1d63baabaa	34.061775	-118.301285
+911	Alimento	1710 Silver Lake Blvd.	Los Angeles	California	90026	8f29a1d409b4d8a	34.089577	-118.26825
+912	Gish-Bac	4163 W. Washington Blvd.	Los Angeles	California	90018	8f29a199251ccb3	34.039906	-118.33018
+913	The Factory Kitchen	1300 Factory Pl., Ste. 101	Los Angeles	California	90013	8f29a1d75ca98c2	34.03912	-118.23589
+914	Parks BBQ	955 S. Vermont Ave., Ste.G	Los Angeles	California	90006	8f29a1d639b4c2e	34.053967	-118.29194
+915	Langer's	704 S. Alvarado St.	Los Angeles	California	90057	8f29a1d62325ba8	34.056217	-118.27692
+916	Pizzana	11712  San Vicente Blvd.	Los Angeles	California	90049	8f29a198e39c56b	34.053474	-118.46568
+917	Jitlada	5233 1/2 W. Sunset Blvd.	Los Angeles	California	90027	8f29a1d6a5a64cb	34.0985581	-118.3041058
+918	Soowon Galbi	856 S. Vermont Ave.	Los Angeles	California	90005	8f29a1d63d6d8b3	34.056587	-118.29159
+919	Cosa Buona	2100 W. Sunset Blvd.	Los Angeles	California	90026	8f29a1d4456c95b	34.0771613	-118.2639023
+920	Maccheroni Republic	332 S. Broadway	Los Angeles	California	90013	8f29a1d7538b509	34.050137	-118.248726
+921	The Exchange	416 W. 8th St.	Los Angeles	California	90014	8f29a1d75ae9d26	34.04491	-118.2565934
+922	Matsumoto	8385 Beverly Blvd.	Los Angeles	California	90048	8f29a1d6d33584d	34.076275	-118.37288
+923	majordōmo	1725 Naud St.	Los Angeles	California	90012	8f29a1d73956334	34.0694388	-118.2256022
+924	Tsubaki	1356 Allison Ave.	Los Angeles	California	90026	8f29a1d71231ac1	34.0728147	-118.2515256
+925	Soregashi	6775 Santa Monica Blvd.	Los Angeles	California	90038	8f29a1d68735c9c	34.09078	-118.338104
+926	Bee Taqueria	5754 W. Adams Blvd.	Los Angeles	California	90016	8f29a199038488d	34.0323899	-118.3689054
+927	Mille Fleurs	6009 Paseo Delicias	Rancho Santa Fe	California	92067	8f29a40dcca0a80	33.019524	-117.20365
+928	Adana Restaurant	6918 San Fernando Rd.	Glendale	California	91201	8f29a1c6481dd74	34.173664	-118.29869
+929	Bourbon Steak	237 S. Brand Blvd.	Glendale	California	91210	8f29a1d5c229021	34.142925	-118.2551
+930	Zhengyalov Hatz	318 E. Broadway	Glendale	California	91205	8f29a1d5c2d470e	34.1462609	-118.2516092
+931	Greens	2 Marina Blvd.	San Francisco	California	94123	8f283087658dcac	37.80664	-122.43209
+932	Rich Table	199 Gough St.	San Francisco	California	94102	8f283082806a7a8	37.7749011	-122.4227597
+933	Wayfare Tavern	558 Sacramento St.	San Francisco	California	94111	8f283082a2e4150	37.7939035	-122.4024563
+934	Sichuan Home	5037 Geary Blvd.	San Francisco	California	94118	8f2830874974d94	37.78054	-122.47362
+935	True Laurel	753 Alabama St.	San Francisco	California	94110	8f283082c78ba88	37.759403	-122.41158
+936	Lazy Bear	3416 19th St.	San Francisco	California	94110	8f283082c66d356	37.7602404	-122.4196716
+937	State Bird Provisions	1529 Fillmore St.	San Francisco	California	94115	8f2830829426c55	37.783737	-122.43283
+938	The Cavalier	360 Jessie St.	San Francisco	California	94103	8f283082aa2d814	37.783367	-122.40685
+939	Pizzetta 211	211 23rd Ave.	San Francisco	California	94121	8f283095b4e144a	37.7837368	-122.4829596
+940	Birdsong	1085 Mission St.	San Francisco	California	94103	8f28308287b0c09	37.779495	-122.41048
+941	The Progress	1525 Fillmore St.	San Francisco	California	94115	8f2830829426c29	37.78371	-122.43282
+942	Z & Y	655 Jackson St.	San Francisco	California	94133	8f283082b5a3c65	37.7960493	-122.4060049
+943	Shish Ke Baba	59 30th St.	San Francisco	California	94110	8f283082c9582b4	37.7424132	-122.4230052
+944	Nopalito	306 Broderick St.	San Francisco	California	94117	8f283082d6d866c	37.7732695	-122.4388555
+945	Harborview	4 Embarcadero Center	San Francisco	California	94111	8f283082a66c92c	37.795055	-122.39656
+946	Gibson	111 Mason St.	San Francisco	California	94102	8f283082aa61019	37.78451	-122.409386
+947	Liholiho Yacht Club	871 Sutter St.	San Francisco	California	94109	8f283082bd519a6	37.7884286	-122.4146384
+948	Saison	178 Townsend St.	San Francisco	California	94107	8f283082c6cd418	37.76327	-122.41543
+949	Mensho	672 Geary St.	San Francisco	California	94102	8f283082bd74d9e	37.7867072	-122.4143032
+950	flour + water	2401 Harrison St.	San Francisco	California	94110	8f283082c632089	37.7589299	-122.4123569
+951	Sons & Daughters	708 Bush St.	San Francisco	California	94108	8f283082bca409c	37.7902661	-122.4091443
+952	Wako	211 Clement St.	San Francisco	California	94118	8f2830874d01815	37.7830681	-122.4615303
+953	Bellota	888 Brannan St.	San Francisco	California	94103	8f283082e24e0d8	37.7721304	-122.4046275
+954	jū-ni	1335 Fulton St.	San Francisco	California	94117	8f2830829d5b576	37.77672	-122.43886
+955	Mister Jiu’s	28 Waverly Pl.	San Francisco	California	94108	8f283082a26a36a	37.79371	-122.406654
+956	Al's Place	1499 Valencia St.	San Francisco	California	94110	8f283082c14442e	37.748924	-122.42013
+957	Monsieur Benjamin	451 Gough St.	San Francisco	California	94102	8f28308283aea36	37.77743	-122.4232
+958	Coqueta	Pier 5	San Francisco	California	94111	8f283080c9a1b41	37.798218	-122.39644
+959	Merchant Roots	1365 Fillmore St.	San Francisco	California	94115	8f28308295062de	37.7820215	-122.432447
+960	Dumpling Specialist	1123 Taraval St.	San Francisco	California	94116	8f283095eb548a3	37.7429356	-122.4781622
+961	Aziza	5800 Geary Blvd.	San Francisco	California	94121	8f283095b422094	37.78056	-122.48179
+962	Kusakabe	584 Washington St.	San Francisco	California	94111	8f283082a2ea29b	37.7956831	-122.4030806
+963	Atelier Crenn	3127 Fillmore St.	San Francisco	California	94123	8f2830876c3639c	37.79835	-122.43586
+964	Burma Superstar	309 Clement St.	San Francisco	California	94118	8f2830874d2b8ac	37.7830128	-122.4625074
+965	Hog Island Oyster Co.	1 Ferry Building	San Francisco	California	94111	8f283082a65405a	37.79604	-122.393555
+966	Del Popolo	855 Bush St.	San Francisco	California	94108	8f283082bc33258	37.789772	-122.41141
+967	Akiko’s	431 Bush St.	San Francisco	California	94108	8f283082a342d4b	37.790653	-122.4046789
+968	Pearl 6101	6101 California St.	San Francisco	California	94121	8f283095b4eec25	37.783943	-122.48298
+969	Violet's	2301 Clement St.	San Francisco	California	94121	8f283095b472d62	37.782017	-122.483925
+970	Barrio	1609 Powell St.	San Francisco	California	94133	8f283082b456994	37.7995	-122.41074
+971	Boulevard	1 Mission St.	San Francisco	California	94105	8f283082a752d0d	37.79335	-122.39273
+972	Empress by Boon	838 Grant Ave.	San Francisco	California	94108	8f283082a24869c	37.794757	-122.4063237
+973	El Buen Comer	3435 Mission St.	San Francisco	California	94110	8f283082c951694	37.74184	-122.42225
+974	3rd Cousin	919 Cortland Ave.	San Francisco	California	94110	8f28309526e5750	37.7390026	-122.4136903
+975	Prospect	300 Spear St.	San Francisco	California	94105	8f283082a099418	37.7898387	-122.3909077
+976	Anchor Oyster Bar	579 Castro St.	San Francisco	California	94114	8f283082d575b8e	37.75986	-122.43468
+977	1601 Bar & Kitchen	1601 Howard St.	San Francisco	California	94103	8f283082811ac96	37.7716945	-122.4169036
+978	Rooh	333 Brannan St.	San Francisco	California	94107	8f283082a89e4a3	37.781227	-122.39286
+979	Dumpling Home	298 Gough St.	San Francisco	California	94102	8f283082804aa42	37.7759271	-122.4227056
+980	Sorrel	3228 Sacramento St.	San Francisco	California	94115	8f283082939e094	37.788334	-122.44614
+981	AltoVino	1358 Mason St.	San Francisco	California	94133	8f283082b555902	37.79621	-122.411644
+982	Acquerello	1722 Sacramento St.	San Francisco	California	94109	8f283082b8d3728	37.79167	-122.42131
+983	Omakase	665 Townsend St.	San Francisco	California	94103	8f283082e2706f5	37.77077	-122.40298
+984	Sasaki	2400 Harrison St.	San Francisco	California	94110	8f283082c632823	37.758686	-122.41246
+985	Perbacco	230 California St.	San Francisco	California	94111	8f283082a2a1691	37.7934664	-122.3992162
+986	Dumpling Alley	2512 Clement St.	San Francisco	California	94121	8f283095b46316d	37.7819861	-122.4861117
+987	Outerlands	4001 Judah St.	San Francisco	California	94122	8f2830959d9ba0d	37.7604361	-122.5050059
+988	Kokkari Estiatorio	200 Jackson St.	San Francisco	California	94111	8f283080c928480	37.79717	-122.39981
+989	Benu	22 Hawthorne St.	San Francisco	California	94105	8f283082a14884c	37.7853763	-122.3990601
+990	Saru	3856 24th St.	San Francisco	California	94114	8f283082cae85a8	37.7516715	-122.4287658
+991	Niku Steakhouse	61 Division St.	San Francisco	California	94103	8f283082e35bbb0	37.7697497	-122.4036208
+992	The Snug	2301 Fillmore St.	San Francisco	California	94115	8f283082bb616c4	37.790806	-122.43427
+993	Flores	2030 Union St.	San Francisco	California	94123	8f2830876db318d	37.7975502	-122.4326948
+994	Okane	669 Townsend St.	San Francisco	California	94103	8f283082e2700d0	37.770634	-122.403015
+995	A16	2355 Chestnut St.	San Francisco	California	94123	8f2830876c6eb09	37.7999626	-122.4421573
+996	O' by Claude Le Tohic	165 O'Farrell St.	San Francisco	California	94102	8f283082aa5ec4e	37.7863767	-122.4074317
+997	Cotogna	490 Pacific Ave.	San Francisco	California	94133	8f283082b592cf0	37.7974268	-122.4034608
+998	Zero Zero	826 Folsom St.	San Francisco	California	94107	8f283082aba0b51	37.78157	-122.401955
+999	Quince	470 Pacific Ave.	San Francisco	California	94133	8f283080c9652c2	37.7975054	-122.4032607
+1000	Mourad	140 New Montgomery St.	San Francisco	California	94105	8f283082aa9378c	37.78695	-122.39987
+1001	Zuni Café	1658 Market St.	San Francisco	California	94102	8f2830828075036	37.7737194	-122.4212575
+1002	Routier	2801 California St.	San Francisco	California	94115	8f2830829701ccc	37.7879899	-122.4405741
+1003	Angler SF	132 The Embarcadero	San Francisco	California	94105	8f283082a625da3	37.793167	-122.39213
+1004	Sociale	3665 Sacramento St.	San Francisco	California	94118	8f2830829351c1b	37.7872221	-122.4530438
+1005	Fiorella	2339 Clement St.	San Francisco	California	94121	8f283095b470053	37.78197	-122.48453
+1006	Kin Khao	55 Cyril Magnin St.	San Francisco	California	94102	8f283082aa6a8e0	37.785267	-122.40951
+1007	Central Kitchen	3000 20th St.	San Francisco	California	94110	8f283082c78a326	37.7592412	-122.4110505
+1008	Ramenwell	3378 18th St.	San Francisco	California	94110	8f283082c6494d6	37.761906	-122.41884
+1009	Robin	620 Gough St.	San Francisco	California	94102	8f283082838bb2e	37.77919	-122.42336
+1010	Trestle	531 Jackson St.	San Francisco	California	94133	8f283082b5b39a3	37.796303	-122.40457
+1011	Gary Danko	800 North Point St.	San Francisco	California	94109	8f283082b64e9a0	37.8058115	-122.4206863
+1012	Five Happiness	4142 Geary Blvd.	San Francisco	California	94118	8f283095a6c6294	37.781155	-122.46392
+1013	SPQR	1911 Fillmore St.	San Francisco	California	94115	8f28308294e0292	37.7873703	-122.4336712
+1014	The Morris	2501 Mariposa St.	San Francisco	California	94110	8f283082ea6a375	37.76314	-122.40833
+1015	Avery	1552 Fillmore St.	San Francisco	California	94115	8f2830829422d02	37.7841057	-122.4327933
+1016	Delfina	3621 18th St.	San Francisco	California	94110	8f283082c2d804a	37.7614541	-122.4241613
+1017	Café Jacqueline	1454 Grant Ave.	San Francisco	California	94133	8f283082b48d8dc	37.80056	-122.40738
+1018	Villon	1100 Market St.	San Francisco	California	94102	8f283082878325c	37.78104	-122.41189
+1019	Che Fico	838 Divisadero St.	San Francisco	California	94117	8f2830829c762d9	37.777473	-122.43822
+1020	Um.ma	1220 Ninth Ave.	San Francisco	California	94122	8f283095a898656	37.764766	-122.466364
+1021	Ssal	2226 Polk St.	San Francisco	California	94109	8f283082b055422	37.7972584	-122.4219651
+1022	Californios	355 11th St.	San Francisco	California	94103	8f28308281b60cc	37.7712406	-122.4131414
+1023	Farmhouse Kitchen Thai	710 Florida St.	San Francisco	California	94110	8f283082c6a0773	37.760246	-122.41095
+1024	Bar Crenn	3131 Fillmore St.	San Francisco	California	94123	8f2830876c36645	37.798435	-122.43581
+1025	Hamano Sushi	1332 Castro St.	San Francisco	California	94114	8f283082dd0692d	37.7510261	-122.4341135
+1026	La Taqueria	2889 Mission St.	San Francisco	California	94110	8f283082c028cde	37.750828	-122.41827
+1027	Shizen	370 14th St.	San Francisco	California	94103	8f28308288c096d	37.7682494	-122.4216544
+1028	Izakaya Rintaro	82 14th St.	San Francisco	California	94103	8f2830828c45862	37.76858	-122.415115
+1029	The Shota	115 Sansome St.	San Francisco	California	94104	8f283082a230aa3	37.7915182	-122.4009242
+1030	Yank Sing	101 Spear St.	San Francisco	California	94105	8f283082a72b789	37.79186	-122.39265
+1031	Oma San Francisco Station	1737 Post St. #337	San Francisco	California	94115	8f2830829589626	37.7850342	-122.4309219
+1032	Spruce	3640 Sacramento St.	San Francisco	California	94118	8f2830829353630	37.78772	-122.45264
+1033	Berber	1516 Broadway	San Francisco	California	94109	8f283082b075d50	37.7959011	-122.4225012
+1034	Octavia	1701 Octavia St.	San Francisco	California	94109	8f283082b86144e	37.7880138	-122.4270235
+1035	Nightbird	330 Gough St.	San Francisco	California	94102	8f28308283a5c71	37.776485	-122.42288
+1036	Nari	1625 Post St.	San Francisco	California	94115	8f283082959b428	37.7855421	-122.4288317
+1037	Gozu	201 Spear St.	San Francisco	California	94105	8f283082a72e749	37.7912032	-122.3922445
+1038	Palette Tea House	900 N. Point St.	San Francisco	California	94109	8f283080d933910	37.8061062	-122.4227522
+1039	Frances	3870 17th St.	San Francisco	California	94114	8f283082d401b34	37.76293	-122.43239
+1040	Gracias Madre SF	2211 Mission St.	San Francisco	California	94110	8f283082893248c	37.76162	-122.419304
+1041	Marlena	300 Precita Ave.	San Francisco	California	94110	8f283082cc41d9e	37.7467485	-122.4134486
+1042	The Kitchen	2225 Hurley Way, Ste. 101	Sacramento	California	95825	8f2832b124e894b	38.5890509	-121.414234
+1043	Localis	2031 S St.	Sacramento	California	95811	8f2832b1524ace2	38.5665938	-121.4829661
+1044	Beast + Bounty	1701 R St.	Sacramento	California	95811	8f2832b02420a5e	38.5689202	-121.4870595
+1045	Mulvaney’s B&L	1215 19th St.	Sacramento	California	95811	8f2832b11b31ce0	38.574375	-121.48236
+1046	Camden Spit & Larder	555 Capitol Mall	Sacramento	California	95814	8f2832b1c902c92	38.5788217	-121.5002549
+1047	Zócalo	1801 Capitol Ave.	Sacramento	California	95801	8f2832b11b2148d	38.574226	-121.4837515
+1048	Canon	1719 34th St.	Sacramento	California	95816	8f2832b157a0c36	38.5639044	-121.4650099
+1049	Grange	926 J St.	Sacramento	California	95814	8f2832b026d8a2a	38.5802489	-121.4937062
+1050	Allora	5215 Folsom St.	Sacramento	California	95819	8f2832b146c655d	38.560177	-121.44248
+1051	Ella	1131 K St.	Sacramento	California	95814	8f2832b02688062	38.5786358	-121.4914258
+1052	Bacon & Butter	5913 Broadway	Sacramento	California	95820	8f2832b1452085d	38.54683	-121.43599
+1053	Binchoyaki	2226 10th St.	Sacramento	California	95818	8f2832b021421a5	38.5661311	-121.4998105
+1054	Frank Fat’s	806 L St.	Sacramento	California	95814	8f2832b02658780	38.5785995	-121.4968009
+1055	Yue Huang	3860 Truxel Rd.	Sacramento	California	95834	8f2832b1b3a2033	38.6380533	-121.5040297
+1056	Caruso's	1773 S. Jameson Ln.	Montecito	California	93108	8f291265d4561b5	34.4200948	-119.6257156
+1057	Shunka	369 E. 17th St., Ste. 17	Costa Mesa	California	92627	8f29a54c04c976c	33.630962	-117.913345
+1058	Vaca	695 Town Center Dr., Ste. 170	Costa Mesa	California	92626	8f29a54daa22981	33.692516	-117.8851
+1059	Taco María	3313 Hyland Blvd., Ste. C21	Costa Mesa	California	92626	8f29a54d9070284	33.6949591	-117.9257477
+1060	Ikko	735 Baker St.	Costa Mesa	California	92626	8f29a54d8c9a425	33.680073	-117.88718
+1061	Knife Pleat	3333 S. Bristol St., Ste. 3001	Costa Mesa	California	92626	8f29a54dab01840	33.6904299	-117.8856979
+1062	AnQi Bistro	3333 Bristol St.	Costa Mesa	California	92626	8f29a54dab0180e	33.69041	-117.88564
+1063	Hana re	2930 Bristol St.	Costa Mesa	California	92626	8f29a54de34e39d	33.6778676	-117.8854377
+1064	Habana	2930 Bristol St.	Costa Mesa	California	92626	8f29a54de34a350	33.6783243	-117.8855569
+1065	Arc Food & Libations	3303 Hyland Ave., Ste. F	Costa Mesa	California	92626	8f29a54d90a3a14	33.6951651	-117.9204203
+1066	Bird Dog	420 Ramona St.	Palo Alto	California	94301	8f283474e59e79a	37.445793	-122.16308
+1067	iTalico	341 California Ave.	Palo Alto	California	94306	8f2834743da925c	37.4269959	-122.1443652
+1068	Evvia	420 Emerson St.	Palo Alto	California	94301	8f283474e59c90c	37.44513	-122.1638
+1069	Zola	565 Bryant St.	Palo Alto	California	94301	8f283475d9667a3	37.445244	-122.160576
+1070	Vina Enoteca	700 Welch Rd., Unit 110	Palo Alto	California	94304	8f283474ed58592	37.437077	-122.17345
+1071	Tamarine	546 University Ave.	Palo Alto	California	94301	8f283475d808cb5	37.4490756	-122.1582014
+1072	Protégé	250 California Ave.	Palo Alto	California	94306	8f2834743d89d55	37.427853	-122.14362
+1073	Ettan	518 Bryant St.	Palo Alto	California	94301	8f283475d961cb6	37.4453988	-122.1614749
+1074	Floret	225 Bowery	New York	New York State	10002	8f2a1072cb8bda1	40.7220028	-73.9932447
+1075	Cafe Sabarsky	1048 Fifth Ave.	New York	New York State	10028	8f2a1008918d89e	40.78131	-73.96028
+1076	The Inn at Pound Ridge	258 Westchester Ave.	Pound Ridge	New York State	10576	8f2a1099a60daa9	41.2096808	-73.5749339
+1077	The Modern	9 W. 53rd St.	New York	New York State	10019	8f2a100d60a178c	40.76106	-73.97628
+1078	X20 Xaviars On the Hudson	71 Water Grant St.	Yonkers	New York State	10701	8f2a1018ac63608	40.9349701	-73.9041524
+1079	R40	47-16 Vernon Blvd.	New York	New York State	11101	8f2a100d012d0e5	40.7450882	-73.953442
+1080	Taboon	773 Tenth Ave.	New York	New York State	10019	8f2a10725973a48	40.76627	-73.991
+1081	Lusardi's	1494 Second Ave.	New York	New York State	10075	8f2a100892202cd	40.77241	-73.95539
+1082	Le Fond	105 Norman Ave.	New York	New York State	11222	8f2a100d1470d9a	40.7257542	-73.9509876
+1083	Barney Greengrass	541 Amsterdam Ave.	New York	New York State	10024	8f2a100882f3aed	40.7878802	-73.9747537
+1084	Secchu Yokota	199 E. 3rd St.	New York	New York State	10009	8f2a100d34e94d9	40.7227804	-73.9831107
+1085	The Four Horsemen	295 Grand St.	New York	New York State	11211	8f2a100dec2b082	40.7129264	-73.9574999
+1086	abcV	38 E. 19th St.	New York	New York State	10003	8f2a100d20c850b	40.7381964	-73.9894202
+1087	Mifune	245 E. 44th St.	New York	New York State	10017	8f2a100d62e6a6c	40.75133	-73.971725
+1088	Jajaja	162 East Broadway	New York	New York State	10002	8f2a1072dd88376	40.7141754	-73.9903202
+1089	Hirohisa	73 Thompson St.	New York	New York State	10012	8f2a1072c18d158	40.72452	-74.003006
+1090	Meritage	1505 Weaver St.	Scarsdale	New York State	10583	8f2a1011374a68e	40.981802	-73.7760616
+1091	Eleven Madison Park	11 Madison Ave.	New York	New York State	10010	8f2a100d200100a	40.7415543	-73.9872414
+1092	Pearl Oyster Bar	18 Cornelia St.	New York	New York State	10014	8f2a1072cd52a88	40.73128	-74.00198
+1093	Estela	47 E. Houston St.	New York	New York State	10012	8f2a1072c8c8b63	40.72471	-73.9948
+1094	Il Buco Alimentari e Vineria	53 Great Jones St.	New York	New York State	10012	8f2a1072c854060	40.726665	-73.992386
+1095	Anella	222 Franklin St.	New York	New York State	11222	8f2a100d02f2a80	40.733246	-73.9580518
+1096	Barawine	200 Lenox Ave.	New York	New York State	10027	8f2a1008dce5504	40.804707	-73.94764
+1097	Bajeko Sekuwa	43-16 Queens Blvd.	New York	New York State	11104	8f2a100d5b9ac6d	40.74307	-73.9209206
+1098	Fausto	348 Flatbush Ave.	New York	New York State	11238	8f2a100da2d3359	40.67612	-73.97174
+1099	Chola	232 E. 58th St.	New York	New York State	10022	8f2a100d6b98874	40.760369	-73.96573
+1100	Mint Premium Foods	19 Main St.	Tarrytown	New York State	10591	8f2a10c587a14ce	41.0768001	-73.859404
+1101	Tuome	536 E. 5th St.	New York	New York State	10009	8f2a100d34e530a	40.724194	-73.9828
+1102	Sottocasa	298 Atlantic Ave.	New York	New York State	11201	8f2a1072984c913	40.6884568	-73.9889416
+1103	Ivan Ramen	25 Clinton St.	New York	New York State	10002	8f2a1072cb6db81	40.720497	-73.98439
+1104	The Loyal	289 Bleecker St.	New York	New York State	10014	8f2a1072cc26cd3	40.732174	-74.003494
+1105	Himalayan Yak	72-20 Roosevelt Ave.	New York	New York State	11372	8f2a100c68d8db4	40.7466017	-73.8927534
+1106	Popina	127 Columbia St.	New York	New York State	11231	8f2a10729032db6	40.6874514	-74.0013993
+1107	Sushi Daizen	47-38 Vernon Blvd.	New York	New York State	11101	8f2a100d0174424	40.744446	-73.953606
+1108	Sushi Amane	245 E. 44th St.	New York	New York State	10017	8f2a100d62e44d0	40.7514424	-73.9717128
+1109	Peasant	194 Elizabeth St.	New York	New York State	10012	8f2a1072caa600a	40.7217176	-73.9944078
+1110	Claro	284 Third Ave.	New York	New York State	11215	8f2a10774d197b5	40.677395	-73.98615
+1111	Buvette	42 Grove St.	New York	New York State	10014	8f2a1072cd1a793	40.7327506	-74.0042557
+1112	Tsukimi	288 E. 10th St.	New York	New York State	10003	8f2a100d3586284	40.7290162	-73.9852509
+1113	Asian Jewels	133-30 39th Ave.	New York	New York State	11354	8f2a100e06110b4	40.7592586	-73.8332919
+1114	Ciccio	190 Sixth Ave.	New York	New York State	10013	8f2a1072c1a20d3	40.726353	-74.003525
+1115	Per Se	10 Columbus Circle	New York	New York State	10019	8f2a1008b268af5	40.7680545	-73.9825882
+1116	The Leopard at Des Artistes	1 W. 67th St.	New York	New York State	10023	8f2a1008bae952a	40.7732594	-73.9785409
+1117	O Mandarin Chinese	361 N. Central Ave.	Hartsdale	New York State	10530	8f2a101a594aa4c	41.0291868	-73.7900816
+1118	Balthazar	80 Spring St.	New York	New York State	10012	8f2a1072c15cb58	40.7227024	-73.9981329
+1119	Sabry's	24-25 Steinway St.	New York	New York State	11102	8f2a100f3896275	40.76834	-73.91112
+1120	Kimika	40 Kenmare St.	New York	New York State	10012	8f2a1072ca80169	40.7205739	-73.9951428
+1121	Pylos	128 E. 7th St.	New York	New York State	10009	8f2a100d3411704	40.7261364	-73.9840047
+1122	The Whitlock	17 Katonah Ave.	Katonah	New York State	10536	8f2a10d409b2303	41.259844	-73.684386
+1123	Craft	43 E. 19th St.	New York	New York State	10003	8f2a100d20c888b	40.738202	-73.9891506
+1124	Casellula	401 W. 52nd St.	New York	New York State	10019	8f2a100d659a0b5	40.7649884	-73.9882319
+1125	Hutong	731 Lexington Ave.	New York	New York State	10022	8f2a100d6160da3	40.761961	-73.9679185
+1126	Danji	346 W. 52nd St.	New York	New York State	10019	8f2a100d64a4353	40.764088	-73.9868
+1127	Tong	321 Starr St.	New York	New York State	11237	8f2a100dc164900	40.70804	-73.9203333
+1128	Via Carota	51 Grove St.	New York	New York State	10014	8f2a1072cd1eaf2	40.7331146	-74.0035517
+1129	Hasaki	210 E. 9th St.	New York	New York State	10003	8f2a1072c975a8b	40.7297441	-73.9887831
+1130	Blue Hill at Stone Barns	630 Bedford Rd.	Tarrytown	New York State	10591	8f2a10c5c8c3b1e	41.1007146	-73.8292966
+1131	Vestry	246 Spring St.	New York	New York State	10013	8f2a1072c193b25	40.7256137	-74.0055581
+1132	Peter Luger	178 Broadway	New York	New York State	11211	8f2a100de574956	40.709889	-73.9625494
+1133	Hwa Yuan	42 East Broadway	New York	New York State	10002	8f2a1072c266ad3	40.7136659	-73.9960893
+1134	Kura	130 St. Marks Pl.	New York	New York State	10003	8f2a100d34336c8	40.7267617	-73.9834994
+1135	Sushi Seki	1143 First Ave.	New York	New York State	10065	8f2a100d6b310b4	40.76196	-73.9606
+1136	Ainslie	76 Ainslie St.	New York	New York State	11211	8f2a100de8b5c2c	40.7124826	-73.9518817
+1137	Miss Lily’s	132 W. Houston St.	New York	New York State	10012	8f2a1072cc41a5c	40.72786	-74.00143
+1138	Shabushabu Mayumon	115 Division St.	New York	New York State	10002	8f2a1072dd9b91a	40.7144011	-73.9921026
+1139	Cut by Wolfgang Puck	99 Church St.	New York	New York State	10007	8f2a107289a2746	40.712927	-74.0094207
+1140	Ko	8 Extra Pl.	New York	New York State	10003	8f2a1072cba49a4	40.7246476	-73.9916056
+1141	The Black Ant	60 Second Ave.	New York	New York State	10003	8f2a1072c868d2d	40.7258548	-73.9896269
+1142	PDA Pizza	669 Union St.	New York	New York State	11215	8f2a10774d75d9a	40.6773423	-73.9827094
+1143	Atomix	104 E. 30th St.	New York	New York State	10016	8f2a100d28de065	40.7443058	-73.9826751
+1144	Ruby's Oyster Bar & Bistro	45 Purchase St.	Rye	New York State	10580	8f2a10100290c14	40.983225	-73.684675
+1145	Locanda Vini e Olii	129 Gates Ave.	New York	New York State	11238	8f2a100daaa311d	40.6848836	-73.9629934
+1146	Lupa	170 Thompson St.	New York	New York State	10012	8f2a1072cc69133	40.7276991	-74.0001044
+1147	Chama Mama	149 W. 14th St.	New York	New York State	10011	8f2a100d279dc68	40.7383451	-73.9986984
+1148	L'inizio	698 Saw Mill River Rd.	Ardsley	New York State	10502	8f2a101a3d5a449	41.0122835	-73.8474191
+1149	Wallsé	344 W. 11th St.	New York	New York State	10014	8f2a10721acccd5	40.7354574	-74.0081949
+1150	aRoqa	206 Ninth Ave.	New York	New York State	10011	8f2a100d259d4b1	40.746166	-74.00148
+1151	Francie	134 Broadway	New York	New York State	11249	8f2a100de52bda5	40.7103459	-73.9637588
+1152	Scampi	30 W. 18th St.	New York	New York State	10011	8f2a100d270546a	40.73913	-73.99341
+1153	Babbo	110 Waverly Pl.	New York	New York State	10011	8f2a1072cd66c19	40.73233	-73.99916
+1154	Little Park	85 West Broadway	New York	New York State	10007	8f2a1072c6554a2	40.7153747	-74.0091118
+1155	Casa Mono	52 Irving Pl.	New York	New York State	10003	8f2a100d238e018	40.735895	-73.9873421
+1156	LaLou	581 Vanderbilt Ave.	New York	New York State	11238	8f2a100da31b51b	40.6806533	-73.9676494
+1157	Sushi Ishikawa	419 E. 74th St.	New York	New York State	10021	8f2a1008924135e	40.7687398	-73.9539469
+1158	Boulud Sud	20 W. 64th St.	New York	New York State	10023	8f2a1008b36272c	40.7718825	-73.9817937
+1159	Abyssinia	268 W. 135th St.	New York	New York State	10030	8f2a1008cb296e9	40.81618	-73.945946
+1160	Soba Totto	211 E. 43rd St.	New York	New York State	10017	8f2a100d62f0660	40.7512396	-73.9733497
+1161	Avant Garden	130 E. 7th St.	New York	New York State	10009	8f2a100d34110d4	40.726143	-73.98395
+1162	Suki	111 First Ave.	New York	New York State	10003	8f2a100d34a0414	40.726954	-73.9859892
+1163	Liebman's	552 W. 235th St.	New York	New York State	10463	8f2a100a5670824	40.8855188	-73.909595
+1164	Sunday in Brooklyn	348 Wythe Ave.	New York	New York State	11249	8f2a100d3265028	40.7142164	-73.9653572
+1165	The Barn at Bedford Post Inn	954 Old Post Rd.	Bedford	New York State	10506	8f2a10d6b124994	41.2190236	-73.6243619
+1166	JoJo	160 E. 64th St.	New York	New York State	10065	8f2a100d6819b18	40.765182	-73.9656
+1167	Le Jardinier New York	610 Lexington Ave.	New York	New York State	10022	8f2a100d6043cd9	40.7579445	-73.9714729
+1168	Orsay	1057 Lexington Ave.	New York	New York State	10021	8f2a100892b1b64	40.7724746	-73.9605803
+1169	Beccofino	5704 Mosholu Ave.	New York	New York State	10462	8f2a1018b6aaa24	40.90527	-73.90048
+1170	Sushi Ginza Onodera	461 Fifth Ave.	New York	New York State	10017	8f2a100d66edc58	40.752396	-73.981575
+1171	Noda	37 W. 20th St.	New York	New York State	10001	8f2a100d2726c12	40.7404543	-73.9930802
+1172	Masa	10 Columbus Circle	New York	New York State	10019	8f2a1008b26d42d	40.76819	-73.98234
+1173	Soothr	204 E. 13th St.	New York	New York State	10003	8f2a100d22f0312	40.7324059	-73.9874378
+1174	Mercato	352 W. 39th St.	New York	New York State	10018	8f2a10725ae5cac	40.755937	-73.9927903
+1175	Fantasy Cuisine	20 N. Central Ave.	Hartsdale	New York State	10530	8f2a101a532ace6	41.0194025	-73.7974697
+1176	Buttermilk Channel	524 Court St.	New York	New York State	11231	8f2a107292e3569	40.6759873	-73.9991027
+1177	Indian Accent	123 W. 56th St.	New York	New York State	10019	8f2a100d6560022	40.764107	-73.97863
+1178	Aoi Kitchen	320 E. 6th St.	New York	New York State	10003	8f2a100d34b3cf4	40.7269748	-73.9876685
+1179	Pasquale Jones	187 Mulberry St.	New York	New York State	10012	8f2a1072ca9428d	40.7211213	-73.9965468
+1180	Clinton St. Baking Company	4 Clinton St.	New York	New York State	10002	8f2a100d3790bb4	40.7213106	-73.9838213
+1181	Mission Ceviche	1400 Second Ave.	New York	New York State	10021	8f2a100892c58d1	40.7692368	-73.9579292
+1182	Tre Otto	1410 Madison Ave.	New York	New York State	10029	8f2a100899b3369	40.7883887	-73.9534066
+1183	Kochi	652 Tenth Ave.	New York	New York State	10036	8f2a10725859d1e	40.7620076	-73.993568
+1184	Raoul's	180 Prince St.	New York	New York State	10012	8f2a1072c1a536d	40.7262802	-74.0020439
+1185	Faun	606 Vanderbilt Ave.	New York	New York State	11238	8f2a100da21d734	40.67825	-73.968704
+1186	Pastis	52 Gansevoort St.	New York	New York State	10014	8f2a10721a06921	40.7393284	-74.0067674
+1187	L'Artusi	228 W. 10th St.	New York	New York State	10014	8f2a1072cda1614	40.733818	-74.00516
+1188	Crown Shy	70 Pine St.	New York	New York State	10005	8f2a107288ea126	40.7067068	-74.0087206
+1189	La Vara	268 Clinton St.	New York	New York State	11201	8f2a107298db0b6	40.6877663	-73.9956114
+1190	Casa Apicii	62 W. 9th St.	New York	New York State	10011	8f2a100d26c0614	40.733635	-73.9981292
+1191	Houseman	508 Greenwich St.	New York	New York State	10018	8f2a1072c55531c	40.725758	-74.009155
+1192	Ernesto's	259 East Broadway	New York	New York State	10002	8f2a1072dd0d05c	40.7143679	-73.9855324
+1193	Rule of Thirds	171 Banker St.	New York	New York State	11222	8f2a100d14c62e5	40.7244929	-73.9550587
+1194	Bamboo Garden	6409 Eighth Ave.	New York	New York State	11220	8f2a10773102cf3	40.633095	-74.01176
+1195	Taverna Kyclades	36-01 Ditmars Blvd.	New York	New York State	11105	8f2a100f06e4cda	40.77437	-73.9082
+1196	Atera	77 Worth St.	New York	New York State	10013	8f2a1072c74ea01	40.7168498	-74.0055912
+1197	La Mercerie	53 Howard St.	New York	New York State	10013	8f2a1072c0ec61b	40.7202691	-74.002183
+1198	Baar Baar	13 E. 1st St.	New York	New York State	10003	8f2a1072c84b7b0	40.7244388	-73.9913729
+1199	Gelso & Grand	186 Grand St.	New York	New York State	10013	8f2a1072c334185	40.7194544	-73.9973999
+1200	Sushi Noz	181 E. 78th St.	New York	New York State	10075	8f2a1008938cce4	40.77384	-73.958275
+1201	Roberto's	603 Crescent Ave.	New York	New York State	10458	8f2a100acb5460c	40.8536779	-73.8882356
+1202	Melba's	300 W. 114th St.	New York	New York State	10026	8f2a1008d5abd08	40.80304	-73.95659
+1203	The Dutch	131 Sullivan St.	New York	New York State	10012	8f2a1072c1a5d65	40.7266199	-74.0021539
+1204	Café Altro Paradiso	234 Spring St.	New York	New York State	10013	8f2a1072c182231	40.7254751	-74.0045848
+1205	Giuliana's	4105 Hylan Blvd.	New York	New York State	10308	8f2a1060dcc67a1	40.53977	-74.14848
+1206	Blue Hill	75 Washington Pl.	New York	New York State	10011	8f2a1072cd75250	40.7319711	-73.9996385
+1207	Hyun	10 E. 33rd St.	New York	New York State	10016	8f2a100d2895759	40.7475556	-73.9845154
+1208	Baker & Co.	259 Bleecker St.	New York	New York State	10014	8f2a1072cc21416	40.7313992	-74.0029852
+1209	Marc Forgione	134 Reade St.	New York	New York State	10013	8f2a1072c608908	40.71656	-74.00956
+1210	Seis Vecinos	640 Prospect Ave.	New York	New York State	10451	8f2a100a90dc14b	40.815186	-73.90339
+1211	Faro	436 Jefferson St.	New York	New York State	11237	8f2a100dc172648	40.7076146	-73.9231041
+1212	La Loncheria	41 Wilson Ave.	New York	New York State	11237	8f2a100dc0d9cae	40.7028887	-73.9293171
+1213	Camillo	1146 Nostrand Ave.	New York	New York State	11225	8f2a107666c9871	40.6411579	-73.9486149
+1214	Periyali	35 W. 20th St.	New York	New York State	10011	8f2a100d20982e9	40.74081	-73.99298
+1215	North Star	85 Westchester Ave.	Pound Ridge	New York State	10576	8f2a1099b2b0619	41.1911166	-73.5543709
+1216	232 Bleecker	232 Bleecker St.	New York	New York State	10014	8f2a1072cc29cb0	40.730392	-74.0025208
+1217	Pippali	129 E. 27th St.	New York	New York State	10016	8f2a100d2140d02	40.7422722	-73.9832953
+1218	Kajitsu	125 E. 39th St.	New York	New York State	10016	8f2a100d291cd1e	40.7499602	-73.9781131
+1219	Shuka	38 MacDougal St.	New York	New York State	10012	8f2a1072cc5d0d3	40.7275048	-74.0026527
+1220	DaXi Sichuan	136-20 Roosevelt Ave., Ste. 2R	New York	New York State	11354	8f2a100e0750110	40.759773	-73.82923
+1221	Purdy's Farmer & the Fish	100 Titicus Rd.	North Salem	New York State	10560	8f2a146db8dd9ad	41.3280818	-73.6559045
+1222	Ulivo	4 W. 28th St.	New York	New York State	10001	8f2a100d21122a2	40.744812	-73.9877
+1223	al di là	248 Fifth Ave.	New York	New York State	11215	8f2a10774d6b82b	40.67539	-73.98139
+1224	Virginia’s	647 E. 11 St.	New York	New York State	10009	8f2a100d3563021	40.7267431	-73.9774482
+1225	LamaLo	11 E. 31st St.	New York	New York State	10016	8f2a100d289a35b	40.7463499	-73.9851832
+1226	Sushi Katsuei	210 Seventh Ave.	New York	New York State	11215	8f2a107748c0654	40.670696	-73.97851
+1227	L’Antagoniste	238 Malcolm X Blvd.	New York	New York State	11221	8f2a100d8a010aa	40.6849777	-73.9295177
+1228	Barbetta	321 W. 46th St.	New York	New York State	10036	8f2a10725b2dc86	40.76022	-73.98841
+1229	Novitá	102 E. 22nd St.	New York	New York State	10010	8f2a100d2051046	40.7392833	-73.9864906
+1230	Blue Ribbon	97 Sullivan St.	New York	New York State	10012	8f2a1072c1aad2c	40.7254987	-74.0030747
+1231	Cookshop	156 Tenth Ave.	New York	New York State	10011	8f2a1072194a792	40.74557	-74.00539
+1232	Shion 69 Leonard Street	69 Leonard St.	New York	New York State	10013	8f2a1072c745684	40.71757	-74.00549
+1233	The Musket Room	265 Elizabeth St.	New York	New York State	10012	8f2a1072cbb332d	40.723915	-73.99375
+1234	Sofreh	75 St. Marks Ave.	New York	New York State	11217	8f2a100da296c60	40.6797663	-73.9741048
+1235	ZZ’s Clam Bar	169 Thompson St.	New York	New York State	10012	8f2a1072cc6bb26	40.727646	-74.00046
+1236	Oxalis	791 Washington Ave.	New York	New York State	11238	8f2a100db50dc99	40.6729122	-73.9627166
+1237	Oxomoco	128 Greenpoint Ave.	New York	New York State	11222	8f2a100d1586405	40.7300224	-73.9555039
+1238	Dirt Candy	86 Allen St.	New York	New York State	10002	8f2a1072ca53698	40.71794	-73.99087
+1239	Jua	36 E. 22nd St.	New York	New York State	10010	8f2a100d20e5b61	40.740014	-73.9874479
+1240	Tamarind	99 Hudson St.	New York	New York State	10013	8f2a1072c7198a6	40.719215	-74.008865
+1241	Cervo’s	43 Canal St.	New York	New York State	10002	8f2a1072dd9dc0d	40.71479	-73.9914
+1242	Alta Calidad	552 Vanderbilt Ave.	New York	New York State	11238	8f2a100da230a35	40.6801476	-73.9681126
+1243	Wayan	20 Spring St.	New York	New York State	10012	8f2a1072cab1ba1	40.7213518	-73.9950963
+1244	Meadowsweet	149 Broadway	New York	New York State	11212	8f2a100de529da3	40.710354	-73.96317
+1245	Maya	1191 First Ave.	New York	New York State	10065	8f2a100d4498c05	40.76325	-73.95968
+1246	Frenchette	241 West Broadway	New York	New York State	10013	8f2a1072c0da5a6	40.719677	-74.005875
+1247	Huertas	107 First Ave.	New York	New York State	10003	8f2a100d34a2a4c	40.726753	-73.98607
+1248	Oceans	233 Park Ave. South	New York	New York State	10003	8f2a100d23b2a4a	40.7376461	-73.9880458
+1249	Casa Ora	148 Meserole St.	New York	New York State	11206	8f2a100de869394	40.7079151	-73.9437907
+1250	The River Café	1 Water St.	New York	New York State	11201	8f2a1072d4482f3	40.7034279	-73.9942984
+1251	Mesa Coyoacán	372 Graham Ave.	New York	New York State	11052	8f2a100d128a583	40.71564	-73.94433
+1252	Mythos	196-29 Northern Blvd.	New York	New York State	11358	8f2a10052d92aea	40.7580878	-73.7846604
+1253	Christos	41-08 23rd Ave.	New York	New York State	11105	8f2a100f3983993	40.7703	-73.90752
+1254	Estrellita Poblana III	2328 Arthur Ave.	New York	New York State	10458	8f2a100acb5641c	40.8538238	-73.8889351
+1255	Manhatta	28 Liberty St.	New York	New York State	10005	8f2a107288e6062	40.7081016	-74.0087716
+1256	Jean-Georges	1 Central Park West	New York	New York State	10023	8f2a100d6c90d5d	40.76907	-73.98155
+1257	le Crocodile	80 Wythe Ave.	New York	New York State	11249	8f2a100d3b50b29	40.7219564	-73.9580595
+1258	Marea	240 Central Park South	New York	New York State	10019	8f2a100d6c9834d	40.767619	-73.9810681
+1259	Persepolis	1407 Second Ave.	New York	New York State	10021	8f2a100892e284a	40.76997	-73.95785
+1260	Frevo	48 W. 8th St.	New York	New York State	10011	8f2a100d26dc388	40.7331992	-73.9988216
+1261	Blanca	261 Moore St.	New York	New York State	11206	8f2a100dc732cd0	40.7049906	-73.9336873
+1262	Lobster Club	98 E. 53rd St.	New York	New York State	10022	8f2a100d605581b	40.75869	-73.971855
+1263	Koyo	37-12 31st Ave.	New York	New York State	11103	8f2a100f309caf4	40.7618476	-73.9184321
+1264	Nakaji	48 Bowery	New York	New York State	10013	8f2a1072c353c04	40.7154236	-73.9969438
+1265	odo	17 W. 20th St.	New York	New York State	10011	8f2a100d20994aa	40.7407048	-73.9929904
+1266	Boathouse Central Park	The Lake at Central Park	New York	New York State	10021	8f2a10089789952	40.77543	-73.96877
+1267	Shanghai Heping	104 Mott St.	New York	New York State	10013	8f2a1072c303a6d	40.7174018	-73.9972882
+1268	db Bistro Moderne	55 W. 44th St.	New York	New York State	10036	8f2a100d6606d00	40.75591	-73.98199
+1269	Lakruwana	668 Bay St.	New York	New York State	10304	8f2a107560c3c52	40.625676	-74.0751404
+1270	Mtskheta Café	2568 86th St.	New York	New York State	11214	8f2a1074019150e	40.59683	-73.985405
+1271	Charlie Bird	5 King St.	New York	New York State	10012	8f2a1072cc5c6ca	40.7277455	-74.0031139
+1272	Hearth	403 E. 12th St.	New York	New York State	10009	8f2a100d35a48d8	40.7300157	-73.9833172
+1273	Gallaghers	228 W. 52nd St.	New York	New York State	10019	8f2a100d6401cc5	40.762928	-73.983864
+1274	Legacy Records	517 W. 38th St.	New York	New York State	10018	8f2a10725a910d5	40.757473	-73.99801
+1275	Il Divo	1347 Second Ave.	New York	New York State	10021	8f2a100892c109d	40.7687696	-73.9584269
+1276	Đi Ăn Đi	68 Greenpoint Ave.	New York	New York State	11222	8f2a100d396ecb4	40.7297087	-73.9581758
+1277	Red Hook Tavern	329 Van Brunt St.	New York	New York State	11231	8f2a107296d141a	40.6778899	-74.0121616
+1278	El Quinto Pino	401 W. 24th St.	New York	New York State	10011	8f2a100d2586c1b	40.7473847	-74.000992
+1279	Atoboy	43 E. 28th St.	New York	New York State	10016	8f2a100d210d128	40.74358	-73.98449
+1280	Electric Lemon	33 Hudson Yards	New York	New York State	10001	8f2a107253a859d	40.7544884	-74.0017767
+1281	Hunan Slurp	112 First Ave.	New York	New York State	10009	8f2a100d34a0772	40.726803	-73.98584
+1282	Madre	214 Franklin St.	New York	New York State	11222	8f2a100d02f3d0a	40.7331171	-73.9578699
+1283	Pera	303 Madison Ave.	New York	New York State	10017	8f2a100d664149d	40.7524	-73.97942
+1284	Bin 71	237 Columbus Ave.	New York	New York State	10023	8f2a1008ba1116b	40.7765241	-73.9793206
+1285	James	605 Carlton Ave.	New York	New York State	11238	8f2a100da285c0a	40.6790929	-73.9717075
+1286	Junoon	19 W. 24th St.	New York	New York State	10010	8f2a100d20a68a9	40.7430797	-73.9908429
+1287	Tori Shin	362 W. 53rd St.	New York	New York State	10019	8f2a100d659d0ac	40.7649985	-73.9869784
+1288	The Flower Shop	107 Eldridge St.	New York	New York State	10002	8f2a1072cac5b8e	40.7180141	-73.9922475
+1289	The Grill	99 E. 52nd St.	New York	New York State	10022	8f2a100d605105d	40.7581462	-73.9722621
+1290	Jungsik	2 Harrison St.	New York	New York State	10013	8f2a1072c626b98	40.718685	-74.00911
+1291	Moti Mahal Delux	1149 First Ave.	New York	New York State	10065	8f2a100d6b3524b	40.7620746	-73.9601273
+1292	Lavagna	545 E. 5th St.	New York	New York State	10009	8f2a100d34566e8	40.7241661	-73.9824654
+1293	Il Gattopardo	13-15 W. 54th St.	New York	New York State	10019	8f2a100d60a0086	40.761513	-73.976494
+1294	Community Food & Juice	2893 Broadway	New York	New York State	10025	8f2a1008891162a	40.8058889	-73.9657314
+1295	Rosella	137 Avenue A	New York	New York State	10009	8f2a100d3431c9e	40.7271207	-73.9828623
+1296	Sushi of Gari	402 E. 78th St.	New York	New York State	10075	8f2a1008935db02	40.77121	-73.95266
+1297	Sushi Ann	38 E. 51st St.	New York	New York State	10022	8f2a100d60e844e	40.75778	-73.97398
+1298	Noreetuh	128 First Ave.	New York	New York State	10009	8f2a100d358a65a	40.7274743	-73.9853233
+1299	Eléa	217 W. 85th St.	New York	New York State	10024	8f2a1008b92c812	40.7873024	-73.9766604
+1300	Upland	345 Park Ave. South	New York	New York State	10019	8f2a100d215178b	40.7419368	-73.984712
+1301	La Grenouille	3 E. 52nd St.	New York	New York State	10022	8f2a100d60f4cca	40.75973	-73.9755
+1302	Le Coucou	138 Lafayette St.	New York	New York State	10013	8f2a1072c04a6c5	40.719162	-74.00001
+1303	The Clam	420 Hudson St.	New York	New York State	10014	8f2a1072cca9da9	40.730293	-74.006714
+1304	Farra	71 Worth St.	New York	New York State	10013	8f2a1072c74e125	40.7169774	-74.0057409
+1305	El Nuevo Bohío	791 E. Tremont Ave.	New York	New York State	10460	8f2a100adc08b1b	40.84395	-73.88809
+1306	Café Salmagundi	51 Irving Pl.	New York	New York State	10003	8f2a100d238e4e9	40.7358831	-73.9875404
+1307	Kanoyama	175 Second Ave.	New York	New York State	10003	8f2a100d22cc025	40.7306576	-73.9864662
+1308	Red Rooster	310 Lenox Ave.	New York	New York State	10027	8f2a1008dd08cda	40.8081627	-73.9449699
+1309	Kyma	15 W. 18th St.	New York	New York State	10011	8f2a100d272800d	40.73877	-73.9923
+1310	Gabriel Kreuther	41 W. 42nd St.	New York	New York State	10036	8f2a100d66e4910	40.75397	-73.982025
+1311	Sushi Zo	88 W. 3rd St.	New York	New York State	10012	8f2a1072cd4d09b	40.729897	-73.99912
+1312	Cote	16 W. 22nd St.	New York	New York State	10010	8f2a100d2081071	40.7414233	-73.9914627
+1313	Ai Fiori	400 Fifth Ave.	New York	New York State	10018	8f2a100d29922eb	40.75013	-73.98357
+1314	Hide-Chan Ramen	248 E. 52nd St.	New York	New York State	10022	8f2a100d6322373	40.756296	-73.9681187
+1315	Le Bernardin	155 W. 51st St.	New York	New York State	10019	8f2a100d64701a8	40.76177	-73.98223
+1316	Rezdôra	27 E. 20th St.	New York	New York State	10003	8f2a100d20c1971	40.7390046	-73.9890088
+1317	Angelina’s	399 Ellis St.	New York	New York State	10307	8f2a106e60b55ad	40.51395	-74.25117
+1318	Loring Place	21 W. 8th St.	New York	New York State	10011	8f2a100d26c891a	40.7327626	-73.9974029
+1319	Aska	47 S. 5th St.	New York	New York State	11249	8f2a100d3248d93	40.7125069	-73.9669769
+1320	Benoit	60 W. 55th St.	New York	New York State	10019	8f2a100d619a343	40.76245	-73.97722
+1321	Red Paper Clip	120 Christopher St.	New York	New York State	10014	8f2a1072cdaa164	40.7331693	-74.005433
+1322	Goosefeather	49 E. Sunnyside Ln.	Tarrytown	New York State	10591	8f2a101a6514872	41.04811	-73.85851
+1323	Tsushima	210 E. 44th St.	New York	New York State	10017	8f2a100d62f4c98	40.7519204	-73.9731219
+1324	I Sodi	105 Christopher St.	New York	New York State	10014	8f2a1072cda8c12	40.733334	-74.00503
+1325	Village Cafe	1968 Coney Island Ave.	New York	New York State	11223	8f2a10744a9b372	40.6092817	-73.9624299
+1326	Patricia’s	1082 Morris Park Ave.	New York	New York State	10461	8f2a100116d401c	40.8493908	-73.8536198
+1327	Wolfgang's	4 Park Ave.	New York	New York State	10016	8f2a100d28ab84d	40.7466568	-73.9820039
+1328	Cosme	35 E. 21st St.	New York	New York State	10010	8f2a100d20eeca1	40.7394428	-73.9884704
+1329	Union Square Cafe	101 E. 19th St.	New York	New York State	10003	8f2a100d23b07a2	40.7377385	-73.9879013
+1330	Dons Bogam	17 E. 32nd St.	New York	New York State	10016	8f2a100d289ca93	40.74689	-73.98429
+1331	Lola Taverna	210 Sixth Ave.	New York	New York State	10014	8f2a1072cc5b368	40.7269961	-74.0033051
+1332	M. Wells	43-15 Crescent St.	New York	New York State	11101	8f2a100d559381c	40.748543	-73.94241
+1333	Chef's Table at Brooklyn Fare	431 W. 37th St.	New York	New York State	10018	8f2a10725a8bbb4	40.7560823	-73.9964997
+1334	L'Atelier de Joël Robuchon	85 Tenth Ave.	New York	New York State	10011	8f2a1072185915e	40.7428946	-74.0077138
+1335	Citroën	931 Manhattan Ave.	New York	New York State	11222	8f2a100d025b49c	40.7311693	-73.9547516
+1336	Kokomo	65 Kent Ave.	New York	New York State	11249	8f2a100d3a21434	40.7220087	-73.9597982
+1337	Emilio's Ballato	55 E. Houston St.	New York	New York State	10012	8f2a1072c8cd0cd	40.7246827	-73.994544
+1338	2nd Avenue Deli	162 E. 33rd St.	New York	New York State	10016	8f2a100d285248b	40.74521	-73.97943
+1339	Maki Kosaka	55 W. 19th St.	New York	New York State	10011	8f2a100d2735606	40.7401664	-73.993784
+1340	Copper House	11 Taylor Sq.	West Harrison	New York State	10604	8f2a10c49a0269b	41.0419675	-73.748355
+1341	Il Cortile	125 Mulberry St.	New York	New York State	10013	8f2a1072c3025a3	40.7179797	-73.998164
+1342	The Odeon	145 West Broadway	New York	New York State	10013	8f2a1072c75a405	40.7169	-74.00786
+1343	Seppe Pizza Bar	3 Navy Pier Ct.	New York	New York State	10304	8f2a10756014c4e	40.6294612	-74.0740369
+1344	The Fulton	89 South St.	New York	New York State	10038	8f2a1072d4d6505	40.7054388	-74.0009441
+1345	Bâtard	239 West Broadway	New York	New York State	10013	8f2a1072c0da4a5	40.719616	-74.00589
+1346	Hūso	1067 Madison Ave.	New York	New York State	10028	8f2a100890c6a13	40.7773502	-73.9612342
+1347	Gigino at Wagner Park	20 Battery Pl.	New York	New York State	10004	8f2a1072818b4d8	40.70522	-74.01848
+1348	Kissaki	319 Bowery	New York	New York State	10003	8f2a1072c85c342	40.7254257	-73.9919888
+1349	Aburiya Kinnosuke	213 E. 45th St.	New York	New York State	10017	8f2a100d621e00b	40.7525168	-73.9723808
+1350	Foragers Table	300 W. 22nd St.	New York	New York State	10011	8f2a100d241581e	40.7447512	-73.9991383
+1351	Caviar Russe	538 Madison Ave.	New York	New York State	10022	8f2a100d60006d4	40.760685	-73.97355
+1352	Contra	138 Orchard St.	New York	New York State	10002	8f2a1072ca29774	40.719917	-73.98922
+1353	Saraghina	435 Halsey St.	New York	New York State	11233	8f2a100d8326662	40.683554	-73.9353191
+1354	Golden Unicorn	18 East Broadway	New York	New York State	10002	8f2a1072c275612	40.7136419	-73.997051
+1355	OKO Rye	29 Purchase St.	Rye	New York State	10580	8f2a101002917ad	40.9826152	-73.6844592
+1356	Casa	72 Bedford St.	New York	New York State	10014	8f2a1072cc3338d	40.7315258	-74.0048554
+1357	Silver Apricot	20 Cornelia St.	New York	New York State	10014	8f2a1072cd52129	40.7313916	-74.0020343
+1358	Wicked Jane	15 W. 8th St.	New York	New York State	10011	8f2a100d26cd192	40.7326867	-73.9970571
+1359	Keens	72 W. 36th St.	New York	New York State	10018	8f2a100d2d738d4	40.7507355	-73.9862706
+1360	Kafana	116 Avenue C	New York	New York State	10009	8f2a100d3092c14	40.72424	-73.97837
+1361	L’Appart	225 Liberty St.	New York	New York State	10281	8f2a10728d51cd9	40.7121897	-74.0155187
+1362	Fette Sau	354 Metropolitan Ave.	New York	New York State	11211	8f2a100ded52808	40.71417	-73.95634
+1363	Vinegar Hill House	72 Hudson Ave.	New York	New York State	11201	8f2a1072da93d74	40.70266	-73.98139
+1364	Locanda Verde	377 Greenwich St.	New York	New York State	10013	8f2a1072c71e58a	40.7199	-74.00987
+1365	Portale	126 W. 18th St.	New York	New York State	10011	8f2a100d244b040	40.7401493	-73.9960021
+1366	Casa Bocado	341 Broome St.	New York	New York State	10013	8f2a1072ca8d485	40.7195238	-73.9946104
+1367	Çka Ka Qëllu	2321 Hughes Ave.	New York	New York State	10458	8f2a100acb54b01	40.8538012	-73.8878119
+1368	Sushi Yasuda	204 E. 43rd St.	New York	New York State	10017	8f2a100d62f3564	40.75108	-73.97364
+1369	Daniel	60 E. 65th St.	New York	New York State	10065	8f2a100d68a195a	40.7667521	-73.9675039
+1370	Sushi Yasaka	251 W. 72nd St.	New York	New York State	10024	8f2a1008b16149d	40.7794864	-73.9835385
+1371	Chez Ma Tante	92 Calyer St.	New York	New York State	11222	8f2a100d1482b8b	40.72686	-73.95745
+1372	EN Japanese Brasserie	435 Hudson St.	New York	New York State	10014	8f2a1072cca8196	40.73053	-74.00706
+1373	Tempura Matsui	222 E. 39th St.	New York	New York State	10158	8f2a100d2971166	40.7483542	-73.9748599
+1374	Hart's	506 Franklin Ave.	New York	New York State	11238	8f2a100daa6942c	40.6813202	-73.9557486
+1375	Da Franco & Tony Ristorante	2815 Middletown Rd.	New York	New York State	10461	8f2a1001c51c516	40.8435451	-73.8361459
+1376	Gramercy Tavern	42 E. 20th St.	New York	New York State	10003	8f2a100d20c1a4c	40.7387578	-73.988991
+1377	Casa Enrique	5-48 49th Ave.	New York	New York State	11101	8f2a100d017369b	40.7434588	-73.9542808
+1378	Great N.Y. Noodletown	28 Bowery	New York	New York State	10013	8f2a1072c22d9aa	40.7150302	-73.9970469
+1379	15 East at Tocqueville	1 E. 15th St.	New York	New York State	10003	8f2a100d2751c85	40.7366741	-73.9929703
+1380	Aquavit	65 E. 55th St.	New York	New York State	10022	8f2a100d602e764	40.76078	-73.97214
+1381	Mary's Fish Camp	64 Charles St.	New York	New York State	10014	8f2a1072cd32cc3	40.7348221	-74.003258
+1382	Il Fiorista	17 W. 26th St.	New York	New York State	10010	8f2a100d2181309	40.7440247	-73.9893729
+1383	Majorelle	28 E. 63rd St.	New York	New York State	10065	8f2a100d68814f1	40.76587	-73.96918
+1384	Sushi Nakazawa	23 Commerce St.	New York	New York State	10014	8f2a1072cc31411	40.731716	-74.00451
+1385	Balaboosta	611 Hudson St.	New York	New York State	10014	8f2a10721a0d0cd	40.7375986	-74.0057505
+1386	Jeju Noodle Bar	679 Greenwich St.	New York	New York State	10014	8f2a1072cd9c294	40.732952	-74.00744
+1387	Tiny's	135 West Broadway	New York	New York State	10013	8f2a1072c629a9c	40.7167787	-74.0081487
+1388	Minetta Tavern	113 MacDougal St.	New York	New York State	10012	8f2a1072cd5996c	40.7299922	-74.0005355
+1389	King	18 King St.	New York	New York State	10014	8f2a1072cc58d83	40.727753	-74.003293
+1390	Fumo	1600 Amsterdam Ave.	New York	New York State	10031	8f2a1008c82961a	40.821407	-73.95047
+1391	Don Angie	103 Greenwich Ave.	New York	New York State	10014	8f2a10721b48140	40.7377741	-74.0019745
+1392	Jake's Steakhouse	6031 Broadway	New York	New York State	10471	8f2a100a5169c98	40.8919091	-73.8973202
+1393	The Clocktower	5 Madison Ave.	New York	New York State	10010	8f2a100d200ec25	40.7413666	-73.9875324
+1394	4 Charles Prime Rib	4 Charles St.	New York	New York State	10014	8f2a100d268ace8	40.7352707	-74.0004955
+1395	Kosaka	220 W. 13th St.	New York	New York State	10011	8f2a10721b6a24c	40.738316	-74.00137
+1396	Empellón	510 Madison Ave.	New York	New York State	10022	8f2a100d60191ac	40.75973	-73.97419
+1397	Thái So´n	89 Baxter St.	New York	New York State	10013	8f2a1072c3a9366	40.7169328	-73.9995579
+1398	Aldo Sohm Wine Bar	151 W. 51st St.	New York	New York State	10019	8f2a100d6462433	40.7614372	-73.9815108
+1399	Porter House	10 Columbus Circle	New York	New York State	10019	8f2a1008b26d42d	40.76819	-73.98234
+1400	MP Taverna	1 Bridge St.	Irvington	New York State	10533	8f2a101b5ab26c2	41.0399018	-73.8734078
+1401	Flex Mussels	174 E. 82nd St.	New York	New York State	10028	8f2a1008904eb60	40.7763571	-73.9564522
+1402	Carbone	181 Thompson St.	New York	New York State	10003	8f2a1072cc68b54	40.727966	-74.00017
+1403	Karasu	166 Dekalb Ave.	New York	New York State	11217	8f2a100da182884	40.6895955	-73.9731955
+1404	Guan Fu Sichuan	39-16 Prince St.	New York	New York State	11354	8f2a100e0606654	40.7594864	-73.8324454
+1405	Shun	610 Lexington Ave.	New York	New York State	10022	8f2a100d6043880	40.7579756	-73.9712766
+1406	Coarse	306 W. 13th St.	New York	New York State	10014	8f2a10721b55736	40.7392199	-74.0034825
+1407	Le Gigot	18 Cornelia St.	New York	New York State	10014	8f2a1072cd50428	40.73141	-74.00169
+1408	Coast & Valley	587 Manhattan Ave.	New York	New York State	11222	8f2a100d144b0f4	40.7229008	-73.9504887
+1409	Schilling	109 Washington St.	New York	New York State	10006	8f2a10728c69ae8	40.708633	-74.014145
+1410	Macelleria Italian Steakhouse	142 Fifth Ave.	Village of Pelham	New York State	10803	8f2a10030451a12	40.9133018	-73.8085114
+1411	zero otto nove	2357 Arthur Ave.	New York	New York State	10458	8f2a100acb0cb9b	40.8549046	-73.8882875
+1412	Xixa	241 S. 4th St.	New York	New York State	11211	8f2a100dece9946	40.710365	-73.95857
+1413	Winner	367 7th Ave.	New York	New York State	11215	8f2a1077404661b	40.6656896	-73.9829381
+1414	Win Son	159 Graham Ave.	New York	New York State	11206	8f2a100deb35005	40.7072662	-73.9431171
+1415	West New Malaysia	46-48 Bowery	New York	New York State	10013	8f2a1072c350d06	40.715866	-73.9966263
+1416	Vinum	704 Bay St.	New York	New York State	10304	8f2a107560c8416	40.624893	-74.074715
+1417	Via Vai	31-09 23rd Ave.	New York	New York State	11105	8f2a100f0699298	40.7743579	-73.9127312
+1418	Van Đa	234 E. 4th St.	New York	New York State	10009	8f2a100d34ec2e9	40.7233393	-73.9828147
+1419	Una Pizza Napoletana	175 Orchard St.	New York	New York State	10002	8f2a1072cb56812	40.721645	-73.988464
+1420	Ugly Baby	407 Smith St.	New York	New York State	11231	8f2a1072922885e	40.67796	-73.99616
+1421	Turkish Kitchen	386 Third Ave.	New York	New York State	10016	8f2a100d216dceb	40.74183	-73.98119
+1422	Tredici Social	104 Kraft Ave.	Bronxville	New York State	10708	8f2a1018d9309b3	40.9404952	-73.8343981
+1423	Tra Di Noi	622 E. 187th St.	New York	New York State	10458	8f2a100134da52c	40.855078	-73.8867319
+1424	Tong Sam Gyup Goo Yi	162-23 Depot Rd.	New York	New York State	11358	8f2a100e57abd50	40.762066	-73.803024
+1425	Tonchin	13 W. 36th St.	New York	New York State	10018	8f2a100d2d6e8b4	40.7501	-73.98443
+1426	Tomiño	192 Grand St.	New York	New York State	10013	8f2a1072c334a69	40.7192874	-73.9970594
+1427	The Cookery	39 Chestnut St.	Dobbs Ferry	New York State	10522	8f2a10184d2b171	41.0142288	-73.8764403
+1428	Thai Diner	186 Mott St.	New York	New York State	10012	8f2a1072ca8664b	40.7207604	-73.9957134
+1429	Tanoreen	7523 Third Ave.	New York	New York State	11209	8f2a10773489698	40.6309	-74.02772
+1430	Sweet Yummy House	83-13 Broadway	New York	New York State	11373	8f2a100c47994eb	40.7410226	-73.8795532
+1431	Suyo Gastrofusion	1401 Plaza Dr.	New York	New York State	10452	8f2a100a8c5b782	40.8404805	-73.9181442
+1432	Spy C Cuisine	72-06 Austin St.	New York	New York State	11375	8f2a100ead9c5a4	40.7191046	-73.8423766
+1433	Speedy Romeo	376 Classon Ave.	New York	New York State	11238	8f2a100dab12394	40.6874812	-73.959801
+1434	Southern Table	39 Marble Ave.	Pleasantville	New York State	10570	8f2a10c4469645b	41.1320052	-73.7914087
+1435	Somtum Der	85 Avenue A	New York	New York State	10009	8f2a100d341b519	40.725124	-73.98434
+1436	Soba-Ya	229 E. 9th St.	New York	New York State	10003	8f2a1072c960896	40.7295987	-73.9879379
+1437	Shiraz Kitchen	83 E. Main St.	Elmsford	New York State	10523	8f2a10c4a6dc852	41.0533687	-73.8153372
+1438	Shalom Japan	301 S. 4th St.	New York	New York State	11211	8f2a100dec492d0	40.7093651	-73.9557659
+1439	SaRanRom Thai	8110 Broadway	New York	New York State	11373	8f2a100c6b72025	40.7432134	-73.8836391
+1440	San Matteo	1739 Second Ave.	New York	New York State	10128	8f2a10089b848f2	40.78042	-73.950096
+1441	Saint Julivert Fisherie	264 Clinton St.	New York	New York State	11201	8f2a107298dbcf6	40.6878747	-73.995614
+1442	Sagara	98 Victory Blvd.	New York	New York State	10301	8f2a10756cb47a2	40.6378423	-74.0797638
+1443	Russ & Daughters Cafe	127 Orchard St.	New York	New York State	10002	8f2a1072ca76708	40.7195313	-73.9895477
+1444	Runner & Stone	285 Third Ave.	New York	New York State	11215	8f2a10774d196da	40.677254	-73.98619
+1445	Ruffian	125 E. 7th St.	New York	New York State	10009	8f2a100d3410285	40.7263854	-73.984228
+1446	Rubirosa	235 Mulberry St.	New York	New York State	10012	8f2a1072c1686a1	40.722725	-73.9962
+1447	Roberta's	261 Moore St.	New York	New York State	11206	8f2a100dc449d6e	40.70503	-73.93411
+1448	Rangoon	500 Prospect Pl.	New York	New York State	11238	8f2a100dbcabae0	40.6757788	-73.9600392
+1449	Rafele Rye	26 Purchase St.	Rye	New York State	10580	8f2a10100291271	40.9824806	-73.6841905
+1450	RaaSa	145 E. Main St.	Elmsford	New York State	10523	8f2a101a4986098	41.0514548	-73.8127924
+1451	Purple Yam	1314 Cortelyou Rd.	New York	New York State	11226	8f2a10775254dae	40.64047	-73.96565
+1452	Prune	54 E. 1st St.	New York	New York State	10003	8f2a1072cb06129	40.72381	-73.98921
+1453	Pinch Chinese	177 Prince St.	New York	New York State	10012	8f2a1072c1a5b36	40.7264798	-74.0019829
+1454	Pierozek	592 Manhattan Ave.	New York	New York State	11222	8f2a100d14485b0	40.7234369	-73.9504293
+1455	Phayul	37-59 74th St.	New York	New York State	11372	8f2a100c68c0936	40.7473463	-73.8912572
+1456	Pata Cafe	56-14 Van Horn St.	New York	New York State	11373	8f2a100c08a0833	40.732548	-73.8767
+1457	Oso	1618 Amsterdam Ave.	New York	New York State	10031	8f2a1008c82d09a	40.8219	-73.95009
+1458	Olmsted	659 Vanderbilt Ave.	New York	New York State	11238	8f2a100da2e0714	40.677097	-73.968994
+1459	Nyonya	199 Grand St.	New York	New York State	10013	8f2a1072c3358a0	40.7191602	-73.9969395
+1460	Norma Gastronomia Siciliana	438 Third Ave.	New York	New York State	10016	8f2a100d2bb6740	40.7435537	-73.9797615
+1461	Nami Nori	33 Carmine St.	New York	New York State	10014	8f2a1072cc2b56c	40.7302491	-74.003079
+1462	Momofuku Noodle Bar	171 First Ave.	New York	New York State	10003	8f2a100d358485b	40.72922	-73.98442
+1463	Miss Mamie's Spoonbread Too	366 W. 110th St.	New York	New York State	10025	8f2a1008d4b37a3	40.8015558	-73.9607087
+1464	Miss Ada	184 DeKalb Ave.	New York	New York State	11205	8f2a100da1842ed	40.6896523	-73.9723305
+1465	Mile End	97A Hoyt St.	New York	New York State	11217	8f2a10729b35a58	40.687473	-73.98702
+1466	Mexicosina	503 Jackson Ave.	New York	New York State	10455	8f2a100a96199b5	40.8118377	-73.9096505
+1467	Memories of Shanghai	68-60 Austin St.	New York	New York State	11375	8f2a100c53a069c	40.7224039	-73.851099
+1468	Mar's	34-21 34th Ave.	New York	New York State	11106	8f2a100f378aaf3	40.7582783	-73.9241195
+1469	Maria Restaurant	11 Huguenot St.	New Rochelle	New York State	10801	8f2a1003508210c	40.914265	-73.7736953
+1470	Mao Mao	1000 Broadway	New York	New York State	11221	8f2a100d89ae4f1	40.6958409	-73.9334871
+1471	MáLà Project	122 First Ave.	New York	New York State	10009	8f2a100d34a4055	40.7272262	-73.9854205
+1472	Maison Yaki	626 Vanderbilt Ave.	New York	New York State	11238	8f2a100da2e606a	40.6774477	-73.9690945
+1473	Luzzo's	211-13 First Ave.	New York	New York State	10003	8f2a100d2259928	40.7305	-73.98349
+1474	Llama Inn	50 Withers St.	New York	New York State	11211	8f2a100d16ec9a3	40.716683	-73.9503574
+1475	Little Alley	550 Third Ave.	New York	New York State	10016	8f2a100d29536d1	40.747356	-73.977005
+1476	Legend of Taste	2002 Utopia Pkwy.	New York	New York State	11357	8f2a1000b696c89	40.779633	-73.79398
+1477	La Morada	308 Willis Ave.	New York	New York State	10454	8f2a100ab36594c	40.81067	-73.921715
+1478	La Cueva Fonda	961 Leggett Ave.	New York	New York State	10455	8f2a100a90ed312	40.8151979	-73.9003727
+1479	Kung Fu Little Steamed Buns Ramen	811 Eighth Ave.	New York	New York State	10019	8f2a100d64f2b6c	40.7615485	-73.9867528
+1480	Kubeh	464 Sixth Ave.	New York	New York State	10011	8f2a100d26a9ae6	40.73553	-73.998116
+1481	Klein's	97 Wythe Ave.	New York	New York State	11249	8f2a100d3b5a474	40.7208512	-73.9587875
+1482	Khe-Yo	157 Duane St.	New York	New York State	10013	8f2a1072c62b171	40.716835	-74.00879
+1483	Katz's	205 E. Houston St.	New York	New York State	10002	8f2a1072cb7618c	40.72235	-73.98743
+1484	Jin Ramen	3183 Broadway	New York	New York State	10027	8f2a1008c076b5c	40.8155761	-73.9586245
+1485	J.G. Melon	1291 Third Ave.	New York	New York State	10021	8f2a100892a95b4	40.77117	-73.95929
+1486	Hupo	1007 50th Ave.	New York	New York State	11101	8f2a100d0143928	40.7426369	-73.9533994
+1487	Hunan Bistro	96 Third Ave.	New York	New York State	10003	8f2a100d22f2272	40.7323	-73.98802
+1488	Hometown Barbecue New York	454 Van Brunt St.	New York	New York State	11231	8f2a10776c2ac29	40.6748778	-74.016067
+1489	Hao Noodle and Tea	401 Sixth Ave.	New York	New York State	10014	8f2a1072cd2d943	40.7334027	-73.9998044
+1490	hanon	436 Union Ave.	New York	New York State	11211	8f2a100de99e8ce	40.7135028	-73.9514857
+1491	HanGawi	12 E. 32nd St.	New York	New York State	10016	8f2a100d289852c	40.74666	-73.98482
+1492	Hahm Ji Bach	40-11 149th Pl.	New York	New York State	11355	8f2a100e0a164e9	40.7630855	-73.8149154
+1493	Haenyeo	239 Fifth Ave.	New York	New York State	11215	8f2a10774d6b365	40.6751466	-73.9814087
+1494	Gregory’s 26 Corner Taverna	26-02 23rd Ave.	New York	New York State	11105	8f2a100f2a71833	40.7764686	-73.915939
+1495	Gordo's Cantina	140 St. Nicholas Ave.	New York	New York State	11237	8f2a100dca16573	40.7049991	-73.9175292
+1496	Glasserie	95 Commercial St.	New York	New York State	11222	8f2a100d03a164a	40.737694	-73.95604
+1497	Georgian Cuisine	8309 Third Ave.	New York	New York State	11209	8f2a10754a71c99	40.6254443	-74.0301038
+1498	Gentle Perch	112 Graham Ave.	New York	New York State	11206	8f2a100deb0c2de	40.7051654	-73.9427722
+1499	Forsythia	9 Stanton St.	New York	New York State	10002	8f2a1072cb8c8db	40.7225817	-73.9924978
+1500	For All Things Good	343 Franklin Ave.	New York	New York State	11238	8f2a100dab23475	40.6876752	-73.9568935
+1501	Enzo’s of Williamsbridge	1998 Williamsbridge Rd.	New York	New York State	10451	8f2a10011790628	40.8541844	-73.8542303
+1502	Enoteca Maria	27 Hyatt St.	New York	New York State	10301	8f2a1070ba53d5d	40.64187	-74.077255
+1503	El Molcajete	1506-1508 Westchester Ave.	New York	New York State	10472	8f2a100ad34e79b	40.8286092	-73.8797398
+1504	East Harbor Seafood Palace	714-726 65th St.	New York	New York State	11220	8f2a107731a3c2d	40.63343	-74.01442
+1505	Dubrovnik	721 Main St.	New Rochelle	New York State	10801	8f2a10031ca30cd	40.9035486	-73.7890443
+1506	Double Zero	65 Second Ave.	New York	New York State	10003	8f2a1072c86c4c5	40.726025	-73.98962
+1507	Don Antonio by Starita	309 W. 50th St.	New York	New York State	10019	8f2a100d64a8adb	40.762607	-73.9866896
+1508	DOMODOMO	138-140 W. Houston St.	New York	New York State	10012	8f2a1072cc41050	40.727924	-74.00166
+1509	Dim Sum Go Go	5 East Broadway	New York	New York State	10038	8f2a1072c271489	40.7133818	-73.9974181
+1510	Cotenna	21 Bedford St.	New York	New York State	10014	8f2a1072cc544d0	40.729053	-74.00354
+1511	Convivium Osteria	68 Fifth Ave.	New York	New York State	11217	8f2a100da628716	40.68102	-73.977394
+1512	Congee Village	100 Allen St.	New York	New York State	10002	8f2a1072ca56b76	40.7188148	-73.9903234
+1513	Claudy's Kitchen	5981 Broadway	New York	New York State	10471	8f2a100a5a9a409	40.8890987	-73.8987909
+1514	Chuan Tian Xia	5502 Seventh Ave.	New York	New York State	11220	8f2a107706c86eb	40.6396599	-74.0090575
+1515	Cho Dang Gol	55 W. 35th St.	New York	New York State	10001	8f2a100d2d46754	40.7502	-73.98616
+1516	Chavela’s	736 Franklin Ave.	New York	New York State	11238	8f2a100dbc5a5a2	40.6734308	-73.9570421
+1517	Cardamom	43-45 43rd St.	New York	New York State	11104	8f2a100d5b9299a	40.7442458	-73.9212189
+1518	Caleta 111 Cevicheria	111-27 Jamaica Ave.	New York	New York State	11418	8f2a100ea2cad8e	40.6974281	-73.8365649
+1519	Café Alaia	128 Garth Rd.	Scarsdale	New York State	10583	8f2a101ac44e810	40.9868746	-73.8099321
